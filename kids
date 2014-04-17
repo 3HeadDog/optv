@@ -1,0 +1,43 @@
+version=1
+background=http://opensatuk.com/image/data/banner2.gif
+title=[COLOR=FFFFFF00][B]Kids[/B][/COLOR]
+logo=http://opensatuk.com/image/data/banner2.gif
+description=[COLOR=FFFFFF00]Kids[/COLOR]/description
+
+/description
+
+type=video
+name=CBEEBIES
+thumb=http://www.schooljotter.com/imagefolders/dafen/cbeebies_logo_400.jpg
+URL=http://cdn.live.tvplayer.simplestream.com/coder8/coder.channels.channel14/hls/3/playlist.m3u8
+
+type=video
+name=CBBC
+thumb=http://cdn.live.tvplayer.simplestream.com/coder7/coder.channels.channel4/hls/3/playlist.m3u8
+URL=http://www.woapa.co.uk/upload/U584063_cbbc_logo.jpg
+
+type=video
+name=Nick Kids
+thumb=http://1.bp.blogspot.com/-QhvU9gKXkno/TXk2BYtMxUI/AAAAAAAAG4Y/9lEgYanF7hQ/s1600/nickelodeon%252B%25255B%25255D_jpg.png
+URL=rtmpe://107.150.45.130:1935/goLive playpath=a0JvBbGBECShl4d swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#
+
+type=video
+name=Cartoon Network
+thumb=http://www.graphics99.com/wp-content/uploads/2012/06/cartoon.png
+URL=rtmpe://173.208.201.162:1935/goLive playpath=eZ7xZHVw5Grm0Z5 swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#
+
+type=video
+name=Kix
+URL=http://amotv.6te.net/tot.php?e584e0adae6440eab366f5fe3a824f91
+
+type=video
+name=
+thumb=
+URL=
+
+type=video
+name=
+thumb=
+URL=
+	
+# cached
