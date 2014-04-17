@@ -1,0 +1,37 @@
+<poster>[COLOR lightgoldenrodyellow][B]Live TV[/B][/COLOR]</poster>
+<fanart>http://opensatuk.com/image/data/banner2.gif</fanart>
+
+
+
+FOR MULTIPLE DIRECTORIES - CUT DOWN THE CODE YOU WOULD NORMALLY HAVE TO TYPE!  LOOKS CLEANER!  EASIER TO READ!
+<directories>
+	
+	<name>[COLOR red][B]OpenSatUK.The One 4 TV[/B][/COLOR]</name>
+	<thumbnail>http://opensatuk.com/image/data/banner2.gif</thumbnail>
+	<link>home/kev/Downloads/Builds/.xml</link>
+	
+	<name>[COLOR steelblue][B]Entertainments[/B][/COLOR]</name>
+	<thumbnail>http://opensatuk.com/Banners/livetv.jpg</thumbnail>
+	<link>/home/kev/Downloads/Builds/Entertainments.xml</link>
+
+	<name>[COLOR steelblue][B]Movies[/B][/COLOR]</name>
+	<thumbnail>http://opensatuk.com/Banners/Movies.jpg</thumbnail>
+	<link>/home/kev/Downloads/Builds/Movies.xml</link>
+	
+	<name>[COLOR steelblue][B]Sports[/B][/COLOR]</name>
+	<thumbnail>http://opensatuk.com/Banners/banner_sports.gif</thumbnail>
+	<link>/home/kev/Downloads/Builds/Sports.xml</link>
+
+	<name>[COLOR steelblue][B]Music[/B][/COLOR]</name>
+	<thumbnail>http://opensatuk.com/Banners/music.jpg</thumbnail>
+	<link>/home/kev/Downloads/Builds/Music.xml</link>
+	
+	<name>[COLOR steelblue][B]Documentaries[/B][/COLOR]</name>
+	<thumbnail>http://opensatuk.com/Banners/Documentaries.jpg</thumbnail>
+	<link>/home/kev/Downloads/Builds/Documentaries.xml</link>
+
+	<name>[COLOR steelblue][B]Kids[/B][/COLOR]</name>
+	<thumbnail>http://opensatuk.com/Banners/4kids-logo.jpg</thumbnail>
+	<link>/home/kev/Downloads/Builds/Kids.xml</link>
+	
+</directories>
