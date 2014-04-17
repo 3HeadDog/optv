@@ -1,0 +1,38 @@
+version=1
+background=http://opensatuk.com/image/data/banner2.gif
+title=How 2z
+logo=http://opensatuk.com/image/data/banner2.gif
+icon_playlist=
+description=
+
+/description
+
+type=video
+name=We have moved
+thumb=http://opensatuk.com/image/data/banner2.gif
+URL=http://youtu.be/IFARk-wEWEE
+
+type=video
+name=OpenSatUK IPTV Advert.
+thumb=http://opensatuk.com/image/data/banner2.gif
+URL=http://youtu.be/mafOfVBckhQ
+
+type=video
+name=how to scan your box for missing channels
+thumb=http://opensatuk.com/image/data/banner2.gif
+URL=http://youtu.be/yQYSS60T4pI
+
+type=video
+name=how to update channel list on openbox/skybox
+thumb=http://opensatuk.com/image/data/banner2.gif
+URL=http://youtu.be/kVUkIR4-OYo
+
+type=video
+name=how to edit favourite list on skybox f3 f4 f5
+thumb=http://opensatuk.com/image/data/banner2.gif
+URL=http://youtu.be/pko-OSFpufc
+
+type=video
+name=radio advert
+thumb=http://opensatuk.com/image/data/banner2.gif
+URL=http://youtu.be/06Ht0_EG1P8
