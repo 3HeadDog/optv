@@ -1,0 +1,39 @@
+<poster>[COLOR lightgoldenrodyellow][B]OpenSatUK[/B][/COLOR]</poster>
+<fanart>http://opensatuk.com/image/data/banner2.gif</fanart>
+
+
+
+FOR MULTIPLE DIRECTORIES - CUT DOWN THE CODE YOU WOULD NORMALLY HAVE TO TYPE!  LOOKS CLEANER!  EASIER TO READ!
+<directories>
+	
+	<name>[COLOR steelblue][B]How 2[/B][/COLOR]</name>
+	<thumbnail>http://opensatuk.com/image/data/banner2.gif</thumbnail>
+	<link>/home/kev/Downloads/Builds/utube.xml</link>
+	
+	<name>[COLOR steelblue][B]LIVE TV[/B][/COLOR]</name>
+	<thumbnail>http://opensatuk.com/Banners/livetv.jpg</thumbnail>
+	<link>/home/kev/Downloads/Builds/LiveTV.xml</link>
+	
+	<name>[COLOR steelblue][B]TV Shows[/B][/COLOR]</name>
+	<thumbnail>http://opensatuk.com/Banners/livetv.jpg</thumbnail>
+	<link>/home/kev/Downloads/Builds/TVshows.xml</link>
+
+	<name>[COLOR steelblue][B]Kids Movies & Shows[/B][/COLOR]</name>
+	<thumbnail>http://opensatuk.com/Banners/Movies.jpg</thumbnail>
+	<link>/home/kev/Downloads/Builds/ANIMATION.xml</link>
+
+	<name>[COLOR steelblue][B]Movies[/B][/COLOR]</name>
+	<thumbnail>http://opensatuk.com/Banners/Movies.jpg</thumbnail>
+	<link>/home/kev/Downloads/Builds/Movies1.xml</link>
+
+	<name>[COLOR steelblue][B]3D Movies[/B][/COLOR]</name>
+	<thumbnail>http://opensatuk.com/Banners/4kids-logo.jpg</thumbnail>
+	<link>/home/kev/Downloads/Builds/3d.xml</link>
+	
+	<name>[COLOR steelblue][B]XXX[/B][/COLOR]</name>
+	<thumbnail>http://opensatuk.com/Banners/xxx.jpg</thumbnail>
+	<link>/home/kev/Downloads/Builds/Other.xml</link>
+	
+	
+	
+</directories>
