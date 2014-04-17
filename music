@@ -1,0 +1,119 @@
+version=1
+background=http://opensatuk.com/image/data/banner2.gif
+title=[COLOR=FFFFFF00][B]Music[/B][/COLOR]
+logo=http://opensatuk.com/image/data/banner2.gif
+description=[COLOR=FFFFFF00]IF You find a broken link Please let us know...Thanks[/COLOR]/description
+
+/description
+
+type=video
+name=StreetClip TV UK
+thumb=http://www.tv14.net/wp-content/uploads/2010/06/Streetclip-TV.jpg
+URL=rtmp://stream.streetclip.tv:1935/live/high-stream
+player=default
+rating=-1.00
+
+type=video
+name=Vevo HD 1
+thumb=http://chromespot.com/wp-content/uploads/2013/07/vevo-580x300.jpg
+URL=http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8#sthash.FZT4cohV.dpuf
+player=default
+
+
+type=video
+name=Vevo HD 2
+thumb=http://www.libyafuture.tv/uploads/thumbs/2a68d7d4b-1.jpg
+URL=http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+
+type=video
+name=Vevo HD 3
+thumb=http://i1.ytimg.com/vi/xAXvn1eksSE/0.jpg
+URL=http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+
+type=video
+name=Virgin Radio Tv
+thumb=http://www.riders-online.it/wp-content/uploads/2011/01/virgin-radio-tv.jpg
+URL=rtmp://fms.105.net:1935/live playpath=virgin1 swfUrl=http://video.virginradioitaly.it/com/universalmind/swf/videoPlayerTV.swf?xmlPath=http://video.virginradioitaly.it/com/universalmind/tv/virgin/videoXML.xml pageUrl=http://onlinetv-radio.com/Music/Virgin-Radio-TV-ch951 live=1
+player=default
+
+type=video
+name=KISS
+thumb=http://www.weareseventeen.com/up/projects/487/942882502.jpg
+URL=http://cdn.live.tvplayer.simplestream.com/coder2/coder.channels.channel13/hls/3/playlist.m3u8
+
+type=video
+name=SMASH HITS
+thumb=http://www.mediauk.com/logos/100/41566.png
+URL=http://cdn.live.tvplayer.simplestream.com/coder1/coder.channels.channel14/hls/4/playlist.m3u8
+
+type=video
+name=THE BOX
+thumb=http://www.ohwrd.com/wp-content/uploads/2009/08/thebox.jpg
+URL=http://cdn.live.tvplayer.simplestream.com/coder2/coder.channels.channel10/hls/4/playlist.m3u8
+
+type=video
+name=Urban Hits
+thumb=http://1.bp.blogspot.com/_NLn_hKNMNv4/TBdnXrRlDOI/AAAAAAAABi4/F8qS1Up0fEE/s400/UrbanHits.jpg
+URL=http://46.48.19.84:81/udp/239.255.2.28:1234 
+
+type=video
+name=HEAT
+thumb=http://www.heatworld.com/images/109957_615x10000_STD/2012/6/heat_logo_x.jpg
+URL=http://cdn.live.tvplayer.simplestream.com/coder2/coder.channels.channel4/hls/3/playlist.m3u8
+
+type=video
+name=CAPITAL TV
+thumb=https://www.musicweek.com/cimages/19a2560129307a46a177a8c16bd412b9.jpg
+URL=http://cdn.live.tvplayer.simplestream.com/coder7/coder.channels.channel8/hls/3/playlist.m3u8
+
+type=video
+name=NOW THATS WHAT I CALL MUSIC
+thumb=http://www.thevalueengineers.com/wp-content/uploads/2013/07/now-thats-what-i-call-music-1.jpg
+URL=http://cdn.live.tvplayer.simplestream.com/coder6/coder.channels.channel5/hls/3/playlist.m3u8
+
+type=video
+name=4 MUSIC
+thumb=http://2.bp.blogspot.com/_7UXGRIBLGTU/SlYD88sOOYI/AAAAAAAAAds/Gpzci5otMdM/s320/08141950300_4music_logo.jpg
+URL=http://cdn.live.tvplayer.simplestream.com/coder1/coder.channels.channel11/hls/4/playlist.m3u8
+
+type=video
+name=HEART
+thumb=http://www.jumpdesign.co.uk/assets/templates/jump/videos/placeholder/heart_2.jpg
+URL=http://cdn.live.tvplayer.simplestream.com/coder7/coder.channels.channel10/hls/3/playlist.m3u8
+
+type=video
+name=PLANET POP
+thumb=http://hub.tv-ark.org.uk/images/music/music_images/planet_pop_2000a.jpg
+URL=http://cdn.live.tvplayer.simplestream.com/coder5/coder.channels.channel17/hls/3/playlist.m3u8
+
+type=video
+name=MTV HITS
+thumb=http://4.bp.blogspot.com/-4PJ9BEE1sC4/TzluZ3rKâ€“I/AAAAAAAAGRw/0Hz42OV8Za4/s320/Best+Of+MTV+Hits+2012.jpg
+URL=http://tv.goweb.com/share/channels/channel/id/445/sign/18dc548a05abb23b014800dac36ac4a16a63fbb7/base/41398
+
+type=video
+name=MTV ROCKS
+thumb=http://upload.wikimedia.org/wikipedia/en/5/58/MTV_Rocks_logo_2013.png
+URL=http://tv.goweb.com/share/channels/channel/id/446/sign/18dc548a05abb23b014800dac36ac4a16a63fbb7/base/41398
+
+type=video
+name=CLUBLAND
+thumb=http://i2.bebo.com/042/7/mediuml/2008/03/21/11/647921526a7208306229ml.jpg
+URL=http://cdn.live.tvplayer.simplestream.com/coder5/coder.channels.channel14/hls/3/playlist.m3u8
+
+type=video
+name=AKA
+thumb=http://pbs.twimg.com/profile_images/378800000438149610/96fe763222ddc27a5f01dc34ee550485.jpeg
+URL=http://cdn.live.tvplayer.simplestream.com/coder6/coder.channels.channel2/hls/3/playlist.m3u8
+
+type=video
+name=KERRANG
+thumb=http://images.contactmusic.com/img/old/kerrang1x08x05x03.gif
+URL=http://cdn.live.tvplayer.simplestream.com/coder2/coder.channels.channel16/hls/3/playlist.m3u8
+
+type=video
+name=
+thumb=
+URL=
+	
+# cached
