@@ -1,0 +1,65 @@
+version=1
+background=http://opensatuk.com/image/data/banner2.gif
+title=[COLOR=FFFFFF00][B]Movies[/B][/COLOR]
+logo=http://opensatuk.com/image/data/banner2.gif
+description=[COLOR=FFFFFF00]Movies[/COLOR]/description
+
+/description
+
+type=video
+name=Sky Movies Action & Adventure 
+thumb=http://www.guerillascope.co.uk/Portals/129/SkyMoviesActionAndAdventureLOGO.jpg
+URL=rtmp://31.220.0.103:1935/live playpath=action swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=action&vw=620&vh=490 
+
+type=video
+name=Sky Movies Premier
+thumb=
+URL=rtmp://31.220.0.133:1935/live playpath=premierx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=premierx&vw=620&vh=490
+
+type=video
+name=Sky Movies Greats 
+thumb=http://www.guerillascope.co.uk/Portals/129/SkyMoviesSHOWCASElogo.jpg
+URL=rtmp://31.220.0.103:1935/live playpath=greatx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=greatx&vw=620&vh=490
+
+type=video
+name=Sky Movies SciFi Horror
+thumb=http://www.guerillascope.co.uk/Portals/129/SkyMoviesMODERNGREATSlogo.jpg
+URL=rtmp://31.220.0.82:1935/live playpath=scifi swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=scifi&vw=620&vh=490
+ 
+type=video
+name=Sky Movies Crime & Thriller 
+thumb=http://3.bp.blogspot.com/-Akt0f6RAYO4/Ttc5HT-y9ZI/AAAAAAAAAL0/gxca0rsIRas/s1600/usa_network.gif
+URL=rtmp://31.220.0.82:1935/live playpath=thrlieer swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=thrlieer&vw=620&vh=490
+
+
+type=video
+name=
+thumb=
+URL=
+
+type=video
+name=
+thumb=
+URL=
+
+type=video
+name=
+thumb=
+URL=
+
+type=video
+name=
+thumb=
+URL=
+
+type=video
+name=
+thumb=
+URL=
+
+type=video
+name=
+thumb=
+URL=
+	
+# cached
