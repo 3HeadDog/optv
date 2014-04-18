@@ -14,38 +14,25 @@ FOR MULTIPLE DIRECTORIES - CUT DOWN THE CODE YOU WOULD NORMALLY HAVE TO TYPE!  L
 	<thumbnail>http://opensatuk.com/Banners/livetv.jpg</thumbnail>
 	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Live%20TV</link>
 	
-	<name>[COLOR firebrick][B]TV Shows[/B][/COLOR]</name>
-	<thumbnail>http://opensatuk.com/Banners/livetv.jpg</thumbnail>
-	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/tv%20shows</link>
-	
-	<name>[COLOR lightseagreen][B]Music Video's[/B][/COLOR]</name>
-	<thumbnail>http://opensatuk.com/Banners/music.jpg</thumbnail>
-	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Music1</link>
-
-	<name>[COLOR red][B]Kids Movies & Shows[/B][/COLOR]</name>
-	<thumbnail>http://opensatuk.com/Banners/4kids-logo.jpg</thumbnail>
-	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Childrens</link>
-
-	<name>[COLOR skyblue][B]Movies[/B][/COLOR]</name>
-	<thumbnail>http://opensatuk.com/Banners/Movies.jpg</thumbnail>
-	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/movies1</link>
-	
 	<name>[COLOR aqua]Fresh Out[/COLOR]</name>
 	<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Freshout.xml</link>
 	<thumbnail>http://farm6.staticflickr.com/5490/10217412684_f35c62838d_o.jpg</thumbnail>
 	
-	<name>[COLOR yellow][B]Boxsets[/B][/COLOR]</name>
+	<name>[COLOR firebrick][B]TV Shows[/B][/COLOR]</name>
+	<thumbnail>http://opensatuk.com/Banners/livetv.jpg</thumbnail>
+	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/tv%20shows</link>
+	
+	<name>[COLOR skyblue][B]Movies[/B][/COLOR]</name>
 	<thumbnail>http://opensatuk.com/Banners/Movies.jpg</thumbnail>
-	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Boxsets</link>
-
-	<name>[COLOR mintcream][B]3D Movies[/B][/COLOR]</name>
-	<thumbnail>http://opensatuk.com/Banners/3d.jpg</thumbnail>
-	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/3d%20movies</link>
+	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Movie</link>
 	
-	<name>[COLOR steelblue][B]XXX[/B][/COLOR]</name>
-	<thumbnail>http://opensatuk.com/Banners/xxx.jpg</thumbnail>
-	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Adult</link>
+	<name>[COLOR red][B]Kids Movies & Shows[/B][/COLOR]</name>
+	<thumbnail>http://opensatuk.com/Banners/4kids-logo.jpg</thumbnail>
+	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Childrens</link>
 	
+	<name>[COLOR lightseagreen][B]Music Video's[/B][/COLOR]</name>
+	<thumbnail>http://opensatuk.com/Banners/music.jpg</thumbnail>
+	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Music1</link>
 	
 	
 </directories>
