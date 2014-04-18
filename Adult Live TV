@@ -1,0 +1,154 @@
+version=1
+background=http://i1.sndcdn.com/artworks-000026231130-aqpm40-crop.jpg?d53bf9f
+title=Adults Only
+logo=http://funkyimg.com/u2/121/466/G_Adults_1_KL____.jpg
+ 
+
+# 1920941
+type=video
+name=test
+thumb=
+URL=rtmp://lm03.everyon.tv:1935/ptv3/ playpath=phd497 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://www.*****etzaa.tv/canales-tv/*****TV3.html
+
+
+
+# 1920941
+type=video
+name=Spice TV HD
+thumb=
+URL=rtmp://lm03.everyon.tv:1935/ptv3/ playpath=phd497 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://www.*****etzaa.tv/canales-tv/*****TV3.html
+
+
+
+
+# 1920941
+type=video
+name=Hallo TV
+thumb=
+URL=rtmp://83.169.58.38:1935/live/HalloTV2
+
+
+
+
+# 1920941
+type=video
+name=Eroxxx HD
+thumb=
+URL=http://spi-live.ercdn.net/spi/eroxxhd_0_1/chunklist.m3u8
+
+
+
+# 1920941
+type=video
+name=NSV
+thumb=http://t1.ftcdn.net/jpg/00/52/57/10/400_F_52571078_sf28EzuiCTPj1NpNDGf1ztNsv2TSax5I.jpg
+URL=http://208.122.3.2:8550;stream.nsv
+
+
+# 1920941
+type=video
+name=EroX HD
+thumb=http://4.bp.blogspot.com/-23a9hMf-JRM/Tk3CpiUNrjI/AAAAAAAABYs/1uaNPyG4x-g/s200/Cz-Error.png
+URL=http://spi-live.ercdn.net/spi/eroxhd_0_1/playlist.m3u8
+processor=
+player=default
+rating=-1.00
+
+# 1920941
+type=video
+name=Playboy Tv - 1
+thumb=http://www.thedirtsyndicate.org/directory/%7C01%7C_styleframes/Playboy+-+Tv+for+2/-thumbnails/Playboy_TvFor2_01.jpg?rnd=1313897914
+URL=http://91.240.87.34:4013/udp/224.200.202.91:1234
+
+# 1920941
+type=video
+name=Playboy TV - 2
+thumb=http://cdn.blogs.sheknows.com/realitytvmagazine.sheknows.com/2009/08/playboy_logo.jpg
+URL=rtmp://111.118.21.77/ptv3//phd499
+processor=
+player=default
+rating=-1.00
+
+
+# 1920941
+type=video
+name=Hallo Tv
+thumb=http://www.plugandplay.it/images/prodotti/img_ele00150hallo-TV-M.png
+URL=http://83.169.58.38:1935/live/HalloTV1/playlist.m3u8
+processor=
+player=default
+rating=-1.00
+
+
+
+# 1920941
+type=video
+name=Delight-Empire-HD
+thumb=http://tvonlineapp.com/wp-content/uploads/2013/07/timthumb.png
+URL=rtmp://lm02.everyon.tv:1935/ptv2/ playpath=phd63 swfUrl=https://tv091.googlecode.com/svn/trunk/player.swf live=1 pageUrl=http://jut4w4n-streaming.blogspot.com.au/2012/07/delight-empire-hd-movies.html
+processor=
+player=default
+rating=-1.00
+
+# 1920941
+type=video
+name=Play 19+
+thumb=http://4.bp.blogspot.com/-OMbKviiNSIE/Ud1TsvrtEMI/AAAAAAAAAtA/RHYjg5VJigE/s320/Play+19.PNG
+URL=rtmp://lm03.everyon.tv:1935/ptv3/ playpath=phd769 swfUrl=https://tv091.googlecode.com/svn/trunk/player.swf live=1 pageUrl=http://jut4w4n-streaming.blogspot.com.au/2012/02/playy-19.html
+processor=
+player=default
+rating=-1.00
+
+# 1920941
+type=video
+name=Pink Tv
+thumb=http://2.bp.blogspot.com/-MuEqyboBOME/TzQHSj4BKcI/AAAAAAAAAdg/Ns4nbxzoCn4/s1600/PINK_TV_LOGO.jpg
+URL=rtmp://lm02.everyon.tv/ptv2/ playpath=phd62 swfUrl=https://tv091.googlecode.com/svn/trunk/player.swf live=1 pageUrl=http://jut4w4n-streaming.blogspot.com.au/2012/07/pink-tv.html
+processor=
+player=default
+rating=-1.00
+
+# 1920941
+type=video
+name=Read On
+thumb=http://i1.wp.com/www.sat-expert.com/wp-content/uploads/2013/09/IMGi6820c.jpg?resize=660%2C330
+URL=rtmp://lm02.everyon.tv:1935/ptv2/ playpath=phd60 swfUrl=https://tv091.googlecode.com/svn/trunk/player.swf live=1 pageUrl=http://jut4w4n-streaming.blogspot.com.au/2012/12/read-on.html
+processor=
+player=default
+rating=-1.00
+
+# 1920941
+type=video
+name=ButGO
+thumb=http://i.brta.in/images/2014-01/268d5b4dbfd54b8fd2d232dc4e2fd46e.jpg
+URL=rtmp://lm01.everyon.tv:1935/ptv/ playpath=phd772 swfUrl=https://tv091.googlecode.com/svn/trunk/player.swf live=1 pageUrl=http://jut4w4n-streaming.blogspot.com.au/2012/02/butgo.html
+processor=
+player=default
+rating=-1.00
+
+# 1920941
+type=video
+name=Cinero
+thumb=http://infogue.com/static/upload/2014/01/18/20140118_190131_2628.jpg
+URL=rtmp://lm02.everyon.tv:1935/ptv2/ playpath=phd59 swfUrl=https://tv091.googlecode.com/svn/trunk/player.swf live=1 pageUrl=http://jut4w4n-streaming.blogspot.com.au/2012/07/cinero.html
+processor=
+player=default
+rating=-1.00
+
+# 1920941
+type=video
+name=Live Ting TV
+thumb=https://lh5.googleusercontent.com/-u76zIDh4pwo/UFcJtXV0LaI/AAAAAAAAW-o/jrbNs_hjdtc/s200/Livetingtv.jpg
+URL=rtmp://lm02.everyon.tv/ptv2/ playpath=phd64 swfUrl=https://tv091.googlecode.com/svn/trunk/player.swf live=1 pageUrl=http://jut4w4n-streaming.blogspot.com.au/2012/07/live-ting-tv.html
+processor=
+player=default
+rating=-1.00
+
+# 1920941
+type=video
+name=The O
+thumb=http://rack.0.mshcdn.com/media/ZgkyMDEyLzEyLzA0LzQyL25ld3h4eGRvbWFpLmFZUi5qcGcKcAl0aHVtYgk5NTB4NTM0IwplCWpwZw/77f37b40/4ae/new-xxx-domain-approved-for-porn-sites-497be451ca.jpg
+URL=rtmp://lm03.everyon.tv/ptv3/ playpath=phd771 swfUrl=https://tv091.googlecode.com/svn/trunk/player.swf live=1 pageUrl=http://jut4w4n-streaming.blogspot.com.au/2012/02/the-o.html
+processor=
+player=default
+rating=-1.00
