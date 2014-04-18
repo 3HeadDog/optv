@@ -44,12 +44,12 @@ URL=rtmp://fmsod.rte.ie:1935/live playpath=rte1 swfUrl=http://www.rte.ie/static/
 
 type=video
 name=Comedy Central HD 
-URL=http://amotv.6te.net/tot.php?2f18d4ba25224edaa8bb9aac94b00d4f
+URL=
 
 type=video
 name=A&E
 thumb=http://www.aetv.com/news-page/images/news_generic_AElogo.jpg
-URL=rtmp://edge.isearch.to/edge/oanry4s71cylxxb swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+URL=
 player=default
 rating=0.00
 
@@ -57,13 +57,6 @@ type=video
 name=ABC Family US
 thumb=http://www.disneydreaming.com/wp-content/uploads/2014/03/ABC-Family-Channel-3-New-Pilots.jpg
 URL=rtmpe://173.208.201.162:1935/goLive playpath=OhiYoc6et5pslGH swfUrl=http://rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|
-player=default
-rating=-1.00
-
-type=video
-name=ABC US (Click Three Times)
-thumb=http://tvseriesfinale.com/assets/abc02aa.jpg
-URL=rtmp://31.220.0.86:1935/live/ playpath=abc swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.reyhq.com/embed2.php?live=abc&vw=600&vh=450 live=1 timeout=10
 player=default
 rating=-1.00
 
@@ -77,7 +70,7 @@ rating=-1.00
 type=video
 name=USA NETWORK
 thumb=http://kgervaise.files.wordpress.com/2012/09/usa-network-logo-1.jpg
-URL=rtmpe://watch.playfooty.tv/live playpath=usanet1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=usanet1569&vw=600&vh=430
+URL=
 
 type=video
 name=BRAVO
@@ -87,64 +80,64 @@ URL=rtmpe://watch.playfooty.tv/live playpath=bravo1569 swfUrl=http://www.playfoo
 type=video
 name=SYFY
 thumb=http://www.wired.com/images_blogs/underwire/2012/08/syfy_Logo-thumb-550Ã—400-14765.jpg
-URL=rtmpe://watch.playfooty.tv/live playpath=syfy1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=syfy1569&vw=600&vh=430
+URL=
 
 type=video
 name=TNT
 thumb=http://img4.wikia.nocookie.net/__cb20091120155408/logopedia/images/4/41/TNT_logo_2008.png
-URL=rtmpe://watch.playfooty.tv/live playpath=tnt1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=tnt1569&vw=600&vh=430
+URL=
 
 type=video
 name=Sony Entertainment TV HD
-URL=http://amotv.6te.net/tot.php?bd30e27f1c48430ba2104548a1b124ca
+URL=
 
 type=video
 name=Nat Geo People HD 
-URL=http://amotv.6te.net/tot.php?7ad09373f65c48d5bb6aa6c3b2ca519a
+URL=
 
 type=video
 name=ITV Choice HD
-URL=http://amotv.6te.net/tot.php?e36b99bcd26648af9db2261785c77b7a
+URL=
 
 type=video
 name=Universal Channel HD
-URL=http://amotv.6te.net/tot.php?a7105ed1bb0a44bba1f4f71f2352b892
+URL=
 
 type=video
 name=Diva universal
 thumb=http://www.userlogos.org/files/logos/igor23/livetv_black.png
-URL=http://109.254.111.188:5555/udp/238.1.1.121:1234
+URL=
 
 type=video
 name=Fox HD
-URL=http://amotv.6te.net/tot.php?2e0e4b05aa6e428593f3b45b710045b7
+URL=
 
 type=video
 name=Fox Crime HD 
-URL=http://amotv.6te.net/tot.php?5028f7ff1d1b4d5f8189690233364737
+URL=
 
 type=video
 name=Fox life
 thumb=http://www.userlogos.org/files/logos/igor23/livetv_black.png
-URL=http://109.233.194.252:5556/udp/224.21.21.50:1234
+URL=
 
 type=video
 name=Crime and Investigation (CI) HD 
-URL=http://amotv.6te.net/tot.php?9961a963920f45f4bc0d81c3e478b334
+URL
 
 type=video
 name=Bio HD
-URL=http://amotv.6te.net/tot.php?169a149fd1ef40edba0bbfc8e0f1bdd1
+URL=
 
 type=video
 name=Sky news
 thumb=http://www.userlogos.org/files/logos/igor23/livetv_black.png
-URL=http://amotv.6te.net/tot.php?31b003ab7e7749a798fe00424e3dd9ff
+URL=
 
 type=video
 name=TLC
 thumb=http://www.userlogos.org/files/logos/igor23/livetv_black.png
-URL=http://195.22.104.7:81/udp/239.71.92.23:1234
+URL=
 
 type=video
 name=HBO Comedy Movie HD 
@@ -162,14 +155,14 @@ rating=-1.00
 type=video
 name=History Channel
 thumb=http://media.navi-x.org/justme4u2c/images/HistoryChannel.png
-URL=rtmp://edge.isearch.to/edge playpath=kpgg43eoznljrjm swfUrl=http://player.ilive.to/player_ilive.swf live=1 pageUrl=http://www.ilive.to/view/48214/watch-livE-history_{HD}streaming-channel
+URL=
 player=default
 rating=-1.00
 
 type=video
 name=Lifetime
 thumb=http://images.all-free-download.com/images/graphiclarge/lifetime_67627.jpg
-URL=rtmp://edge.isearch.to/edge/cexop1sm47oqcrh swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+URL=
 player=default
 rating=-1.00
 
