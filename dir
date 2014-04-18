@@ -1,5 +1,5 @@
 <poster>[COLOR lightgoldenrodyellow][B]OpenSatUK[/B][/COLOR]</poster>
-<fanart>http://opensatuk.com/image/data/banner2.gif</fanart>
+<fanart>http://opensatuk.com/Banners/opensatuk%20icon.jpg</fanart>
 
 
 
@@ -19,7 +19,7 @@ FOR MULTIPLE DIRECTORIES - CUT DOWN THE CODE YOU WOULD NORMALLY HAVE TO TYPE!  L
 	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/tv%20shows</link>
 	
 	<name>[COLOR steelblue][B]Music Video's[/B][/COLOR]</name>
-	<thumbnail></thumbnail>
+	<thumbnail>http://opensatuk.com/Banners/music.jpg</thumbnail>
 	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Music1</link>
 
 	<name>[COLOR steelblue][B]Kids Movies & Shows[/B][/COLOR]</name>
@@ -35,7 +35,7 @@ FOR MULTIPLE DIRECTORIES - CUT DOWN THE CODE YOU WOULD NORMALLY HAVE TO TYPE!  L
 	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Boxsets</link>
 
 	<name>[COLOR steelblue][B]3D Movies[/B][/COLOR]</name>
-	<thumbnail>http://opensatuk.com/Banners/4kids-logo.jpg</thumbnail>
+	<thumbnail>http://opensatuk.com/Banners/3d.jpg</thumbnail>
 	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/3d%20movies</link>
 	
 	<name>[COLOR steelblue][B]XXX[/B][/COLOR]</name>
