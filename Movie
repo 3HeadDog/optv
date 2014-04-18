@@ -1,0 +1,46 @@
+#######################################################################################################################################
+<poster>Movie</poster>
+<fanart>http://opensatuk.com/Banners/Movies.jpg</fanart>
+#######################################################################################################################################
+<info>
+<message>[COLOR red]Please REPORT dead links.....ENJOY!![/COLOR]</message>
+<thumbnail>http://opensatuk.com/Banners/Movies.jpg</thumbnail>
+</info>
+#######################################################################################################################################
+
+<dir>
+<name>All Movies</name>
+<link>https://raw.githubusercontent.com/3HeadDog/optv/master/movies1</link>
+<thumbnail>http://opensatuk.com/Banners/Movies.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>3D Movies</name>
+<link>https://raw.githubusercontent.com/3HeadDog/optv/master/3d%20movies</link>
+<thumbnail>http://opensatuk.com/Banners/3d.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>New Movies</name>
+<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Theatre%20Releases</link>
+<thumbnail>http://opensatuk.com/Banners/Movies.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Boxsets</name>
+<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Boxsets</link>
+<thumbnail>http://opensatuk.com/Banners/boxsets.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Adult Movies</name>
+<link>https://raw.githubusercontent.com/3HeadDog/optv/master/xxx</link>
+<thumbnail>http://opensatuk.com/Banners/xxx.jpg</thumbnail>
+</dir>
+
+
+<dir>
+<name></name>
+<link></link>
+<thumbnail></thumbnail>
+</dir>
