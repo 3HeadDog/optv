@@ -1,8 +1,8 @@
 version=1
-background=http://opensatuk.com/image/data/banner2.gif
-title=[COLOR=FFFFFF00][B]Playlist test Live[/B][/COLOR]
+background=http://opensatuk.com/Banners/opensatuk%20icon.jpg
+title=[COLOR=FFFFFF00][B]Entertainments[/B][/COLOR]
 logo=http://opensatuk.com/image/data/banner2.gif
-description=[COLOR=FFFFFF00]Live2[/COLOR]/description
+description=[COLOR=FFFFFF00]Entertainments[/COLOR]/description
 
 /description
 
@@ -33,11 +33,6 @@ thumb=http://www.logoguru.co.uk/blog/wp-content/uploads/2011/03/channel-5-before
 URL=http://cdn.live.tvplayer.simplestream.com/coder8/coder.channels.channel6/hls/3/playlist.m3u8
 
 type=video
-name=ITV Choice HD
-URL=http://amotv.6te.net/tot.php?e36b99bcd26648af9db2261785c77b7a
-
-
-type=video
 name=BBC NEWS
 thumb=http://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/200px-BBC_News.svg.png
 URL=http://cdn.live.tvplayer.simplestream.com/coder7/coder.channels.channel17/hls/3/playlist.m3u8
@@ -50,6 +45,13 @@ URL=rtmp://fmsod.rte.ie:1935/live playpath=rte1 swfUrl=http://www.rte.ie/static/
 type=video
 name=Comedy Central HD 
 URL=http://amotv.6te.net/tot.php?2f18d4ba25224edaa8bb9aac94b00d4f
+
+type=video
+name=A&E
+thumb=http://www.aetv.com/news-page/images/news_generic_AElogo.jpg
+URL=rtmp://edge.isearch.to/edge/oanry4s71cylxxb swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+player=default
+rating=0.00
 
 type=video
 name=ABC Family US
@@ -82,12 +84,6 @@ name=BRAVO
 thumb=http://www-deadline-com.vimg.net/wp-content/uploads/2011/08/Bravo_logo_20110815164454-275Ã—202.jpg
 URL=rtmpe://watch.playfooty.tv/live playpath=bravo1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=bravo1569&vw=600&vh=430
 
-
-type=video
-name=HBO
-thumb=http://img.talkandroid.com/uploads/2013/07/HBO_Logo.jpg
-URL=rtmp://50.7.137.90/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/1/HBO token=#ed%h0#w18623jsda6523lDGDve
-
 type=video
 name=SYFY
 thumb=http://www.wired.com/images_blogs/underwire/2012/08/syfy_Logo-thumb-550Ã—400-14765.jpg
@@ -103,22 +99,21 @@ name=Sony Entertainment TV HD
 URL=http://amotv.6te.net/tot.php?bd30e27f1c48430ba2104548a1b124ca
 
 type=video
-name=Diva universal
-thumb=http://www.userlogos.org/files/logos/igor23/livetv_black.png
-URL=http://109.254.111.188:5555/udp/238.1.1.121:1234
-
-type=video
-name=TLC
-thumb=http://www.userlogos.org/files/logos/igor23/livetv_black.png
-URL=http://195.22.104.7:81/udp/239.71.92.23:1234
-
-type=video
 name=Nat Geo People HD 
 URL=http://amotv.6te.net/tot.php?7ad09373f65c48d5bb6aa6c3b2ca519a
 
 type=video
+name=ITV Choice HD
+URL=http://amotv.6te.net/tot.php?e36b99bcd26648af9db2261785c77b7a
+
+type=video
 name=Universal Channel HD
 URL=http://amotv.6te.net/tot.php?a7105ed1bb0a44bba1f4f71f2352b892
+
+type=video
+name=Diva universal
+thumb=http://www.userlogos.org/files/logos/igor23/livetv_black.png
+URL=http://109.254.111.188:5555/udp/238.1.1.121:1234
 
 type=video
 name=Fox HD
@@ -146,11 +141,43 @@ name=Sky news
 thumb=http://www.userlogos.org/files/logos/igor23/livetv_black.png
 URL=http://amotv.6te.net/tot.php?31b003ab7e7749a798fe00424e3dd9ff
 
+type=video
+name=TLC
+thumb=http://www.userlogos.org/files/logos/igor23/livetv_black.png
+URL=http://195.22.104.7:81/udp/239.71.92.23:1234
 
 type=video
-name=CBS reality
-thumb=http://newtvworld.com/Images/livetv_transparent.png
-URL=http://46.44.62.91:81/udp/224.0.90.47:1234
+name=HBO Comedy Movie HD 
+URL=rtmp://watch.ilive.to:1935/edge playpath=a1wn1j3ra1w0cv0 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf
+player=default
+rating=-1.00
+
+# 2161270
+type=video
+name=HBO HD
+URL=rtmp://watch.ilive.to:1935/edge playpath=z28ie9oqoku4qoy swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf
+player=default
+rating=-1.00
+
+type=video
+name=History Channel
+thumb=http://media.navi-x.org/justme4u2c/images/HistoryChannel.png
+URL=rtmp://edge.isearch.to/edge playpath=kpgg43eoznljrjm swfUrl=http://player.ilive.to/player_ilive.swf live=1 pageUrl=http://www.ilive.to/view/48214/watch-livE-history_{HD}streaming-channel
+player=default
+rating=-1.00
+
+type=video
+name=Lifetime
+thumb=http://images.all-free-download.com/images/graphiclarge/lifetime_67627.jpg
+URL=rtmp://edge.isearch.to/edge/cexop1sm47oqcrh swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+player=default
+rating=-1.00
+
+
+type=video
+name=
+thumb=
+URL=
 
 type=video
 name=
