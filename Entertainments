@@ -33,6 +33,11 @@ thumb=http://www.logoguru.co.uk/blog/wp-content/uploads/2011/03/channel-5-before
 URL=http://cdn.live.tvplayer.simplestream.com/coder8/coder.channels.channel6/hls/3/playlist.m3u8
 
 type=video
+name=ITV Choice HD
+URL=http://amotv.6te.net/tot.php?e36b99bcd26648af9db2261785c77b7a
+
+
+type=video
 name=BBC NEWS
 thumb=http://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/200px-BBC_News.svg.png
 URL=http://cdn.live.tvplayer.simplestream.com/coder7/coder.channels.channel17/hls/3/playlist.m3u8
@@ -98,12 +103,18 @@ name=Sony Entertainment TV HD
 URL=http://amotv.6te.net/tot.php?bd30e27f1c48430ba2104548a1b124ca
 
 type=video
-name=Nat Geo People HD 
-URL=http://amotv.6te.net/tot.php?7ad09373f65c48d5bb6aa6c3b2ca519a
+name=Diva universal
+thumb=http://www.userlogos.org/files/logos/igor23/livetv_black.png
+URL=http://109.254.111.188:5555/udp/238.1.1.121:1234
 
 type=video
-name=ITV Choice HD
-URL=http://amotv.6te.net/tot.php?e36b99bcd26648af9db2261785c77b7a
+name=TLC
+thumb=http://www.userlogos.org/files/logos/igor23/livetv_black.png
+URL=http://195.22.104.7:81/udp/239.71.92.23:1234
+
+type=video
+name=Nat Geo People HD 
+URL=http://amotv.6te.net/tot.php?7ad09373f65c48d5bb6aa6c3b2ca519a
 
 type=video
 name=Universal Channel HD
@@ -118,12 +129,33 @@ name=Fox Crime HD
 URL=http://amotv.6te.net/tot.php?5028f7ff1d1b4d5f8189690233364737
 
 type=video
+name=Fox life
+thumb=http://www.userlogos.org/files/logos/igor23/livetv_black.png
+URL=http://109.233.194.252:5556/udp/224.21.21.50:1234
+
+type=video
 name=Crime and Investigation (CI) HD 
 URL=http://amotv.6te.net/tot.php?9961a963920f45f4bc0d81c3e478b334
 
 type=video
 name=Bio HD
 URL=http://amotv.6te.net/tot.php?169a149fd1ef40edba0bbfc8e0f1bdd1
+
+type=video
+name=Sky news
+thumb=http://www.userlogos.org/files/logos/igor23/livetv_black.png
+URL=http://amotv.6te.net/tot.php?31b003ab7e7749a798fe00424e3dd9ff
+
+
+type=video
+name=
+thumb=
+URL=
+
+type=video
+name=
+thumb=
+URL=
 
 type=video
 name=
