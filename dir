@@ -34,7 +34,9 @@ FOR MULTIPLE DIRECTORIES - CUT DOWN THE CODE YOU WOULD NORMALLY HAVE TO TYPE!  L
 	<thumbnail>http://opensatuk.com/Banners/xxx.jpg</thumbnail>
 	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/xxx</link>
 	
-	
+	<name>[COLOR steelblue][B]Boxsets[/B][/COLOR]</name>
+	<thumbnail>http://opensatuk.com/Banners/Movies.jpg</thumbnail>
+	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Boxsets</link>
 	
 </directories>
 	
