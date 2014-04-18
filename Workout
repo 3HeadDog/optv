@@ -1,0 +1,45 @@
+#######################################################################################################################################
+<poster>Workout</poster>
+<fanart>http://opensatuk.com/Banners/workout1.jpeg</fanart>
+#######################################################################################################################################
+
+
+
+<info>
+<message>[COLOR red]**[/COLOR] [COLOR aqua]GET IN SHAPE WITH OpenSatUK[/COLOR] [COLOR red]**[/COLOR]</message>
+<thumbnail>http://opensatuk.com/Banners/workout2.jpeg</thumbnail>
+</info>
+
+
+#######################################################################################################################################
+
+
+<dir>
+<name>[COLOR lime]T25[/COLOR]</name>
+<link>https://raw.githubusercontent.com/3HeadDog/optv/master/T25</link>
+<thumbnail>http://opensatuk.com/Banners/t251.jpeg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR lime]Insanity[/COLOR]</name>
+<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Insanity</link>
+<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Posters/insanity-jumps.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR lime]DDP Yoga[/COLOR]</name>
+<link>https://raw.githubusercontent.com/3HeadDog/optv/master/DDP%20Yoga</link>
+<thumbnail>http://msangnc.files.wordpress.com/2012/05/diamond_dallas_page-yoga.jpg</thumbnail>
+</dir>
+
+<dir>
+<name></name>
+<link></link>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
+<name></name>
+<link></link>
+<thumbnail></thumbnail>
+</dir>
