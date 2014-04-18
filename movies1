@@ -3,16 +3,12 @@
 <fanart>http://opensatuk.com/Banners/Movies.jpg</fanart>
 ########################################################################################################################
 <info>
-<message>[COLOR red]Movies[/COLOR]</message>
+<message>[COLOR red]Movies-------If you find a none working vieo Please let us know[/COLOR]</message>
 <thumbnail>http://opensatuk.com/Banners/Movies.jpg</thumbnail>
 </info>
 ########################################################################################################################
 
-<item>
-<title>[COLOR aqua]Fresh Out[/COLOR]</title>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Freshout.xml</link>
-<thumbnail>http://farm6.staticflickr.com/5490/10217412684_f35c62838d_o.jpg</thumbnail>
-</item>
+
 
 <item>
 <title>The Undefeated (1969) (720p)</title>
