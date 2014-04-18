@@ -1,0 +1,94 @@
+version=1
+background=http://opensatuk.com/image/data/banner2.gif
+title=[COLOR=FFFFFF00][B]Bein Sports[/B][/COLOR]
+logo=http://opensatuk.com/image/data/banner2.gif
+description=[COLOR=FFFFFF00]Bein Sports[/COLOR]/description
+
+type=video
+name=[COLOR red]If you find a none working channel please let us know...[/COLOR]
+thumb=
+URL=rtmp://31.220.0.134:1935
+player=default
+rating=-1.00
+
+/description
+
+type=video
+name=Bein sport 1
+thumb=http://img2.wikia.nocookie.net/__cb20140103213705/logopedia/images/f/ff/Bein-sports.jpg
+URL=http://202.75.23.37:8800/live/ch18/01.m3u8
+
+type=video
+name=Bein sport 2
+thumb=http://img2.wikia.nocookie.net/__cb20140103213705/logopedia/images/f/ff/Bein-sports.jpg
+URL=http://85.14.32.9:5555/udp/239.100.102.52:8888
+
+type=video
+name=Bein sport 3
+thumb=http://img2.wikia.nocookie.net/__cb20140103213705/logopedia/images/f/ff/Bein-sports.jpg
+URL=http://85.14.32.9:5555/udp/239.100.102.53:8888
+
+type=video
+name=Bein sport 4
+thumb=http://img2.wikia.nocookie.net/__cb20140103213705/logopedia/images/f/ff/Bein-sports.jpg
+URL=http://85.14.32.9:5555/udp/239.100.102.54:8888
+
+type=video
+name=Bein sport 5
+thumb=http://img2.wikia.nocookie.net/__cb20140103213705/logopedia/images/f/ff/Bein-sports.jpg
+URL=http://85.14.32.9:5555/udp/239.100.102.55:8888
+
+type=video
+name=Bein sport 6
+thumb=http://img2.wikia.nocookie.net/__cb20140103213705/logopedia/images/f/ff/Bein-sports.jpg
+URL=http://5.39.93.207:8000/6.ch?u=test-nqashalhob:p=test-nqashalhob
+
+type=video
+name=Bein sport 7
+thumb=http://img2.wikia.nocookie.net/__cb20140103213705/logopedia/images/f/ff/Bein-sports.jpg
+URL=http://5.39.93.207:8000/7.ch?u=test-nqashalhob:p=test-nqashalhob
+
+type=video
+name=Bein sport
+thumb=http://img2.wikia.nocookie.net/__cb20140103213705/logopedia/images/f/ff/Bein-sports.jpg
+URL=
+
+type=video
+name=Bein sport 8
+thumb=http://img2.wikia.nocookie.net/__cb20140103213705/logopedia/images/f/ff/Bein-sports.jpg
+URL=http://5.39.93.207:8000/8.ch?u=test-nqashalhob:p=test-nqashalhob
+
+type=video
+name=Bein sport 9
+thumb=http://img2.wikia.nocookie.net/__cb20140103213705/logopedia/images/f/ff/Bein-sports.jpg
+URL=http://5.39.93.207:8000/9.ch?u=test-nqashalhob:p=test-nqashalhob
+
+type=video
+name=Bein sport 10
+thumb=http://img2.wikia.nocookie.net/__cb20140103213705/logopedia/images/f/ff/Bein-sports.jpg
+URL=http://5.39.93.207:8000/10.ch?u=test-nqashalhob:p=test-nqashalhob
+
+type=video
+name=Bein sport 11
+thumb=http://img2.wikia.nocookie.net/__cb20140103213705/logopedia/images/f/ff/Bein-sports.jpg
+URL=
+
+type=video
+name=Bein sport 12
+thumb=http://img2.wikia.nocookie.net/__cb20140103213705/logopedia/images/f/ff/Bein-sports.jpg
+URL=
+
+type=video
+name=Bein sport 13
+thumb=http://img2.wikia.nocookie.net/__cb20140103213705/logopedia/images/f/ff/Bein-sports.jpg
+URL=
+
+type=video
+name=Bein sport 14
+thumb=http://img2.wikia.nocookie.net/__cb20140103213705/logopedia/images/f/ff/Bein-sports.jpg
+URL=
+
+type=video
+name=Bein sport 15
+thumb=http://img2.wikia.nocookie.net/__cb20140103213705/logopedia/images/f/ff/Bein-sports.jpg
+URL=http://5.39.93.207:8000/11.ch?u=test-nqashalhob:p=test-nqashalhob
