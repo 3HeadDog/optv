@@ -6,31 +6,59 @@ description=[COLOR=FFFFFF00]Movies[/COLOR]/description
 
 /description
 
-type=video
-name=Sky Movies Action & Adventure 
-thumb=http://www.guerillascope.co.uk/Portals/129/SkyMoviesActionAndAdventureLOGO.jpg
-URL=rtmp://31.220.0.103:1935/live playpath=action swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=action&vw=620&vh=490 
 
 type=video
-name=Sky Movies Premier
-thumb=
-URL=rtmp://31.220.0.133:1935/live playpath=premierx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=premierx&vw=620&vh=490
+name=SKY MOVIES COMEDY
+thumb=http://www.joinskydigital.com/images/hd-movies/HD_Movies_Comedy.gif
+date=2014-01-15
+URL=rtmp://watch.ilive.to:1935/edge/4mnrnqp7oq503yy pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
+player=default
+rating=-1.00
+
 
 type=video
-name=Sky Movies Greats 
-thumb=http://www.guerillascope.co.uk/Portals/129/SkyMoviesSHOWCASElogo.jpg
-URL=rtmp://31.220.0.103:1935/live playpath=greatx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=greatx&vw=620&vh=490
+name=SKY MOVIES DRAMA
+thumb=http://www.joinskydigital.com/images/hd-movies/HD_Movies_DramaxRomance.gif
+date=2014-01-15
+URL=rtmp://watch.ilive.to:1935/edge/j1i3skzipoz4285 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
+player=default
+rating=-1.00
+
 
 type=video
-name=Sky Movies SciFi Horror
-thumb=http://www.guerillascope.co.uk/Portals/129/SkyMoviesMODERNGREATSlogo.jpg
-URL=rtmp://31.220.0.82:1935/live playpath=scifi swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=scifi&vw=620&vh=490
- 
-type=video
-name=Sky Movies Crime & Thriller 
-thumb=http://3.bp.blogspot.com/-Akt0f6RAYO4/Ttc5HT-y9ZI/AAAAAAAAAL0/gxca0rsIRas/s1600/usa_network.gif
-URL=rtmp://31.220.0.82:1935/live playpath=thrlieer swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=thrlieer&vw=620&vh=490
+name=SKY MOVIES FAMILY
+thumb=http://www.joinskydigital.com/images/hd-movies/HD_Movies_DramaxRomance.gif
+date=2014-01-15
+URL=rtmp://watch.ilive.to:1935/edge/qiurawuvornu1s3 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
+player=default
+rating=-1.00
 
+
+type=video
+name=SKY MOVIES MODERN
+thumb=http://www.joinskydigital.com/images/hd-movies/HD_Movies_ModernGreats.gif
+date=2014-01-15
+URL=rtmp://watch.ilive.to:1935/edge/r2a6nq2fvadayjm pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
+player=default
+rating=-1.00
+
+
+type=video
+name=SKY MOVIES SHOWCASE
+thumb=http://www.joinskydigital.com/images/hd-movies/HD_Movies_Showcase.gif
+date=2014-01-15
+URL=rtmp://watch.ilive.to:1935/edge/uc4o6xbhsv20wjj pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf
+player=default
+rating=-1.00
+
+
+type=video
+name=SKY MOVIES THRILLER
+thumb=http://www.joinskydigital.com/images/hd-movies/HD_Movies_CrimexThriller.gif
+date=2014-01-15
+URL=rtmp://watch.ilive.to:1935/edge/fxg66p9hl501j6w pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4
+player=default
+rating=-1.00
 
 type=video
 name=
