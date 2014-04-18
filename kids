@@ -31,6 +31,21 @@ name=Kix
 URL=http://amotv.6te.net/tot.php?e584e0adae6440eab366f5fe3a824f91
 
 type=video
+name=Disney channel
+thumb=http://www.userlogos.org/files/logos/igor23/livetv_black.png
+URL=http://79.142.197.42:8888/udp/224.1.1.181:1234?auth=promo7uk?
+
+type=video
+name=Nickelodeon HD 
+thumb=http://www.userlogos.org/files/logos/igor23/livetv_black.png
+URL=http://46.44.62.91:81/udp/224.0.90.242:1234
+
+type=video
+name=Boomerang
+thumb=http://www.userlogos.org/files/logos/igor23/livetv_black.png
+URL=http://109.233.194.252:5556/udp/224.21.21.72:1234
+
+type=video
 name=
 thumb=
 URL=
