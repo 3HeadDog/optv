@@ -1,0 +1,552 @@
+version=1
+background=http://i1.sndcdn.com/artworks-000026231130-aqpm40-crop.jpg?d53bf9f
+title=Adults Only
+logo=http://funkyimg.com/u2/121/466/G_Adults_1_KL____.jpg
+ 
+
+# 1920941
+type=video
+name=test
+thumb=
+URL=rtmp://lm03.everyon.tv:1935/ptv3/ playpath=phd497 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://www.*****etzaa.tv/canales-tv/*****TV3.html
+
+
+
+# 1920941
+type=video
+name=xxx live 1
+thumb=
+URL=rtmp://lm03.everyon.tv:1935/ptv3/ playpath=phd497 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://www.*****etzaa.tv/canales-tv/*****TV3.html
+
+
+
+
+# 1920941
+type=video
+name=xxx live 2
+thumb=
+URL=rtmp://83.169.58.38:1935/live/HalloTV2
+
+
+
+
+# 1920941
+type=video
+name=xxx live 3
+thumb=
+URL=http://spi-live.ercdn.net/spi/eroxxhd_0_1/chunklist.m3u8
+
+
+
+
+
+
+
+# 1920941
+type=video
+name=NSV
+thumb=http://t1.ftcdn.net/jpg/00/52/57/10/400_F_52571078_sf28EzuiCTPj1NpNDGf1ztNsv2TSax5I.jpg
+URL=http://208.122.3.2:8550;stream.nsv
+
+
+
+# 1920941
+type=video
+name=Venus Tv
+thumb=http://i7.minus.com/iFkDBNtym4Ut5.png
+URL=rtmp://199.167.138.188/live/?u=veveveeve playpath=veveveeve swfUrl=http://stream4u.eu/player/player.swf pageUrl=http://www.stream4u.eu/embed.php?v=veveveeve&vw=489&vh=370&domain=www.mill-tv.com 
+
+
+
+
+# 1920941
+type=video
+name=1,XX HD
+thumb=http://4.bp.blogspot.com/-23a9hMf-JRM/Tk3CpiUNrjI/AAAAAAAABYs/1uaNPyG4x-g/s200/Cz-Error.png
+URL=http://spi-live.ercdn.net/spi/eroxhd_0_1/playlist.m3u8
+processor=
+player=default
+rating=-1.00
+
+# 1920941
+type=video
+name=Playboy Tv - 1
+thumb=http://www.thedirtsyndicate.org/directory/%7C01%7C_styleframes/Playboy+-+Tv+for+2/-thumbnails/Playboy_TvFor2_01.jpg?rnd=1313897914
+URL=http://91.240.87.34:4013/udp/224.200.202.91:1234
+
+# 1920941
+type=video
+name=Playboy TV - 2
+thumb=http://cdn.blogs.sheknows.com/realitytvmagazine.sheknows.com/2009/08/playboy_logo.jpg
+URL=rtmp://111.118.21.77/ptv3//phd499
+processor=
+player=default
+rating=-1.00
+
+
+# 1920941
+type=video
+name=Hallo Tv
+thumb=http://www.plugandplay.it/images/prodotti/img_ele00150hallo-TV-M.png
+URL=http://83.169.58.38:1935/live/HalloTV1/playlist.m3u8
+processor=
+player=default
+rating=-1.00
+
+
+
+# 1920941
+type=video
+name=Delight-Empire-HD
+thumb=http://tvonlineapp.com/wp-content/uploads/2013/07/timthumb.png
+URL=rtmp://lm02.everyon.tv:1935/ptv2/ playpath=phd63 swfUrl=https://tv091.googlecode.com/svn/trunk/player.swf live=1 pageUrl=http://jut4w4n-streaming.blogspot.com.au/2012/07/delight-empire-hd-movies.html
+processor=
+player=default
+rating=-1.00
+
+# 1920941
+type=video
+name=Play 19+
+thumb=http://4.bp.blogspot.com/-OMbKviiNSIE/Ud1TsvrtEMI/AAAAAAAAAtA/RHYjg5VJigE/s320/Play+19.PNG
+URL=rtmp://lm03.everyon.tv:1935/ptv3/ playpath=phd769 swfUrl=https://tv091.googlecode.com/svn/trunk/player.swf live=1 pageUrl=http://jut4w4n-streaming.blogspot.com.au/2012/02/playy-19.html
+processor=
+player=default
+rating=-1.00
+
+# 1920941
+type=video
+name=Pink Tv
+thumb=http://2.bp.blogspot.com/-MuEqyboBOME/TzQHSj4BKcI/AAAAAAAAAdg/Ns4nbxzoCn4/s1600/PINK_TV_LOGO.jpg
+URL=rtmp://lm02.everyon.tv/ptv2/ playpath=phd62 swfUrl=https://tv091.googlecode.com/svn/trunk/player.swf live=1 pageUrl=http://jut4w4n-streaming.blogspot.com.au/2012/07/pink-tv.html
+processor=
+player=default
+rating=-1.00
+
+# 1920941
+type=video
+name=Read On
+thumb=http://i1.wp.com/www.sat-expert.com/wp-content/uploads/2013/09/IMGi6820c.jpg?resize=660%2C330
+URL=rtmp://lm02.everyon.tv:1935/ptv2/ playpath=phd60 swfUrl=https://tv091.googlecode.com/svn/trunk/player.swf live=1 pageUrl=http://jut4w4n-streaming.blogspot.com.au/2012/12/read-on.html
+processor=
+player=default
+rating=-1.00
+
+# 1920941
+type=video
+name=ButGO
+thumb=http://i.brta.in/images/2014-01/268d5b4dbfd54b8fd2d232dc4e2fd46e.jpg
+URL=rtmp://lm01.everyon.tv:1935/ptv/ playpath=phd772 swfUrl=https://tv091.googlecode.com/svn/trunk/player.swf live=1 pageUrl=http://jut4w4n-streaming.blogspot.com.au/2012/02/butgo.html
+processor=
+player=default
+rating=-1.00
+
+# 1920941
+type=video
+name=Cinero
+thumb=http://infogue.com/static/upload/2014/01/18/20140118_190131_2628.jpg
+URL=rtmp://lm02.everyon.tv:1935/ptv2/ playpath=phd59 swfUrl=https://tv091.googlecode.com/svn/trunk/player.swf live=1 pageUrl=http://jut4w4n-streaming.blogspot.com.au/2012/07/cinero.html
+processor=
+player=default
+rating=-1.00
+
+# 1920941
+type=video
+name=Live Ting TV
+thumb=https://lh5.googleusercontent.com/-u76zIDh4pwo/UFcJtXV0LaI/AAAAAAAAW-o/jrbNs_hjdtc/s200/Livetingtv.jpg
+URL=rtmp://lm02.everyon.tv/ptv2/ playpath=phd64 swfUrl=https://tv091.googlecode.com/svn/trunk/player.swf live=1 pageUrl=http://jut4w4n-streaming.blogspot.com.au/2012/07/live-ting-tv.html
+processor=
+player=default
+rating=-1.00
+
+# 1920941
+type=video
+name=The O
+thumb=http://rack.0.mshcdn.com/media/ZgkyMDEyLzEyLzA0LzQyL25ld3h4eGRvbWFpLmFZUi5qcGcKcAl0aHVtYgk5NTB4NTM0IwplCWpwZw/77f37b40/4ae/new-xxx-domain-approved-for-porn-sites-497be451ca.jpg
+URL=rtmp://lm03.everyon.tv/ptv3/ playpath=phd771 swfUrl=https://tv091.googlecode.com/svn/trunk/player.swf live=1 pageUrl=http://jut4w4n-streaming.blogspot.com.au/2012/02/the-o.html
+processor=
+player=default
+rating=-1.00
+
+
+
+# 1920941
+type=video
+name=Clip-1
+thumb=
+URL=http://www.sockshare.com/file/C929FF16DDB912DA
+
+
+# 1920941
+type=video
+name=Clip-2
+thumb=
+URL=http://www.sockshare.com/file/D7B7E5BAF3F2F20F
+
+
+
+# 1920941
+type=video
+name=Clip-3
+thumb=
+URL=http://www.sockshare.com/file/50D5D485A8E88B18
+
+
+
+
+# 1920941
+type=video
+name=Clip-4
+thumb=
+URL=http://www.sockshare.com/file/98564CB598C81E89
+
+
+
+
+# 1920941
+type=video
+name=Clip-5
+thumb=
+URL=http://www.sockshare.com/file/2456B97733620E49
+
+
+
+
+
+# 1920941
+type=video
+name=Clip-6
+thumb=
+URL=http://www.sockshare.com/file/35CCCB3A5CE68BB1
+
+
+# 1920941
+type=video
+name=Clip-7
+thumb=
+URL=http://www.sockshare.com/file/49CE3CF1684BC087
+
+
+
+# 1920941
+type=video
+name=Clip-8
+thumb=
+URL=http://www.sockshare.com/file/ABEE8B2BCFEC1F19
+
+
+
+# 1920941
+type=video
+name=Clip-9
+thumb=
+URL=http://www.sockshare.com/file/17D9230360563B04
+
+
+
+# 1920941
+type=video
+name=Clip-10
+thumb=
+URL=http://www.sockshare.com/file/1D1452C02E46ADD5
+
+
+
+# 1920941
+type=video
+name=Clip-11
+thumb=
+URL=http://www.sockshare.com/file/A7256A372F242BAE
+
+
+
+# 1920941
+type=video
+name=Clip-12
+thumb=
+URL=http://www.sockshare.com/file/FB7BA3CDCDCC53B1
+
+
+
+
+# 1920941
+type=video
+name=Clip-13
+thumb=
+URL=http://www.sockshare.com/file/F5246C40EFADEFD3
+
+
+
+
+# 1920941
+type=video
+name=Clip-14
+thumb=
+URL=http://www.sockshare.com/file/F689247E01995316
+
+
+
+# 1920941
+type=video
+name=Clip-15
+thumb=
+URL=http://www.sockshare.com/file/524C8293038677B9
+
+
+
+# 1920941
+type=video
+name=Clip-16
+thumb=
+URL=http://www.sockshare.com/file/B8DCB4DD11EF23D3
+
+
+
+
+# 1920941
+type=video
+name=Clip-17
+thumb=
+URL=http://www.sockshare.com/file/F1AB78667BBDD7DA
+
+
+
+
+# 1920941
+type=video
+name=Clip-18
+thumb=
+URL=http://www.sockshare.com/file/CDE69B4965A467B0
+
+
+
+
+# 1920941
+type=video
+name=Clip-19
+thumb=
+URL=http://www.sockshare.com/file/6949D5E61D97901C
+
+
+
+
+# 1920941
+type=video
+name=Clip-20
+thumb=
+URL=http://www.sockshare.com/file/64F9B9F8E2652D31
+
+
+
+# 1920941
+type=video
+name=Clip-21
+thumb=
+URL=http://www.sockshare.com/file/ADDA170307D1A709
+
+
+
+# 1920941
+type=video
+name=Clip-22
+thumb=
+URL=http://www.sockshare.com/file/E16618057EFAB2D3
+
+
+
+# 1920941
+type=video
+name=Clip-23
+thumb=
+URL=http://www.sockshare.com/file/B34BC57977FEE8FD
+
+
+
+# 1920941
+type=video
+name=Clip-24
+thumb=
+URL=http://www.sockshare.com/file/73893B3A78138B4B
+
+
+
+# 1920941
+type=video
+name=Clip-25
+thumb=
+URL=http://www.sockshare.com/file/9B64CF45C09F4127
+
+
+
+# 1920941
+type=video
+name=Clip-26
+thumb=
+URL=http://www.sockshare.com/file/6C0EB0A2AD3664F9
+
+
+
+# 1920941
+type=video
+name=Clip-27
+thumb=
+URL=http://www.sockshare.com/file/862AFB80AEABBC7F
+
+
+
+# 1920941
+type=video
+name=Clip-28
+thumb=
+URL=http://www.sockshare.com/file/F16CE72CF1F6E353
+
+
+
+# 1920941
+type=video
+name=Clip-29
+thumb=
+URL=http://www.sockshare.com/file/BF76C862F19B19F7
+
+
+# 1920941
+type=video
+name=Clip-30
+thumb=
+URL=http://www.sockshare.com/file/DBF3A65E16128E7B
+
+
+# 1920941
+type=video
+name=Clip-31
+thumb=
+URL=http://www.sockshare.com/file/54625A1E496EA1D6
+
+
+# 1920941
+type=video
+name=Clip-32
+thumb=
+URL=http://www.sockshare.com/file/3E95F9801AF9199A
+
+# 1920941
+type=video
+name=Clip-33
+thumb=
+URL=http://www.sockshare.com/file/641A4C61EE1CA002
+
+# 1920941
+type=video
+name=Clip-34
+thumb=
+URL=http://www.sockshare.com/file/5A423E2F38039D24
+
+# 1920941
+type=video
+name=Clip-35
+thumb=
+URL=http://www.sockshare.com/file/76BDC9EE447B6C24
+
+# 1920941
+type=video
+name=Clip-36
+thumb=
+URL=http://www.sockshare.com/file/716443F8CE155F3D
+
+# 1920941
+type=video
+name=Clip-37
+thumb=
+URL=http://www.sockshare.com/file/536CF401CE63F283
+
+# 1920941
+type=video
+name=Clip-38
+thumb=
+URL=http://www.sockshare.com/file/265B26C8ADC18728
+
+# 1920941
+type=video
+name=Clip-39
+thumb=
+URL=http://www.sockshare.com/file/D9385CC3B472770D
+
+# 1920941
+type=video
+name=Clip-40
+thumb=
+URL=http://www.sockshare.com/file/8C14E871E234CABF
+
+# 1920941
+type=video
+name=Clip-41
+thumb=
+URL=http://www.sockshare.com/file/F0855DE199779C14
+
+# 1920941
+type=video
+name=Clip-42
+thumb=
+URL=http://www.sockshare.com/file/3FCFD311BEB1EF99
+
+# 1920941
+type=video
+name=Clip-43
+thumb=
+URL=http://www.sockshare.com/file/7E268F73F4871439
+
+# 1920941
+type=video
+name=Clip-44
+thumb=
+URL=http://www.sockshare.com/file/05658D5FDAB6BFA3
+
+
+
+# 1920941
+type=video
+name=Clip-45
+thumb=
+URL=http://www.sockshare.com/file/AA0A1212E2E8FB04
+
+
+# 1920941
+type=video
+name=Clip-46
+thumb=
+URL=http://v8.paradisehill.tv/video/quella_troia_di_mia_cugina.mp4
+
+
+# 1920941
+type=video
+name=Clip-47
+thumb=
+URL=http://v8.paradisehill.tv/video/dark_side_of_memphis.mp4
+
+
+# 1920941
+type=video
+name=Clip-48
+thumb=
+URL=http://v8.paradisehill.tv/video/non_ti_scordar_di_me.mp4
+
+
+# 1920941
+type=video
+name=Clip-49
+thumb=
+URL=http://v8.paradisehill.tv/video/una_mamma_molto_possessiva.mp4
+
+
+
+# 1920941
+type=video
+name=Clip-50
+thumb=
+URL=http://v8.paradisehill.tv/video/tra_madre_e_figlio_metti_la_sorella.mp4
+
+
+# 1920941
+type=video
+name=Clip-51
+thumb=
+URL=http://v8.paradisehill.tv/video/2002141414_147.m
