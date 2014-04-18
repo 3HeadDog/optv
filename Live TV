@@ -20,7 +20,7 @@ FOR MULTIPLE DIRECTORIES - CUT DOWN THE CODE YOU WOULD NORMALLY HAVE TO TYPE!  L
 	
 	<name>[COLOR steelblue][B]Sports[/B][/COLOR]</name>
 	<thumbnail>http://opensatuk.com/Banners/banner_sports.gif</thumbnail>
-	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/sports</link>
+	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Sport</link>
 
 	<name>[COLOR steelblue][B]Music[/B][/COLOR]</name>
 	<thumbnail>http://opensatuk.com/Banners/music.jpg</thumbnail>
@@ -32,6 +32,6 @@ FOR MULTIPLE DIRECTORIES - CUT DOWN THE CODE YOU WOULD NORMALLY HAVE TO TYPE!  L
 
 	<name>[COLOR steelblue][B]Kids[/B][/COLOR]</name>
 	<thumbnail>http://opensatuk.com/Banners/4kids-logo.jpg</thumbnail>
-	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/kids</link>
+	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Childrens</link>
 	
 </directories>
