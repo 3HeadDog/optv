@@ -13,10 +13,6 @@ FOR MULTIPLE DIRECTORIES - CUT DOWN THE CODE YOU WOULD NORMALLY HAVE TO TYPE!  L
 	<name>[COLOR steelblue][B]Entertainments[/B][/COLOR]</name>
 	<thumbnail>http://opensatuk.com/Banners/livetv.jpg</thumbnail>
 	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Entertainments</link>
-	
-	<name>[COLOR steelblue][B]Kids[/B][/COLOR]</name>
-	<thumbnail>http://opensatuk.com/Banners/4kids-logo.jpg</thumbnail>
-	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Childrens</link>
 
 	<name>[COLOR steelblue][B]Movies[/B][/COLOR]</name>
 	<thumbnail>http://opensatuk.com/Banners/Movies.jpg</thumbnail>
@@ -34,10 +30,9 @@ FOR MULTIPLE DIRECTORIES - CUT DOWN THE CODE YOU WOULD NORMALLY HAVE TO TYPE!  L
 	<thumbnail>http://opensatuk.com/Banners/Documentaries.jpg</thumbnail>
 	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Documentaries</link>
 
-	<name>[COLOR steelblue][B]Adult TV[/B][/COLOR]</name>
-	<thumbnail>http://opensatuk.com/Banners/xxx.jpg</thumbnail>
-	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Adult%20Live%20TV</link>
-	
+	<name>[COLOR steelblue][B]Kids[/B][/COLOR]</name>
+	<thumbnail>http://opensatuk.com/Banners/4kids-logo.jpg</thumbnail>
+	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Childrens</link>
 	
 	
 </directories>
