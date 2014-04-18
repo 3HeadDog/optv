@@ -14,7 +14,7 @@ URL=rtmp://lm03.everyon.tv:1935/ptv3/ playpath=phd497 swfUrl=http://player.longt
 
 # 1920941
 type=video
-name=xxx live 1
+name=Spice TV HD
 thumb=
 URL=rtmp://lm03.everyon.tv:1935/ptv3/ playpath=phd497 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://www.*****etzaa.tv/canales-tv/*****TV3.html
 
@@ -23,7 +23,7 @@ URL=rtmp://lm03.everyon.tv:1935/ptv3/ playpath=phd497 swfUrl=http://player.longt
 
 # 1920941
 type=video
-name=xxx live 2
+name=Hallo TV
 thumb=
 URL=rtmp://83.169.58.38:1935/live/HalloTV2
 
@@ -32,13 +32,9 @@ URL=rtmp://83.169.58.38:1935/live/HalloTV2
 
 # 1920941
 type=video
-name=xxx live 3
+name=Eroxxx HD
 thumb=
 URL=http://spi-live.ercdn.net/spi/eroxxhd_0_1/chunklist.m3u8
-
-
-
-
 
 
 
@@ -49,19 +45,9 @@ thumb=http://t1.ftcdn.net/jpg/00/52/57/10/400_F_52571078_sf28EzuiCTPj1NpNDGf1ztN
 URL=http://208.122.3.2:8550;stream.nsv
 
 
-
 # 1920941
 type=video
-name=Venus Tv
-thumb=http://i7.minus.com/iFkDBNtym4Ut5.png
-URL=rtmp://199.167.138.188/live/?u=veveveeve playpath=veveveeve swfUrl=http://stream4u.eu/player/player.swf pageUrl=http://www.stream4u.eu/embed.php?v=veveveeve&vw=489&vh=370&domain=www.mill-tv.com 
-
-
-
-
-# 1920941
-type=video
-name=1,XX HD
+name=EroX HD
 thumb=http://4.bp.blogspot.com/-23a9hMf-JRM/Tk3CpiUNrjI/AAAAAAAABYs/1uaNPyG4x-g/s200/Cz-Error.png
 URL=http://spi-live.ercdn.net/spi/eroxhd_0_1/playlist.m3u8
 processor=
