@@ -1,0 +1,32 @@
+#######################################################################################################################################
+<poster>Childrens TV</poster>
+<fanart>http://opensatuk.com/Banners/4kids-logo.jpg</fanart>
+#######################################################################################################################################
+
+
+
+<info>
+<message>[COLOR red]**[/COLOR] [COLOR aqua]Childrens TV[/COLOR] [COLOR red]**[/COLOR]</message>
+<thumbnail>http://opensatuk.com/Banners/4kids-logo.jpg</thumbnail>
+</info>
+
+https://raw.githubusercontent.com/3HeadDog/optv/master/movies1
+#######################################################################################################################################
+
+<dir>
+<name>[COLOR lime]Kids TV[/COLOR]</name>
+<link>https://raw.githubusercontent.com/3HeadDog/optv/master/kids</link>
+<thumbnail>http://opensatuk.com/Banners/4kids-logo.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR lime]TV Shows[/COLOR]</name>
+<link>https://raw.githubusercontent.com/3HeadDog/optv/master/More%20kids%20tv</link>
+<thumbnail>http://s20.postimg.org/z9xwm7uhp/Disney_Montage.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR lime]Movies[/COLOR]</name>
+<link>https://raw.githubusercontent.com/3HeadDog/optv/master/ANIMATION</link>
+<thumbnail>http://opensatuk.com/Banners/4kids-logo.jpg</thumbnail>
+</dir>
