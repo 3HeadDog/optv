@@ -148,9 +148,9 @@ URL=http://amotv.6te.net/tot.php?31b003ab7e7749a798fe00424e3dd9ff
 
 
 type=video
-name=
-thumb=
-URL=
+name=CBS reality
+thumb=http://newtvworld.com/Images/livetv_transparent.png
+URL=http://46.44.62.91:81/udp/224.0.90.47:1234
 
 type=video
 name=
