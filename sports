@@ -85,10 +85,7 @@ player=default
 rating=-1.00
 
 type=video
-name=Sky Sports News UK<name>Boxsets</name>
-<link>https://raw.github.com/mash2k3/Staael1982/master/Boxset.xml</link>
-<thumbnail>http://www.radiotimes.com/namedimage/Win_a_Universal_Studios_limited_edition_100_Movie_Collection_DVD_box_set.jpg?quality=85&mode=crop&width=620&height=374&404=tv&url=/uploads/images/original/22059.jpg</thumbnail>
-<date>WEEKLY</date>
+name=Sky Sports News UK
 thumb=http://img.skysports.com/11/04/Others/500219.jpg
 URL=rtmp://31.220.0.104:1935/live playpath=ssnewsrx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php
 player=default
