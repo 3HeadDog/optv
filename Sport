@@ -1,0 +1,51 @@
+#######################################################################################################################################
+<poster>Sport</poster>
+<fanart>http://opensatuk.com/Banners/banner_sports.gif</fanart>
+#######################################################################################################################################
+
+
+
+<info>
+<message>[COLOR red]**[/COLOR] [COLOR aqua]If you find a none working channel please let us know...[/COLOR] [COLOR red]**[/COLOR]</message>
+<thumbnail>http://opensatuk.com/Banners/banner_sports.gif</thumbnail>
+</info>
+
+https://raw.githubusercontent.com/3HeadDog/optv/master/movies1
+#######################################################################################################################################
+
+
+<dir>
+<name>All Channels</name>
+<link>https://raw.githubusercontent.com/3HeadDog/optv/master/sports</link>
+<thumbnail>http://opensatuk.com/Banners/banner_sports.gif</thumbnail>
+</dir>
+
+<dir>
+<name>UK Channels</name>
+<link>https://raw.githubusercontent.com/3HeadDog/optv/master/UK%20Sports</link>
+<thumbnail>http://opensatuk.com/Banners/banner_sports.gif</thumbnail>
+</dir>
+
+<dir>
+<name>Bein Sports</name>
+<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Bein%20Sports</link>
+<thumbnail>http://img2.wikia.nocookie.net/__cb20140103213705/logopedia/images/f/ff/Bein-sports.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Fights</name>
+<link></link>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
+<name>Workouts</name>
+<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Workout</link>
+<thumbnail>http://opensatuk.com/Banners/workout1.jpeg</thumbnail>
+</dir>
+
+<dir>
+<name></name>
+<link></link>
+<thumbnail></thumbnail>
+</dir>
