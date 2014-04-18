@@ -11,16 +11,25 @@ name=DISCOVERY HD World
 thumb=http://upload.wikimedia.org/wikipedia/en/1/12/Discovery_World_HD_Canada.png
 URL=http://202.75.23.34:8800/live/ch30/01.m3u8
 
+type=video
+name=DISCOVERY CHANNEL
+thumb=http://img2.wikia.nocookie.net/__cb20100728112637/logopedia/images/3/34/Discovery_Channel_2000.png
+URL=http://202.75.23.34:8800/live/ch29/01.m3u8
+
+type=video
+name=Discovery science
+thumb=http://newtvworld.com/Images/livetv_transparent.png
+URL=http://109.233.194.252:5556/udp/224.21.21.86:1234
+
+type=video
+name=National geographic
+thumb=http://newtvworld.com/Images/livetv_transparent.png
+URL=http://109.233.194.252:5556/udp/224.21.21.54:1234
 
 type=video
 name=NatGeo Wild
 thumb=http://picturesbythewayside.com/wp-content/uploads/2011/06/Nat-Geo-wild-logo.jpg
 URL=http://202.75.23.35:8800/live/ch39/01.m3u8
-
-type=video
-name=DISCOVERY CHANNEL
-thumb=http://img2.wikia.nocookie.net/__cb20100728112637/logopedia/images/3/34/Discovery_Channel_2000.png
-URL=http://202.75.23.34:8800/live/ch29/01.m3u8
 
 type=video
 name=Active Channel-HD
@@ -33,21 +42,10 @@ thumb=http://www.lyngsat-logo.com/logo/tv/aa/animal_planet_us_hd.jpg
 URL=rtmp://s01.webport.tv/promo/mtv live=1
 
 type=video
-name=Animal Planet
-thumb=http://static.ddmcdn.com/en-us/apl/images/network-default-still.jpg
-URL=http://202.75.23.34:8800/live/ch31/01.m3u8
+name=ID
+thumb=http://newtvworld.com/Images/livetv_transparent.png
+URL=http://109.233.194.252:5556/udp/224.21.21.88:1234
 
-
-
-type=video
-name=
-thumb=
-URL=
-
-type=video
-name=
-thumb=
-URL=
 
 type=video
 name=
