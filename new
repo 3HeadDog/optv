@@ -1,0 +1,2561 @@
+#######################################################################################################################################
+#########################################################-----------HEADER-----------##########################################################
+#######################################################################################################################################
+<poster>k1m05</poster>
+<fanart>http://opensatuk.com/image/data/banner2.gif</fanart>
+#######################################################################################################################################
+#########################################################------------INFO------------##########################################################
+#######################################################################################################################################
+<info>
+<message>[COLOR=FF00FF00]New [/COLOR][COLOR=pink]  *  [/COLOR][COLOR=FF00FF00] Channels[/COLOR]</message>
+<thumbnail>http://opensatuk.com/image/data/banner2.gif</thumbnail>
+</info>
+#######################################################################################################################################
+#########################################################--------------A-------------##########################################################
+#######################################################################################################################################
+################################################################################
+<item>
+<title>[COLOR=FFFF4500]WGBX-HD 44.1 Boston[/COLOR][COLOR=red]  *  [/COLOR]</title>
+<link>$doregex[rtmp] app=$doregex[app] playpath=2865.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<regex>
+<name>app</name>
+<expres>rtmp://[\.\w]*/([^"]+)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2865</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>rtmp</name>
+<expres>.*?p","url":"([^"]+).*</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2865</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>https://static.filmon.com/couch/channels/2865/big_logo.png</thumbnail>
+</item>
+################################################################################
+<item>
+<title>[COLOR=FFFF4500]Daystar Boston (WYDN-DT 48.1)[/COLOR][COLOR=red]  *  [/COLOR]</title>
+<link>$doregex[rtmp] app=$doregex[app] playpath=2866.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<regex>
+<name>app</name>
+<expres>rtmp://[\.\w]*/([^"]+)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2866</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>rtmp</name>
+<expres>.*?p","url":"([^"]+).*</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2866</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>https://static.filmon.com/couch/channels/2866/big_logo.png</thumbnail>
+</item>
+################################################################################
+<item>
+<title>[COLOR=FFFF4500]MOVIES! Boston (WFXT 25.2)[/COLOR][COLOR=red]  *  [/COLOR]</title>
+<link>$doregex[rtmp] app=$doregex[app] playpath=2857.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<regex>
+<name>app</name>
+<expres>rtmp://[\.\w]*/([^"]+)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2857</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>rtmp</name>
+<expres>.*?p","url":"([^"]+).*</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2857</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>https://static.filmon.com/couch/channels/2857/big_logo.png</thumbnail>
+</item>
+################################################################################
+<item>
+<title>[COLOR=FFFF4500]MyNetworkTV Boston (WSBK-TV 38.1)[/COLOR][COLOR=red]  *  [/COLOR]</title>
+<link>$doregex[rtmp] app=$doregex[app] playpath=2858.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<regex>
+<name>app</name>
+<expres>rtmp://[\.\w]*/([^"]+)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2858</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>rtmp</name>
+<expres>.*?p","url":"([^"]+).*</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2858</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>https://static.filmon.com/couch/channels/2858/big_logo.png</thumbnail>
+</item>
+################################################################################
+<item>
+<title>[COLOR=FFFF4500]CW Boston (WLVI 56.1)[/COLOR][COLOR=red]  *  [/COLOR]</title>
+<link>$doregex[rtmp] app=$doregex[app] playpath=2859.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<regex>
+<name>app</name>
+<expres>rtmp://[\.\w]*/([^"]+)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2859</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>rtmp</name>
+<expres>.*?p","url":"([^"]+).*</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2859</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>https://static.filmon.com/couch/channels/2859/big_logo.png</thumbnail>
+</item>
+################################################################################
+<item>
+<title>[COLOR=FFFF4500]This TV Boston (WHDH 7.2)[/COLOR][COLOR=red]  *  [/COLOR]</title>
+<link>$doregex[rtmp] app=$doregex[app] playpath=2862.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<regex>
+<name>app</name>
+<expres>rtmp://[\.\w]*/([^"]+)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2862</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>rtmp</name>
+<expres>.*?p","url":"([^"]+).*</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2862</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>https://static.filmon.com/couch/channels/2862/big_logo.png</thumbnail>
+</item>
+################################################################################
+<item>
+<title>[COLOR=FFFF4500]WGBH-HD Boston[/COLOR][COLOR=red]  *  [/COLOR]</title>
+<link>$doregex[rtmp] app=$doregex[app] playpath=2851.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<regex>
+<name>app</name>
+<expres>rtmp://[\.\w]*/([^"]+)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2851</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>rtmp</name>
+<expres>.*?p","url":"([^"]+).*</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2851</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>https://static.filmon.com/couch/channels/2851/big_logo.png</thumbnail>
+</item>
+################################################################################
+<item>
+<title>[COLOR=FFFF4500]Create Boston (WGBH 44.3)[/COLOR][COLOR=red]  *  [/COLOR]</title>
+<link>$doregex[rtmp] app=$doregex[app] playpath=2863.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<regex>
+<name>app</name>
+<expres>rtmp://[\.\w]*/([^"]+)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2863</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>rtmp</name>
+<expres>.*?p","url":"([^"]+).*</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2863</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>https://static.filmon.com/couch/channels/2863/big_logo.png</thumbnail>
+</item>
+################################################################################
+<item>
+<title>[COLOR=FFFF4500]World Boston (WGBH 2.2)[/COLOR][COLOR=red]  *  [/COLOR]</title>
+<link>$doregex[rtmp] app=$doregex[app] playpath=2852.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<regex>
+<name>app</name>
+<expres>rtmp://[\.\w]*/([^"]+)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2852</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>rtmp</name>
+<expres>.*?p","url":"([^"]+).*</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2852</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>https://static.filmon.com/couch/channels/2852/big_logo.png</thumbnail>
+</item>
+################################################################################
+<item>
+<title>[COLOR=FFFF4500]GBH Kids 44.4 Boston[/COLOR][COLOR=red]  *  [/COLOR]</title>
+<link>$doregex[rtmp] app=$doregex[app] playpath=2864.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<regex>
+<name>app</name>
+<expres>rtmp://[\.\w]*/([^"]+)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2864</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>rtmp</name>
+<expres>.*?p","url":"([^"]+).*</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2864</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>https://static.filmon.com/couch/channels/2864/big_logo.png</thumbnail>
+</item>
+################################################################################
+<item>
+<title>[COLOR=FFFF4500]CFRN CTV Edmonton[/COLOR][COLOR=red]  *  [/COLOR]</title>
+<link>$doregex[rtmp] app=$doregex[app] playpath=2053.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<regex>
+<name>app</name>
+<expres>rtmp://[\.\w]*/([^"]+)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2053</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>rtmp</name>
+<expres>.*?p","url":"([^"]+).*</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2053</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>https://static.filmon.com/couch/channels/2053/big_logo.png</thumbnail>
+</item>
+################################################################################
+<item>
+<title>[COLOR=FFFF4500]CKCK CTV Regina[/COLOR][COLOR=red]  *  [/COLOR]</title>
+<link>$doregex[rtmp] app=$doregex[app] playpath=2056.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<regex>
+<name>app</name>
+<expres>rtmp://[\.\w]*/([^"]+)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2056</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>rtmp</name>
+<expres>.*?p","url":"([^"]+).*</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2056</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>https://static.filmon.com/couch/channels/2056/big_logo.png</thumbnail>
+</item>
+################################################################################
+<item>
+<title>[COLOR=FFFF4500]CFCN-5 CTV Lethbridge[/COLOR][COLOR=red]  *  [/COLOR]</title>
+<link>$doregex[rtmp] app=$doregex[app] playpath=2059.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<regex>
+<name>app</name>
+<expres>rtmp://[\.\w]*/([^"]+)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2059</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>rtmp</name>
+<expres>.*?p","url":"([^"]+).*</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2059</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>https://static.filmon.com/couch/channels/2059/big_logo.png</thumbnail>
+</item>
+################################################################################
+<item>
+<title>[COLOR=FFFF4500]CICC CTV Yorkton[/COLOR][COLOR=red]  *  [/COLOR]</title>
+<link>$doregex[rtmp] app=$doregex[app] playpath=2062.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<regex>
+<name>app</name>
+<expres>rtmp://[\.\w]*/([^"]+)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2062</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>rtmp</name>
+<expres>.*?p","url":"([^"]+).*</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2062</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>https://static.filmon.com/couch/channels/2062/big_logo.png</thumbnail>
+</item>
+################################################################################
+################################################################################
+################################################################################
+<item>
+<title>[COLOR=FFFF4500]A&E[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/56660/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/56660/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/56660/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img46/5514/nc9o.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]ABC Family[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/30303/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/30303/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/30303/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img198/6494/jc3w.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]ABC[/COLOR][COLOR=purple]  *  [/COLOR]</title>
+<link>rtmpe://173.208.201.162:1935/goLive playpath=zJtx6glRuebarG8 swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#| live=true timeout=10</link>
+<thumbnail>http://imageshack.us/a/img198/6494/jc3w.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]ABC[/COLOR][COLOR=FF00FF00]  **  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/46476/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/46476/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/46476/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img198/6494/jc3w.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]ABC[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/60194/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/60194/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/60194/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img198/6494/jc3w.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+
+<item>
+<title>[COLOR=FFFF4500]AMC. [/COLOR]</title>
+<link>rtmp://174.36.169.182/live playpath=amcnewsn?id=195764 swfUrl=http://www.mips.tv/content/scripts/eplayer.swf pageUrl=http://www.mips.tv/embedplayer/amcnewsn/1/500/400 live=true timeout=10 conn=S:OK</link>
+<thumbnail>http://imageshack.us/a/img542/1716/f15h.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]AMC [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/58663/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/58663/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/58663/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img542/1716/f15h.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]Animal Planet [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/42027/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/42027/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/42027/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img19/8571/aq1e.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]Animal Planet [COLOR=FFFF0000]L!ve[/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/12762028/streams/live/playlist.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/3101581209/6fb77f2713439c6af75f161f73199cf8.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]Animal Planet [COLOR=FFFF0000]HD[/COLOR]</title>
+<link>rtmp://s01.webport.tv/promo/mtv pageURL=http://www.hqtv.biz swfUrl=http://www.hqtv.biz/1/wp-content/themes/hqtv/player/jwplayer.flash.swf live=true timeout=10</link>
+<thumbnail>http://imageshack.us/a/img199/6130/g1gl.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]Animal Planet</title>
+<link>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e45_wcif.sdp/e45_wcif.sdp-mr2548k.m3u8</link>
+<thumbnail>http://imageshack.us/a/img19/8571/aq1e.png</thumbnail>
+</item>
+#######################################################################################################################################
+#########################################################--------------B-------------##################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]BET [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/50652/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/50652/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/50652/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img689/1337/2du8.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]Bravo [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/52480/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/52480/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/52480/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img109/20/nu7.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Bravo [/COLOR][COLOR=purple]  *  [/COLOR]</title>
+<link>rtmpe://173.208.201.162:1935/goLive playpath=FmmPzBH1dOnQMX0 swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|</link>
+<thumbnail>http://imageshack.us/a/img109/20/nu7.png</thumbnail>
+</item>
+#######################################################################################################################################
+#########################################################--------------C-------------##################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]Cartoon Network[/COLOR]</title>
+<link>rtmp://cp106256.live.edgefcs.net:443/live/ playpath=iwantvcartoonnetwork-600@40841 swfUrl=http://superusvoxtv.com/modules/mod_playerjr/player-licensed5.swf pageUrl=http://superusvoxtv.com/paidversion/secure/cartoon2.html live=true timeout=10</link>
+<thumbnail>http://imageshack.us/a/img809/5080/knes.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]CBS [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/60178/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/60178/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/60178/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img703/6273/3pxf.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]CBS [/COLOR][COLOR=FF00FF00]  **  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/58048/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/58048/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/58048/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img703/6273/3pxf.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]CBS [/COLOR][COLOR=FF00FF00]  ***  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/57976/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/57976/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/57976/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img703/6273/3pxf.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]Comedy Central [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/52512/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/52512/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/52512/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img829/944/cc3l.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]The CW[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/52510/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/52510/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/52510/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img94/2491/xzf1.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]The CW[/COLOR][COLOR=FF00FF00]  **  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/57510/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/57510/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/57510/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img94/2491/xzf1.png</thumbnail>
+</item>
+#######################################################################################################################################
+#########################################################--------------D-------------##################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]Discovery Channel [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/38810/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/38810/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/38810/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img560/4061/kfsv.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]Discovery Channel [/COLOR][COLOR=FF00FF00]  **  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/59751/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/59751/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/59751/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img560/4061/kfsv.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]Discovery Turbo [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/52572/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/52572/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/52572/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img560/4061/kfsv.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]Disney [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/38804/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/38804/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/38804/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img849/1654/2e66.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<title>[COLOR=FFFF4500]Disney Jr.[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/50694/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/50694/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/50694/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img849/1654/2e66.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]Disney Jr.[/COLOR][COLOR=FF00FF00]  **  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/38804/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/38804/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/38804/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img849/1654/2e66.png</thumbnail>
+</item>
+#######################################################################################################################################
+#########################################################--------------E-------------##################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]E![/COLOR]</title>
+<link>rtmp://live.cast-tv.us/stream/z00031.live swfUrl=http://cast-tv.us/jwplayer/jwplayer.flash.swf pageUrl=http://cast-tv.us/embed.php?n=z00031&vw=700&vh=520 live=true timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sbs_e_kr.png</thumbnail>
+</item>
+#######################################################################################################################################
+#########################################################--------------F-------------##################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]FOX[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/55912/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/55912/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/55912/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img713/3384/c1av.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]FOX[/COLOR][COLOR=FF00FF00]  **  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/57975/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/57975/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/57975/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img713/3384/c1av.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]Fox Movies[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/38449/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/38449/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/38449/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img713/3384/c1av.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]FOX Crime[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/45011/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/45011/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/45011/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img203/6706/jkhv.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]Food Network[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/52506/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/52506/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/52506/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img441/8461/dju7.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]FX [/COLOR]</title>
+<link>>rtmp://live.cast-tv.us/stream playpath=z00027.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=fx live=true timeout=10</link>
+<thumbnail>http://imageshack.us/a/img196/9668/8x6l.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]FX[/COLOR][COLOR=FF00FF00]  West Coast  [/COLOR]</title>
+<link>rtmpe://watch.playfooty.tv/live playpath=fxi swfUrl=http://www.playfooty.tv/play/player/player.swf pageUrl=http://www.playfooty.tv/play/embed.php?u=fxi&vw=670&vh=410 live=true timeout=10</link>
+<thumbnail>http://imageshack.us/a/img196/9668/8x6l.png</thumbnail>
+</item>
+#######################################################################################################################################
+#########################################################--------------G-------------##################################################
+#######################################################################################################################################
+
+#######################################################################################################################################
+#########################################################--------------H-------------##################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]HBO[/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/_definst_/ playpath=$doregex[path] token=$doregex[tok] swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf pageUrl=http://www.iguide.to live=true timeout=10
+<regex>
+<name>url</name>
+<expres>streamer: "rtmp://([^"]*)",</expres>
+<page>http://www.iguide.to/view/1</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>.*file: "([^."]*).flv</expres>
+<page>http://www.iguide.to/view/1</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.iguide.to/serverfile.php</page>
+<referer>http://www.iguide.to</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/gg/golf_channel_us.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]HBO[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/36674/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/36674/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/36674/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img35/4518/so3q.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]HBO[/COLOR][COLOR=FF00FF00]  **  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/56823/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/56823/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/56823/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img35/4518/so3q.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]HBO[/COLOR][COLOR=FF00FF00]  USA?  [/COLOR]</title>
+<link>rtmpe://watch.playfooty.tv/live playpath=hbo1569 swfUrl=http://www.playfooty.tv/play/player/player.swf pageUrl=http://www.playfooty.tv/play/embed.php?u=hbo1569&vw=600&vh=430 live=true timeout=10</link>
+<thumbnail>http://imageshack.us/a/img35/4518/so3q.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]HBO Family[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/59887/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/59887/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/59887/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img35/4518/so3q.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]HBO Plus[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/58531/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/58531/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/58531/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img35/4518/so3q.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]HBO Comedy[/COLOR][COLOR=FF00FF00]  *  [/COLOR][COLOR=FFFF4500] HD [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/38214/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/38214/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/38214/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img15/7996/0p08.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]HGTV[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/52053/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/52053/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/52053/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img545/1635/0swi.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]History UK[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/59020/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/59020/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/59020/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img607/3204/u366.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]History[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/39949/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/39949/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/39949/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img607/3204/u366.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]History[/COLOR]</title>
+<link>rtmpe://94.242.228.20:443/liveedge/historyyy2948 </link>
+<thumbnail>http://imageshack.us/a/img607/3204/u366.png</thumbnail>
+</item>
+#######################################################################################################################################
+#########################################################--------------I-------------##################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]Investigation Discovery [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/52987/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/52987/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/52987/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img825/993/zx34.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]Investigation Discovery [/COLOR][COLOR=FF00FF00]  **  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/53173/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/53173/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/53173/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img825/993/zx34.png</thumbnail>
+</item>
+#######################################################################################################################################
+#########################################################--------------J-------------##################################################
+#######################################################################################################################################
+
+#######################################################################################################################################
+#########################################################--------------K-------------##################################################
+#######################################################################################################################################
+
+#######################################################################################################################################
+#########################################################--------------L-------------##################################################
+#######################################################################################################################################
+
+#######################################################################################################################################
+#########################################################--------------M-------------##################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]Nickelodeon[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/52991/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/52991/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/52991/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/military_channel_us.png</thumbnail>
+</item>
+#######################################################################################################################################
+#########################################################--------------N-------------##################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]National Geographic</title>
+<link>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e34_wcif.sdp/e34_wcif.sdp-mr2548k.m3u8</link>
+<thumbnail>http://imageshack.us/a/img21/4820/4pjl.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]National Geographic [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/55790/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/55790/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/55790/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img21/4820/4pjl.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]National Geographic [/COLOR][COLOR=FF00FF00]  **  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/41426/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/41426/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/41426/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img21/4820/4pjl.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]NBC[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/57956/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/57956/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/57956/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/scaled/landing/12/6w8y.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]NBC [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/56043/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/56043/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/56043/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/scaled/landing/12/6w8y.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]Nick[/COLOR]</title>
+<link>rtmp://fmsedge1.tikilive.com:1935/view/24535_051/ playpath=stream24535 swfUrl=http://www.tikilive.com/public/flash/player/fms/viewerModules/player/PlayerModule.swf?version=2.11.7 pageUrl=http://www.tikilive.com/embed?scheme=embedChannel&channelId=24535&showChat=0&pwidth=695&pheight=500&autoplay=yes live=true timeout=10</link>
+<thumbnail>http://img542.imageshack.us/img542/655/kwv6.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]Nick[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/52991/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/52991/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/52991/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://img542.imageshack.us/img542/655/kwv6.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Nick[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://cp106256.live.edgefcs.net:443/live/iwantvnick-256@62238 swfUrl=http://cdnbakmi.kaltura.com/p/931702/sp/93170200/flash/kdp3/v3.6.17/kdp3.swf live=true timeout=10</link>
+<thumbnail>http://img542.imageshack.us/img542/655/kwv6.png</thumbnail>
+</item>
+#######################################################################################################################################
+#########################################################--------------O-------------##################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]OWN[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/53857/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/53857/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/53857/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/oo/oprah_winfrey_network_east.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Oxygen[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/38197/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/38197/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/38197/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/oo/oxygen_tv_east.png</thumbnail>
+</item>
+#######################################################################################################################################
+#########################################################--------------P-------------##################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]PBS[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>
+  <sublink>rtmp://128.104.144.134/WisconsinChannel playpath=mystream swfUrl=http://www.wpt5.org/sites/all/themes/wptomega/js/player-licensed.swf pageUrl=http://superusvoxtv.com/paidversion/secure/pbs.html live=true timeout=10</sublink>
+  <sublink>rtsp://213-171.livestream.com:8080/livestreamiphone/1537057_2838159_9088e0a8_1_198@182865</sublink>
+  <sublink>http://livestream-f.akamaihd.net/1537057_2871700_3977de42_1_2320@182865?v=3.0.3&fp=WIN%2012,0,0,77&r=PGEOV&g=FOJHQLLTBDXH</sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/oo/oprah_winfrey_network_east.png</thumbnail>
+</item>
+#######################################################################################################################################
+#########################################################--------------Q-------------##################################################
+#######################################################################################################################################
+
+#######################################################################################################################################
+#########################################################--------------R-------------##################################################
+#######################################################################################################################################
+
+#######################################################################################################################################
+#########################################################--------------S-------------##################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]Showtime[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/44126/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/44126/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/44126/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://img96.imageshack.us/img96/1319/2sxk.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]Showtime[/COLOR][COLOR=FF00FF00]  **  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/61224/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/61224/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/61224/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://img96.imageshack.us/img96/1319/2sxk.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]Spike[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/52479/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/52479/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/52479/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img200/5839/dqlb.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]SYFY[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/46454/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/46454/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/46454/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img11/9546/yjwd.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]SYFY[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/59080/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/59080/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/59080/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img11/9546/yjwd.png</thumbnail>
+</item>
+#######################################################################################################################################
+#########################################################--------------T-------------##################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]TBS[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/53161/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/53161/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/53161/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img401/6038/8cr0.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]TBS[/COLOR]</title>
+<link>
+  <sublink>rtmp://live.cast-tv.us/stream playpath=z00004.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=tbs live=true timeout=10</sublink>
+  <sublink>rtmp://live.cast-tv.us/stream playpath=z00009.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=tbs live=true timeout=10</sublink>
+</link>
+<thumbnail>http://imageshack.us/a/img401/6038/8cr0.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]TLC[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/38765/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/38765/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/38765/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img94/7763/60my.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]MAX[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/57917/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/57917/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/57917/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img208/562/62.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]TNT[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/51072/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/51072/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/51072/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img208/562/62.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]TNT[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/57973/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/57973/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/57973/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img208/562/62.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]TNT[/COLOR]</title>
+<link>rtmp://live.cast-tv.us/stream playpath=z00008.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=tnt live=true timeout=10</link>
+<thumbnail>http://imageshack.us/a/img208/562/62.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]TruTV[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/52755/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/52755/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/52755/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img855/7817/oprn.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]Travel [COLOR=FFFF0000]SD[/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/52988/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/52988/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/52988/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img713/7941/sv6o.png</thumbnail>
+</item>
+#######################################################################################################################################
+#########################################################--------------U-------------##################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]USA[/COLOR]</title>
+<link>rtmp://live.cast-tv.us/stream playpath=z00010.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=usa live=true timeout=10</link>
+<thumbnail>http://imageshack.us/a/img46/3908/w3ls.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]USA [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/43335/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/43335/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/43335/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img46/3908/w3ls.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]USA [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/38768/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/38768/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/38768/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img46/3908/w3ls.png</thumbnail>
+</item>
+##############################################################################################################################
+#######################################################################################################################################
+#######################################################################################################################################
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]ABC[/COLOR][COLOR=purple]  *  [/COLOR]</title>
+<link>rtmpe://173.208.201.162:1935/goLive playpath=zJtx6glRuebarG8 swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf pageUrl=http://envivo.pw/ live=true timeout=10 token=OOG17t.x#K9Vh#|</link>
+<thumbnail>http://imageshack.us/a/img198/6494/jc3w.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]FOX[/COLOR][COLOR=purple]  *  [/COLOR]</title>
+<link>rtmpe://173.208.201.162:1935/goLive playpath=Wrt71g0jgwxgsHq swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf pageUrl=http://envivo.pw/ live=true timeout=10 token=OOG17t.x#K9Vh#|</link>
+<thumbnail>http://imageshack.us/a/img713/3384/c1av.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]AMC[/COLOR][COLOR=purple]  *  [/COLOR]</title>
+<link>rtmpe://173.208.201.162:1935/goLive playpath=JXazhC6b72u1gWK swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf pageUrl=http://envivo.pw/ live=true timeout=10 token=OOG17t.x#K9Vh#|</link>
+<thumbnail>http://imageshack.us/a/img542/1716/f15h.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Cartoon Network[/COLOR][COLOR=purple]  *  [/COLOR]</title>
+<link>rtmpe://173.208.201.162:1935/goLive playpath=eZ7xZHVw5Grm0Z5 swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf pageUrl=http://envivo.pw/ live=true timeout=10 token=OOG17t.x#K9Vh#|</link>
+<thumbnail>http://imageshack.us/a/img809/5080/knes.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]CBS[/COLOR][COLOR=purple]  *  [/COLOR]</title>
+<link>rtmpe://107.150.45.130:1935/goLive playpath=azmGtuELKBeufUN swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf pageUrl=http://envivo.pw/ live=true timeout=10 token=OOG17t.x#K9Vh#|</link>
+<thumbnail>http://imageshack.us/a/img703/6273/3pxf.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]SYFY[/COLOR][COLOR=purple]  *  [/COLOR]</title>
+<link>rtmpe://107.150.45.130:1935/goLive playpath=IlAtS62o00lVArb swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf pageUrl=http://envivo.pw/ live=true timeout=10 token=OOG17t.x#K9Vh#|</link>
+<thumbnail>http://imageshack.us/a/img11/9546/yjwd.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]TNT[/COLOR][COLOR=purple]  *  [/COLOR]</title>
+<link>rtmpe://173.208.201.162:1935/goLive playpath=wG35AzCNwnZU5vj swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf pageUrl=http://envivo.pw/ live=true timeout=10 token=OOG17t.x#K9Vh#|</link>
+<thumbnail>http://imageshack.us/a/img208/562/62.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]TBS[/COLOR][COLOR=purple]  *  [/COLOR]</title>
+<link>rtmpe://173.208.201.162:1935/goLive playpath=QB80x8dFgycQ8im swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf pageUrl=http://envivo.pw/ live=true timeout=10 token=OOG17t.x#K9Vh#|</link>
+<thumbnail>http://imageshack.us/a/img401/6038/8cr0.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]ABC FAMILY[/COLOR][COLOR=purple]  *  [/COLOR]</title>
+<link>rtmpe://173.208.201.162:1935/goLive playpath=OhiYoc6et5pslGH swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf pageUrl=http://envivo.pw/ live=true timeout=10 token=OOG17t.x#K9Vh#|</link>
+<thumbnail>http://imageshack.us/a/img198/6494/jc3w.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]CW[/COLOR][COLOR=purple]  *  [/COLOR]</title>
+<link>rtmpe://107.150.45.130:1935/goLive playpath=KUrd8VgVeAXis42 swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf pageUrl=http://envivo.pw/ live=true timeout=10 token=OOG17t.x#K9Vh#|</link>
+<thumbnail>http://imageshack.us/a/img94/2491/xzf1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]NICK[/COLOR][COLOR=purple]  *  [/COLOR]</title>
+<link>rtmpe://107.150.45.130:1935/goLive playpath=a0JvBbGBECShl4d swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf pageUrl=http://envivo.pw/ live=true timeout=10 token=OOG17t.x#K9Vh#|</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/military_channel_us.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]HISTORY CHANNEL[/COLOR][COLOR=purple]  *  [/COLOR]</title>
+<link>rtmpe://173.208.201.162:1935/goLive playpath=AxyKdVINZYdVI61 swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf pageUrl=http://envivo.pw/ live=true timeout=10 token=OOG17t.x#K9Vh#|</link>
+<thumbnail>http://imageshack.us/a/img607/3204/u366.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]NATIONAL GEOGRAPHIC[/COLOR][COLOR=purple]  *  [/COLOR]</title>
+<link>rtmpe://173.208.201.162:1935/goLive playpath=GD727mYru5vAmOd swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf pageUrl=http://envivo.pw/ live=true timeout=10 token=OOG17t.x#K9Vh#|</link>
+<thumbnail>http://imageshack.us/a/img21/4820/4pjl.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]A&E[/COLOR][COLOR=purple]  *  [/COLOR]</title>
+<link>rtmpe://107.150.45.130:1935/goLive playpath=nJlMXBYX7p9ZVsJ swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf pageUrl=http://envivo.pw/ live=true timeout=10 token=OOG17t.x#K9Vh#|</link>
+<thumbnail>http://imageshack.us/a/img46/5514/nc9o.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]NBC[/COLOR][COLOR=purple]  *  [/COLOR]</title>
+<link>rtmpe://107.150.45.130:1935/goLive playpath=KZDhUvxFIj6q7IY swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf pageUrl=http://envivo.pw/ live=true timeout=10 token=OOG17t.x#K9Vh#|</link>
+<thumbnail>http://imageshack.us/scaled/landing/12/6w8y.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+#######################################################################################################################################
+#######################################################################################################################################
+
+
+<item>
+<title>[COLOR=FFFF4500]Jim Jam[/COLOR][COLOR=pink]  *  [/COLOR]</title>
+<link>http://202.75.23.37:8800/live/ch17/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]MTV Live[/COLOR][COLOR=pink]  *  [/COLOR]</title>
+<link>http://202.75.23.37:8800/live/ch50/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Mediacorp[/COLOR][COLOR=pink]  *  [/COLOR]</title>
+<link>http://202.75.23.37:8800/live/ch15/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]VJ Fashion[/COLOR][COLOR=pink]  *  [/COLOR]</title>
+<link>http://202.75.23.37:8800/live/ch16/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Nickelodeon[/COLOR][COLOR=pink]  *  [/COLOR]</title>
+<link>http://202.75.23.36:8800/live/ch43/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]History[/COLOR][COLOR=pink]  *  [/COLOR]</title>
+<link>http://202.75.23.36:8800/live/ch45/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Bio[/COLOR][COLOR=pink]  *  [/COLOR]</title>
+<link>http://202.75.23.36:8800/live/ch46/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Crime Investigation[/COLOR][COLOR=pink]  *  [/COLOR]</title>
+<link>http://202.75.23.36:8800/live/ch47/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Life Time[/COLOR][COLOR=pink]  *  [/COLOR]</title>
+<link>http://202.75.23.36:8800/live/ch48/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Discovery Kids[/COLOR][COLOR=pink]  *  [/COLOR]</title>
+<link>http://202.75.23.35:8800/live/ch36/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Fashion One[/COLOR][COLOR=pink]  *  [/COLOR]</title>
+<link>http://202.75.23.35:8800/live/ch37/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]HD[/COLOR][COLOR=pink]  *  [/COLOR]</title>
+<link>http://202.75.23.35:8800/live/ch38/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]National Geographic Wild[/COLOR][COLOR=pink]  *  [/COLOR]</title>
+<link>http://202.75.23.35:8800/live/ch39/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]MGM[/COLOR][COLOR=pink]  *  [/COLOR]</title>
+<link>http://202.75.23.35:8800/live/ch40/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Travel[/COLOR][COLOR=pink]  *  [/COLOR]</title>
+<link>http://202.75.23.35:8800/live/ch41/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]MTV Rock[/COLOR][COLOR=pink]  *  [/COLOR]</title>
+<link>http://202.75.23.35:8800/live/ch42/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Discovery[/COLOR][COLOR=pink]  *  [/COLOR]</title>
+<link>http://202.75.23.34:8800/live/ch29/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Discovery World[/COLOR][COLOR=pink]  *  [/COLOR]</title>
+<link>http://202.75.23.34:8800/live/ch30/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Animal Planet[/COLOR][COLOR=pink]  *  [/COLOR]</title>
+<link>http://202.75.23.34:8800/live/ch31/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Discovery Turbo[/COLOR][COLOR=pink]  *  [/COLOR]</title>
+<link>http://202.75.23.34:8800/live/ch32/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Discovery Science[/COLOR][COLOR=pink]  *  [/COLOR]</title>
+<link>http://202.75.23.34:8800/live/ch33/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Home & Health[/COLOR][COLOR=pink]  *  [/COLOR]</title>
+<link>http://202.75.23.34:8800/live/ch34/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]TLC[/COLOR][COLOR=pink]  *  [/COLOR]</title>
+<link>http://202.75.23.34:8800/live/ch35/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Metro TV[/COLOR][COLOR=pink]  *  [/COLOR]</title>
+<link>http://202.75.23.33:8800/live/ch22/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Baby First[/COLOR][COLOR=pink]  *  [/COLOR]</title>
+<link>http://202.75.23.33:8800/live/ch27/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]BBC[/COLOR][COLOR=pink]  *  [/COLOR]</title>
+<link>http://202.75.23.33:8800/live/ch28/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
