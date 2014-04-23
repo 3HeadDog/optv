@@ -13,6 +13,19 @@ rating=-1.00
 
 /description
 
+<item>
+<title>[COLOR=FFFF4500][/COLOR]</title>
+<link>rtmp://80.93.53.88:1935/live/wrestling.stream</link>
+<thumbnail></thumbnail>
+</item>
+
+type=video
+name=Pro Wrestling TV
+thumb=http://www.pro-wrestling.tv/images/pwtv2012-1.png
+URL=rtmp://80.93.53.88:1935/live/wrestling.stream
+player=default
+rating=-1.00
+
 type=video
 name=BT Sport 1 UK
 thumb=http://m.thedrum.com/uploads/drum_basic_article/108674/main_images/Screen%20Shot%202013-05-09%20at%2012.16.24_0.png
