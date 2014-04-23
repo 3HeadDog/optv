@@ -9,31 +9,38 @@
 #######################################################################################################################################
 
 <dir>
-<name>All Movies</name>
+<name>[COLOR blue]All Movies[/COLOR]</name>
 <link>https://raw.githubusercontent.com/3HeadDog/optv/master/movies1</link>
 <thumbnail>http://opensatuk.com/Banners/Movies.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>3D Movies</name>
+<name>[COLOR yellow]3D Movies[/COLOR]</name>
 <link>https://raw.githubusercontent.com/3HeadDog/optv/master/3d%20movies</link>
 <thumbnail>http://opensatuk.com/Banners/3d.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>New Movies</name>
+<name>[COLOR red]New Movies[/COLOR]</name>
 <link>https://raw.githubusercontent.com/3HeadDog/optv/master/Theatre%20Releases</link>
 <thumbnail>http://opensatuk.com/Banners/Movies.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>Boxsets</name>
+<name>[COLOR green]Boxsets[/COLOR]</name>
 <link>https://raw.githubusercontent.com/3HeadDog/optv/master/Boxsets</link>
 <thumbnail>http://opensatuk.com/Banners/boxsets.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>Adult Movies</name>
+<name>[COLOR blue]Super[/COLOR]COLOR red]heroes[/COLOR]</name>
+<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Superheroes</link>
+<thumbnail>http://opensatuk.com/Banners/superheroes.jpeg</thumbnail>
+</dir>
+
+
+<dir>
+<name>[COLOR yellow]Adult Movies[/COLOR]</name>
 <link>https://raw.githubusercontent.com/3HeadDog/optv/master/Adult</link>
 <thumbnail>http://opensatuk.com/Banners/xxx.jpg</thumbnail>
 </dir>
