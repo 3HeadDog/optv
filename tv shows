@@ -170,6 +170,13 @@ URL=http://pastebin.com/raw.php?i=ZeD1XQx6
 player=default
 rating=-1.00
 
+type=playlist
+name=Carry On  
+thumb=http://upload.wikimedia.org/wikipedia/en/4/49/Carry_On_logo_illustration.jpg
+URL=http://pastebin.com/raw.php?i=2e2ppw1Q
+processor=http://www.navixtreme.com/proc/youtube
+player=default
+rating=-1.00
 
 type=playlist
 name=Chewin the Fat
