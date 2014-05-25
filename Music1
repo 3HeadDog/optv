@@ -16,11 +16,22 @@
 </dir>
 
 <dir>
-<name>Concerts 2</name>
-<link>https://raw.github.com/mash2k3/Staael1982/master/music/Full%20concerts.xml</link>
-<thumbnail>http://www.boxoffice.co.uk/content/images/events/7871/english-heritage-summer-picnic-concerts-1.jpg</thumbnail>
+<name>Live music videos</name>
+<link>https://raw.github.com/mash2k3/Staael1982/master/music/Live%20music.xml</link>
+<thumbnail>http://2.bp.blogspot.com/-LkbKH98ZUaA/UBgB0FV8U1I/AAAAAAAADqM/YQVkBUMMXY8/s1600/live+music.jpeg</thumbnail>
 </dir>
 
+<dir>
+<name>POP</name>
+<link>https://raw.github.com/mash2k3/Staael1982/master/music/Love%20&%20pop.xml</link>
+<thumbnail>http://www.mentalhealthy.co.uk/sites/default/files/Love-Addiction.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>POP1</name>
+<link>https://raw.github.com/mash2k3/Staael1982/master/music/Pop%201.xml</link>
+<thumbnail>http://lh5.ggpht.com/b0bAkrDNzuP4IX9dBQIAvUgc41L9mbuWeNC7jPjPTvm2sttTl9dTXtjVgnjLeIChUSSGkJTivGALiPjvLuI=s874</thumbnail>
+</dir>
 
 <dir>
 <name>80's hits</name>
@@ -35,57 +46,21 @@
 </dir>
 
 <dir>
-<name>Dance 2</name>
+<name>Dance</name>
 <link>https://raw.github.com/mash2k3/Staael1982/master/music/Dance%202.xml</link>
 <thumbnail>http://dangerouslee.files.wordpress.com/2012/07/techno1.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>Dance</name>
+<name>Dance 2</name>
 <link>https://raw.github.com/mash2k3/Staael1982/master/music/Dance.xml</link>
 <thumbnail>http://dangerouslee.files.wordpress.com/2012/07/techno1.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Danish music</name>
-<link>https://raw.github.com/mash2k3/Staael1982/master/music/Danish%20music.xml</link>
-<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxENCzAMMDEbSqhuf_AK-u43JpfYe-74jIbBNpnbQwLWRNkDXo</thumbnail>
-</dir>
-
-<dir>
-<name>Danish X factor 2013</name>
-<link>https://raw.github.com/mash2k3/Staael1982/master/music/Danish%20X%20factor%202013.xml</link>
-<thumbnail>http://img600.imageshack.us/img600/1610/sarahb.png</thumbnail>
 </dir>
 
 <dir>
 <name>Irish playlist</name>
 <link>https://raw.github.com/mash2k3/Staael1982/master/music/Irish%20playlist.xml</link>
 <thumbnail>http://blogs.phoenixnewtimes.com/uponsun/Leprechaun-Fiddling.png</thumbnail>
-</dir>
-
-<dir>
-<name>Live music</name>
-<link>https://raw.github.com/mash2k3/Staael1982/master/music/Live%20music.xml</link>
-<thumbnail>http://2.bp.blogspot.com/-LkbKH98ZUaA/UBgB0FV8U1I/AAAAAAAADqM/YQVkBUMMXY8/s1600/live+music.jpeg</thumbnail>
-</dir>
-
-<dir>
-<name>Love & pop</name>
-<link>https://raw.github.com/mash2k3/Staael1982/master/music/Love%20&%20pop.xml</link>
-<thumbnail>http://www.mentalhealthy.co.uk/sites/default/files/Love-Addiction.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Pop 1</name>
-<link>https://raw.github.com/mash2k3/Staael1982/master/music/Pop%201.xml</link>
-<thumbnail>http://lh5.ggpht.com/b0bAkrDNzuP4IX9dBQIAvUgc41L9mbuWeNC7jPjPTvm2sttTl9dTXtjVgnjLeIChUSSGkJTivGALiPjvLuI=s874</thumbnail>
-</dir>
-
-<dir>
-<name>Relaxing Music</name>
-<link>https://raw.github.com/mash2k3/Staael1982/master/music/Relaxing%20Music.xml</link>
-<thumbnail>http://www.musicya.net/wp-content/uploads/2013/03/Relaxing-Music-Relaxing-Music.jpg</thumbnail>
 </dir>
 
 <dir>
