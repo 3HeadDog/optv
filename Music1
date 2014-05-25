@@ -1,29 +1,24 @@
 #######################################################################################################################################
 <poster>Music</poster>
-<fanart></fanart>
+<fanart>http://1.bp.blogspot.com/-eyuqvX4VTPw/UWlw5Ka1UgI/AAAAAAAAJXI/6drqXzzAz6Q/s1600/cool+music+background+wallpapers++1.jpg</fanart>
 #######################################################################################################################################
 
 <dir>
 <name>UK Music</name>
 <link>https://raw.githubusercontent.com/3HeadDog/optv/master/music</link>
-<thumbnail></thumbnail>
+<thumbnail>http://hdwallpaperia.com/wp-content/uploads/2013/12/Free-Music-Wallpapers-Widescreen-640x359.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>Concerts</name>
 <link>https://raw.githubusercontent.com/3HeadDog/optv/master/Concerts</link>
-<thumbnail>http://schillergraphics.dk/wp-content/gallery/concerts/o7t3697.jpg</thumbnail>
+<thumbnail>http://www.mcfc.co.uk/~/media/Images/Home/News/Club%20news/2012/June/Cold%20play%20gallery/birds%20eye%20view.ashx?w=800&h=450&as=1</thumbnail>
 </dir>
 
 <dir>
 <name>Concerts 2</name>
 <link>https://raw.github.com/mash2k3/Staael1982/master/music/Full%20concerts.xml</link>
-<thumbnail>http://schillergraphics.dk/wp-content/gallery/concerts/o7t3697.jpg</thumbnail>
-</dir>
-<dir>
-<name>Concerts 2</name>
-<link>https://raw.github.com/mash2k3/Staael1982/master/music/Full%20concerts.xml</link>
-<thumbnail>http://schillergraphics.dk/wp-content/gallery/concerts/o7t3697.jpg</thumbnail>
+<thumbnail>http://www.boxoffice.co.uk/content/images/events/7871/english-heritage-summer-picnic-concerts-1.jpg</thumbnail>
 </dir>
 
 
