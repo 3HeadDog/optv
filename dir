@@ -3,13 +3,9 @@
 
 https://raw.githubusercontent.com/3HeadDog/optv/master/xxx
 
-FOR MULTIPLE DIRECTORIES - CUT DOWN THE CODE YOU WOULD NORMALLY HAVE TO TYPE!  LOOKS CLEANER!  EASIER TO READ!
+
 <directories>
-	
-	<name>[COLOR steelblue][B]How 2[/B][/COLOR]</name>
-	<thumbnail>http://opensatuk.com/image/data/banner2.gif</thumbnail>
-	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/utube</link>
-	
+
 	<name>[COLOR darkorange][B]LIVE TV[/B][/COLOR]</name>
 	<thumbnail>http://opensatuk.com/Banners/livetv.jpg</thumbnail>
 	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Live%20TV</link>
@@ -40,5 +36,6 @@ FOR MULTIPLE DIRECTORIES - CUT DOWN THE CODE YOU WOULD NORMALLY HAVE TO TYPE!  L
 	
 	http://movreel.com/w8xdqwuqptkj
 	https://raw.githubusercontent.com/3HeadDog/optv/master/new
+	
 </directories>
 	
