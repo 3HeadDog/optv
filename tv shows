@@ -7,6 +7,13 @@ description=[COLOR=FFFFFF00]TV Shows[/COLOR]/description
 /description
 
 type=playlist
+name=Live stand up 
+thumb=http://4.bp.blogspot.com/-Yymc6ZUbmWY/UwYOOOljroI/AAAAAAAAGFo/APJpRvI5TOg/s1600/1.jpg
+URL=https://raw.githubusercontent.com/3HeadDog/optv/master/Live%20Stand%20up%20Comedy
+player=default
+rating=-1.00
+
+type=playlist
 name=War Movies 
 thumb=http://cdn3.whatculture.com/wp-content/uploads/2012/01/Combat_Wings_dogfight2.png
 URL=http://pastebin.com/raw.php?i=VGRGUjPc
