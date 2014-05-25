@@ -2,13 +2,13 @@
 <fanart>http://opensatuk.com/Banners/opensatuk%20icon.jpg</fanart>
 
 https://raw.githubusercontent.com/3HeadDog/optv/master/xxx
-
+https://raw.githubusercontent.com/3HeadDog/optv/master/Live%20TV
 
 <directories>
 
-	<name>[COLOR darkorange][B]LIVE TV[/B][/COLOR]</name>
+	<name>[COLOR darkorange][B]LIVE TV Coming Soon[/B][/COLOR]</name>
 	<thumbnail>http://opensatuk.com/Banners/livetv.jpg</thumbnail>
-	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Live%20TV</link>
+	<link>dummy.file</link>
 	
 	<name>[COLOR aqua]Fresh Out[/COLOR]</name>
 	<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Freshout.xml</link>
