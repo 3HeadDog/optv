@@ -248,6 +248,13 @@ URL=http://pastebin.com/raw.php?i=ivfAuAHL
 player=default
 rating=-1.00
 
+type=playlist
+name=fargo  
+thumb=http://ia.media-imdb.com/images/M/MV5BMjMzMTIzMTUwN15BMl5BanBnXkFtZTgwNjE0NTg0MTE@._V1_SX500_SY999_.jpg
+URL=http://pastebin.com/raw.php?i=HXpgG01k
+player=default
+rating=-1.00
+
 # 2122765
 type=playlist
 name=Father Ted  
@@ -764,6 +771,13 @@ player=default
 rating=-1.00
 
 type=video
+name=WENTWORTH SEASON 1-2
+thumb=http://ecx.images-amazon.com/images/I/51X49sSBK6L._SY300_.jpg
+URL=http://pastebin.com/raw.php?i=fHvRcZrA
+player=default
+rating=-1.00
+
+type=video
 name=The X Files
 thumb=http://www.bubblews.com/assets/images/news/203274759_1374380363.jpg
 URL=rtmp://198.27.74.25/app playpath=xfiles02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?xfiles02 live=1
@@ -866,11 +880,6 @@ name=Everybody Loves Raymond
 thumb=http://img4.wikia.nocookie.net/__cb20121016201615/raymond/images/8/8b/Everybody-Loves-Raymond_1024-768.jpg
 URL=rtmp://198.27.74.25/app playpath=elr02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?elr02 live=1
 
-
-type=video
-name=
-thumb=
-URL=
 
 type=video
 name=
