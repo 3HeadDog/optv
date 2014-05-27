@@ -21,6 +21,11 @@ https://raw.githubusercontent.com/3HeadDog/optv/master/movies1
 </dir>
 https://raw.githubusercontent.com/3HeadDog/optv/master/sports
 
+<dir>
+<name>World Cup **Thursday, June 12** </name>
+<link>dummy.file</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/e/e8/WC-2014-Brasil.svg/160px-WC-2014-Brasil.svg.png</thumbnail>
+</dir>
 
 <dir>
 <name>Premiership**Coming soon** </name>
