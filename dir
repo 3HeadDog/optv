@@ -10,6 +10,10 @@ https://raw.githubusercontent.com/3HeadDog/optv/master/Live%20TV
 	<thumbnail>http://opensatuk.com/Banners/livetv.jpg</thumbnail>
 	<link>dummy.file</link>
 	
+	<name>[COLOR yellow]Sports[/COLOR]</name>
+	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Sport</link>
+	<thumbnail>http://opensatuk.com/Banners/banner_sports.gif</thumbnail>
+	
 	<name>[COLOR aqua]Fresh Out[/COLOR]</name>
 	<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Freshout.xml</link>
 	<thumbnail>http://farm6.staticflickr.com/5490/10217412684_f35c62838d_o.jpg</thumbnail>
@@ -29,6 +33,9 @@ https://raw.githubusercontent.com/3HeadDog/optv/master/Live%20TV
 	<name>[COLOR lightseagreen][B]Music Video's[/B][/COLOR]</name>
 	<thumbnail>http://opensatuk.com/Banners/music.jpg</thumbnail>
 	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Music1</link>
+
+
+
 	
 	http://movreel.com/w8xdqwuqptkj
 	https://raw.githubusercontent.com/3HeadDog/optv/master/new
