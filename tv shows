@@ -1,10 +1,15 @@
 version=1
-background=http://opensatuk.com/image/data/banner2.gif
+background=https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xap1/t1.0-9/10341555_1490047201226743_8612028196224932884_n.jpg
 title=[COLOR=FFFFFF00][B]TV Shows[/B][/COLOR]
 logo=http://opensatuk.com/image/data/banner2.gif
 description=[COLOR=FFFFFF00]TV Shows[/COLOR]/description
 
 /description
+
+<info>
+<message>[COLOR red]**[/COLOR] [COLOR aqua]If you find a none working channel please let us know...On Twitter @opensatuk [/COLOR] [COLOR red]**[/COLOR]</message>
+<thumbnail></thumbnail>
+</info>
 
 type=playlist
 name=Live Stand up 
@@ -524,7 +529,10 @@ URL=http://pastebin.com/raw.php?i=Q4PGTGKa
 player=default
 rating=-1.00
 
-
+type=playlist
+name=Prisoner Cell Block H
+thumb=http://2.bp.blogspot.com/-mp0kF-eFGpo/T55PDI36BwI/AAAAAAAAAhc/TzH6yimBQLo/s1600/prisoner.jpg
+URL=http://pastebin.com/raw.php?i=Bda4GrLN
 
 type=playlist
 name=Psychoville
@@ -597,12 +605,25 @@ URL=http://pastebin.com/raw.php?i=Vc3v6Gyx
 player=default
 rating=-1.00
 
+type=playlist
+name=Spender
+thumb=http://www.readysteadygone.co.uk/wp-content/uploads/2011/10/spender.jpg
+URL=http://pastebin.com/raw.php?i=YiySpw1D
+player=default
+rating=-1.00
 
 # 2122908
 type=playlist
 name=Steptoe-And-Son
 thumb=https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-prn2/t1.0-9/p403x403/971456_10151526597884865_276142715_n.jpg
 URL=http://pastebin.com/raw.php?i=P0yRBPRS
+player=default
+rating=-1.00
+
+type=playlist
+name=Still Game
+thumb=http://s2.thcdn.com/productimg/0/600/600/91/9994791-1309426568-921748.jpg
+URL=http://pastebin.com/raw.php?i=Ze5m6mBP
 player=default
 rating=-1.00
 
@@ -620,7 +641,12 @@ name=Time Gentlemen Please
 thumb=http://www.thetvking.com/images/tvShows/poster/Time%20Gentlemen%20Please.jpg
 URL=http://pastebin.com/raw.php?i=Fvf96fEr
 
-
+type=playlist
+name=Top-Gear
+thumb=http://images.starpulse.com/news/bloggers/684225/blog_images/top-gear-54.jpg
+URL=http://pastebin.com/raw.php?i=0ML83Q36
+player=default
+rating=-1.00
 
 type=playlist
 name=The Smell of Reeves and Mortimer
@@ -677,6 +703,13 @@ type=playlist
 name=The Sopranos  
 thumb=http://coreyholms.com/portfolio/19/sopranos.jpg
 URL=http://pastebin.com/raw.php?i=9CqN9xJ3
+player=default
+rating=-1.00
+
+type=playlist
+name=The-Vicar-of-Dibley
+thumb=http://www.episodedata.com/images/series/vicarofdibley.jpg
+URL=http://pastebin.com/raw.php?i=LGTGftKi
 player=default
 rating=-1.00
 
