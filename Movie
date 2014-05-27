@@ -21,12 +21,6 @@
 </dir>
 
 <dir>
-<name>[COLOR red]New Movies[/COLOR]</name>
-<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Theatre%20Releases</link>
-<thumbnail>http://opensatuk.com/Banners/Movies.jpg</thumbnail>
-</dir>
-
-<dir>
 <name>[COLOR green]Boxsets[/COLOR]</name>
 <link>https://raw.githubusercontent.com/3HeadDog/optv/master/Boxsets</link>
 <thumbnail>http://opensatuk.com/Banners/boxsets.jpg</thumbnail>
