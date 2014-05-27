@@ -15,29 +15,29 @@ https://raw.githubusercontent.com/3HeadDog/optv/master/movies1
 
 
 <dir>
-<name>All Channels</name>
-<link>https://raw.githubusercontent.com/3HeadDog/optv/master/sports</link>
+<name>All Channels **Coming soon**</name>
+<link>dummy.file</link>
 <thumbnail>http://opensatuk.com/Banners/banner_sports.gif</thumbnail>
 </dir>
-
+https://raw.githubusercontent.com/3HeadDog/optv/master/sports
 <dir>
-<name>UK Channels</name>
-<link>https://raw.githubusercontent.com/3HeadDog/optv/master/UK%20Sports</link>
+<name>UK Channels **Coming soon**</name>
+<link>dummy.file</link>
 <thumbnail>http://opensatuk.com/Banners/banner_sports.gif</thumbnail>
 </dir>
-
+https://raw.githubusercontent.com/3HeadDog/optv/master/UK%20Sports
 <dir>
-<name>Premiership</name>
-<link>http://pastebin.com/raw.php?i=YA6HaNLU</link>
+<name>Premiership**Coming soon** </name>
+<link>dummy.file</link>
 <thumbnail></thumbnail>
 </dir>
-
+http://pastebin.com/raw.php?i=YA6HaNLU
 <dir>
-<name>Bein Sports</name>
-<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Bein%20Sports</link>
+<name>Bein Sports **Coming soon**</name>
+<link>dummy.file</link>
 <thumbnail>http://img2.wikia.nocookie.net/__cb20140103213705/logopedia/images/f/ff/Bein-sports.jpg</thumbnail>
 </dir>
-
+https://raw.githubusercontent.com/3HeadDog/optv/master/Bein%20Sports
 <dir>
 <name>Workouts</name>
 <link>https://raw.githubusercontent.com/3HeadDog/optv/master/Workout</link>
