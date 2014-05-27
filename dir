@@ -1,5 +1,5 @@
 <poster>[COLOR lightgoldenrodyellow][B]OpenSatUK[/B][/COLOR]</poster>
-<fanart>http://opensatuk.com/Banners/opensatuk%20icon.jpg</fanart>
+<fanart>https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xap1/t1.0-9/10341555_1490047201226743_8612028196224932884_n.jpg</fanart>
 
 https://raw.githubusercontent.com/3HeadDog/optv/master/xxx
 https://raw.githubusercontent.com/3HeadDog/optv/master/Live%20TV
@@ -13,10 +13,6 @@ https://raw.githubusercontent.com/3HeadDog/optv/master/Live%20TV
 	<name>[COLOR yellow]Sports[/COLOR]</name>
 	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Sport</link>
 	<thumbnail>http://opensatuk.com/Banners/banner_sports.gif</thumbnail>
-	
-	<name>[COLOR aqua]Fresh Out[/COLOR]</name>
-	<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Freshout.xml</link>
-	<thumbnail>http://farm6.staticflickr.com/5490/10217412684_f35c62838d_o.jpg</thumbnail>
 	
 	<name>[COLOR firebrick][B]TV Shows[/B][/COLOR]</name>
 	<thumbnail>http://opensatuk.com/Banners/livetv.jpg</thumbnail>
@@ -33,6 +29,10 @@ https://raw.githubusercontent.com/3HeadDog/optv/master/Live%20TV
 	<name>[COLOR lightseagreen][B]Music Video's[/B][/COLOR]</name>
 	<thumbnail>http://opensatuk.com/Banners/music.jpg</thumbnail>
 	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Music1</link>
+	
+	<name>[COLOR aqua]Fresh Out[/COLOR]</name>
+	<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Freshout.xml</link>
+	<thumbnail>http://farm6.staticflickr.com/5490/10217412684_f35c62838d_o.jpg</thumbnail>
 
 
 
