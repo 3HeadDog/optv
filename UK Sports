@@ -1,13 +1,13 @@
 version=1
-background=http://opensatuk.com/image/data/banner2.gif
+background=https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xap1/t1.0-9/10341555_1490047201226743_8612028196224932884_n.jpg
 title=[COLOR=FFFFFF00][B]UK Sports[/B][/COLOR]
-logo=http://opensatuk.com/image/data/banner2.gif
-description=[COLOR=FFFFFF00]Sports[/COLOR]/description
+logo=https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xpf1/t1.0-9/10361050_1490047324560064_2836848111983054195_n.jpg
+description=[COLOR=FFFFFF00]UK Live Sports[/COLOR]/description
 
 type=video
 name=[COLOR red]If you find a none working channel please let us know...[/COLOR]
 thumb=
-URL=rtmp://31.220.0.134:1935
+URL=dummy.file
 player=default
 rating=-1.00
 
@@ -19,10 +19,12 @@ rating=-1.00
 <thumbnail></thumbnail>
 </item>
 
+
+
 type=video
-name=Pro Wrestling TV
-thumb=http://www.pro-wrestling.tv/images/pwtv2012-1.png
-URL=rtmp://80.93.53.88:1935/live/wrestling.stream
+name=Sky Sports News UK
+thumb=http://img.skysports.com/11/04/Others/500219.jpg
+URL=rtmp://31.220.0.104:1935/live playpath=ssnewsrx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php
 player=default
 rating=-1.00
 
@@ -41,51 +43,9 @@ player=default
 rating=-1.00
 
 type=video
-name=Sky News UK
-thumb=http://cdn.newsthump.com/wp-content/uploads/2013/05/Sky-News-logo.jpg
-URL=http://hd2.lsops.net/live/skynewsi_en_372/playlist.m3u8#sthash.w0RzJgYG.dpuf
-player=default
-rating=-1.00
-
-type=video
-name=Sky Poker UK
-thumb=http://www.rakeback.com/images/logos/roompages/screenshots/sky-poker-logo-screenshot.jpg
-URL=rtmp://cp67698.live.edgefcs.net/live/SkyPoker_500k@9124 app=live pageUrl=http://www.estadio.in/skypoker swfUrl=http://www.estadio.in/player.swf tcUrl=rtmp://cp67698.live.edgefcs.net/live playPath=SkyPoker_500k@9124 swfVfy=true live=true timeout=10
-player=default
-rating=-1.00
-
-type=video
-name=Sky Sports 1 UK
-thumb=http://tvnewsroom.co.uk/wp-content/section-images/sky-sports-1-ident-2010/Sky%20Sports%201%20Ident%20201024.jpg
-URL=rtmp://31.220.0.104:1935/live playpath=ss1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php
-player=default
-rating=-1.00
-
-type=video
-name=Sky Sports 2 UK
-thumb=http://tvnewsroom.co.uk/wp-content/section-images/sky-sports-2-ident-2010/Sky%20Sports%202%20Ident%20201005.jpg
-URL=rtmp://31.220.0.104:1935/live playpath=ss2x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php
-player=default
-rating=-1.00
-
-type=video
-name=Sky Sports 3 UK
-thumb=http://tvnewsroom.co.uk/wp-content/section-images/sky-sports-3-ident-2010/TVnewsroom-2010-01-24-20h56m28s206.jpg
-URL=rtmp://31.220.0.104:1935/live playpath=ss3x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php
-player=default
-rating=-1.00
-
-type=video
-name=Sky Sports 4 UK
-thumb=http://tvnewsroom.co.uk/wp-content/section-images/sky-sports-4-ident-2010/Sky%20Sports%204%20Ident%20201012.jpg
-URL=rtmp://31.220.0.104:1935/live playpath=ss4x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php
-player=default
-rating=-1.00
-
-type=video
-name=Sky Sports F1 UK
-thumb=http://www.theidentgallery.com/skysports/2012/SKYS-2012-BB-F1-1-8.jpg
-URL=rtmp://31.7.58.122:1935/stream/ffe84f5ed.stream swfUrl=http://thecdn.04stream.com/p/bop.swf live=true timeout=10
+name=MUTV
+thumb=http://fs153.www.ex.ua/show/54464157/54464157.jpg?1600
+URL=rtmp://46.23.67.98:443/liverepeater playpath=stream27 swfUrl=http://static.surk.tv/player.swf pageUrl=http://cdn.kingofplayers.com/stream27.html
 player=default
 rating=-1.00
 
@@ -96,19 +56,56 @@ URL=rtmp://cp96798.live.edgefcs.net:443/live/ChelTV_Ch01_1000k@26291 swfUrl=http
 player=default
 rating=-1.00
 
+
 type=video
-name=Sky Sports News UK<name>
-thumb=http://img.skysports.com/11/04/Others/500219.jpg
-URL=rtmp://31.220.0.104:1935/live playpath=ssnewsrx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php
+name=Sky Sports 1 UK
+thumb=http://tvnewsroom.co.uk/wp-content/section-images/sky-sports-1-ident-2010/Sky%20Sports%201%20Ident%20201024.jpg
+URL=rtmp://37.220.32.44:443/liverepeater playpath=23697 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ss1.html
 player=default
 rating=-1.00
 
 type=video
-name=RACING UK
-thumb=http://substantialfilms.co.uk/wp-content/uploads/2012/12/racing.uk_.logo_.jpg
-URL=http://cdn.live.tvplayer.simplestream.com/coder1/coder.channels.channel8/hls/3/playlist.m3u8
+name=Sky Sports 2 UK
+thumb=http://tvnewsroom.co.uk/wp-content/section-images/sky-sports-2-ident-2010/Sky%20Sports%202%20Ident%20201005.jpg
+URL=rtmp://37.220.32.44:443/liverepeater playpath=33698 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ss2.html
+player=default
+rating=-1.00
 
 type=video
-name=AT THE RACES
+name=Sky Sports 3 UK
+thumb=http://tvnewsroom.co.uk/wp-content/section-images/sky-sports-3-ident-2010/TVnewsroom-2010-01-24-20h56m28s206.jpg
+URL=rtmp://37.220.36.64:443/liverepeater playpath=23699 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ss3.html
+player=default
+rating=-1.00
+
+type=video
+name=Sky Sports 4 UK
+thumb=http://tvnewsroom.co.uk/wp-content/section-images/sky-sports-4-ident-2010/Sky%20Sports%204%20Ident%20201012.jpg
+URL=rtmp://37.220.36.65:443/liverepeater playpath=23700 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ss4.html
+player=default
+rating=-1.00
+
+type=video
+name=Sky Sports F1 UK ** Offline
+thumb=http://www.theidentgallery.com/skysports/2012/SKYS-2012-BB-F1-1-8.jpg
+URL=dummy.file
+player=default
+rating=-1.00
+
+
+type=video
+name=Pro Wrestling TV ** Offline
+thumb=http://www.pro-wrestling.tv/images/pwtv2012-1.png
+URL=dummy.file
+player=default
+rating=-1.00
+
+type=video
+name=RACING UK ** Offline
+thumb=http://substantialfilms.co.uk/wp-content/uploads/2012/12/racing.uk_.logo_.jpg
+URL=dummy.file
+
+type=video
+name=AT THE RACES ** Offline
 thumb=http://www.brighton-racecourse.co.uk/_images/racinghome/ATR-logo.jpg
-URL=http://cdn.live.tvplayer.simplestream.com/coder1/coder.channels.channel2/hls/1/playlist.m3u8
+URL=dummy.file
