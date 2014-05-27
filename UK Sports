@@ -11,14 +11,6 @@ description=[COLOR=FFFFFF00]UK Live Sports[/COLOR]/description
 
 /description
 
-<item>
-<title>[COLOR=FFFF4500][/COLOR]</title>
-<link>rtmp://80.93.53.88:1935/live/wrestling.stream</link>
-<thumbnail></thumbnail>
-</item>
-
-
-
 type=video
 name=Sky Sports News UK
 thumb=http://img.skysports.com/11/04/Others/500219.jpg
