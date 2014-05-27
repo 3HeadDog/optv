@@ -4,12 +4,10 @@ title=[COLOR=FFFFFF00][B]UK Sports[/B][/COLOR]
 logo=https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xpf1/t1.0-9/10361050_1490047324560064_2836848111983054195_n.jpg
 description=[COLOR=FFFFFF00]UK Live Sports[/COLOR]/description
 
-type=video
-name=[COLOR red]If you find a none working channel please let us know...[/COLOR]
-thumb=
-URL=dummy.file
-player=default
-rating=-1.00
+<info>
+<message>[COLOR red]**[/COLOR] [COLOR aqua]If you find a none working channel please let us know...On Twitter @opensatuk [/COLOR] [COLOR red]**[/COLOR]</message>
+<thumbnail>http://opensatuk.com/Banners/banner_sports.gif</thumbnail>
+</info>
 
 /description
 
