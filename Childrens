@@ -31,9 +31,8 @@ https://raw.githubusercontent.com/3HeadDog/optv/master/movies1
 <thumbnail>http://opensatuk.com/Banners/4kids-logo.jpg</thumbnail>
 </dir>
 
-type=playlist
-name=[COLOR=FF0198E1] Classic Disney Films [/COLOR]
-thumb=http://www.examiner.com/images/blog/wysiwyg/image/disney_movies.JPG
-URL=http://www.navixtreme.com/playlist/78769/_classic_disney_films_.plx
-player=default
-rating=-1.00
+dir>
+<name>[COLOR=FF0198E1] 60 Years of Disney Films [/COLOR]</name>
+<link>https://raw.githubusercontent.com/3HeadDog/optv/master/60%20Years%20of%20Disney%20Films</link>
+<thumbnail>http://i43.tinypic.com/1zlu1yh.jpg</thumbnail>
+</dir>
