@@ -61,16 +61,6 @@ processor=
 player=default
 rating=-1.00
 
-type=playlist
-name= According To Jim
-thumb=http://images6.fanpop.com/image/photos/35000000/-3-according-to-jim-35061501-704-410.jpg
-date=2014-02-14
-URL=https://raw.githubusercontent.com/3HeadDog/optv/master/AccordingToJim
-background=http://images6.fanpop.com/image/photos/35000000/-3-according-to-jim-35061501-704-410.jpg
-processor=
-player=default
-rating=-1.00
-
 
 # 2158008
 type=playlist
