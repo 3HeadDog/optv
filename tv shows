@@ -394,6 +394,19 @@ URL=http://pastebin.com/raw.php?i=aTHeaJca
 player=default
 rating=-1.00
 
+type=playlist
+name=Knight Rider Season 1
+thumb=http://3.bp.blogspot.com/-II9bZBMHxQs/UcxsLdRhnxI/AAAAAAAAAYc/mV533Z27nmI/s320/knight-rider-02.jpg
+URL=http://www.navixtreme.com/playlist/134087/knight_rider_season_1.plx
+player=default
+rating=-1.00
+
+type=playlist
+name=Knight Rider Season 2
+thumb=http://3.bp.blogspot.com/-II9bZBMHxQs/UcxsLdRhnxI/AAAAAAAAAYc/mV533Z27nmI/s320/knight-rider-02.jpg
+URL=http://www.navixtreme.com/playlist/134311/knight_rider_season_2_dvdrip.plx
+player=default
+rating=-1.00
 
 type=playlist
 name=Life On Mars
@@ -660,6 +673,12 @@ name=The Smell of Reeves and Mortimer
 thumb=http://cdn.madman.com.au/images/series/series_16603.jpg
 URL=http://pastebin.com/raw.php?i=faaCPjh4
 
+type=playlist
+name=The Dukes of Hazzard Season 1 & 2
+thumb=http://www.jamesbest.com/images/the_dukes_of_hazzard-show.jpg
+URL=http://www.navixtreme.com/playlist/134324/the_dukes_of_hazzard_season_1_and_2.plx
+player=default
+rating=-1.00
 
 
 # 2122753
