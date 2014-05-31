@@ -385,7 +385,6 @@ name=Keith Lemons Very Brilliant World Tour
 thumb=http://img1.wikia.nocookie.net/__cb20100809132315/boselecta/images/b/bf/Keith_lemon_titles.jpg
 URL=http://pastebin.com/raw.php?i=uwy0GHMB
 
-# 2218075
 type=playlist
 name=Keeping Up Appearances  
 thumb=http://c3.cduniverse.ws/resized/250x500/movie/334/6748334.jpg
@@ -395,16 +394,9 @@ player=default
 rating=-1.00
 
 type=playlist
-name=Knight Rider Season 1
+name=Knight Rider
 thumb=http://3.bp.blogspot.com/-II9bZBMHxQs/UcxsLdRhnxI/AAAAAAAAAYc/mV533Z27nmI/s320/knight-rider-02.jpg
-URL=http://www.navixtreme.com/playlist/134087/knight_rider_season_1.plx
-player=default
-rating=-1.00
-
-type=playlist
-name=Knight Rider Season 2
-thumb=http://3.bp.blogspot.com/-II9bZBMHxQs/UcxsLdRhnxI/AAAAAAAAAYc/mV533Z27nmI/s320/knight-rider-02.jpg
-URL=http://www.navixtreme.com/playlist/134311/knight_rider_season_2_dvdrip.plx
+URL=https://raw.githubusercontent.com/3HeadDog/optv/master/Knight%20Rider
 player=default
 rating=-1.00
 
