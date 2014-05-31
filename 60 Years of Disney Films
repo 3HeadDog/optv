@@ -1,13 +1,9 @@
 version=1
 background=http://i43.tinypic.com/1zlu1yh.jpg
-title=[COLOR=FF0198E1]Classic Disney Films [/COLOR]
+title=[COLOR=FF0198E1] Disney  Classic Films [/COLOR]
 logo=http://i43.tinypic.com/1zlu1yh.jpg
-description=60 years of disney films/description
+description=Disney Classic films/description
 
-type=playlist
-name=Sorted by user-assigned order
-icon=http://media.navi-x.org/images/icons/2downarrow.png
-URL=http://www.navixtreme.com/playlist/78769/classic_disney_films.plx?action=sortsel&cur=ord
 
 # 2006137
 type=video
