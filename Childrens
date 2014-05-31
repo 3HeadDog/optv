@@ -30,3 +30,10 @@ https://raw.githubusercontent.com/3HeadDog/optv/master/movies1
 <link>https://raw.githubusercontent.com/3HeadDog/optv/master/ANIMATION</link>
 <thumbnail>http://opensatuk.com/Banners/4kids-logo.jpg</thumbnail>
 </dir>
+
+type=playlist
+name=[COLOR=FF0198E1] Classic Disney Films [/COLOR]
+thumb=http://www.examiner.com/images/blog/wysiwyg/image/disney_movies.JPG
+URL=http://www.navixtreme.com/playlist/78769/_classic_disney_films_.plx
+player=default
+rating=-1.00
