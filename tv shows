@@ -669,6 +669,13 @@ player=default
 rating=-1.00
 
 type=playlist
+name=The Fall Guy
+thumb=http://1.bp.blogspot.com/-X6tBt56akp4/TfPbDCQVKQI/AAAAAAAAByQ/gitgj_g6l9s/s1600/janet-julian-the-fall-guy-title.jpg
+URL=http://www.navixtreme.com/playlist/79499/the_fall_guy_season_1.plx
+player=default
+rating=-1.00
+
+type=playlist
 name=The Smell of Reeves and Mortimer
 thumb=http://cdn.madman.com.au/images/series/series_16603.jpg
 URL=http://pastebin.com/raw.php?i=faaCPjh4
