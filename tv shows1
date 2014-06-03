@@ -40,8 +40,9 @@ rating=-1.00
 
 
 type=playlist
-name= 
+name= Misc
 thumb=
+URL=https://raw.githubusercontent.com/3HeadDog/optv/master/Misc
 player=default
 rating=-1.00
 
