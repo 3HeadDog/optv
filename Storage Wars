@@ -1,0 +1,210 @@
+version=7
+title=Storage Wars
+logo=https://www.yo-yo.com/wordpress/wp-content/uploads/2013/06/storage-wars1.jpg
+# http://www.icefilms.info/tv/series/3/2588
+
+type=
+name=Season 1
+
+type=playlist
+name=1x10 School House Lock
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/124464
+
+type=playlist
+name=1x11 Gambler's Last Resort
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/124928
+
+type=playlist
+name=1x12 Auction Royale
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/125184
+
+type=playlist
+name=1x15 Chairman of the Hoard
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/129982
+
+type=
+name=Season 2
+
+type=playlist
+name=2x23 Smoke 'Em If You Find 'Em
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/147683
+
+type=playlist
+name=2x24 The Drone Wars
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/147851
+
+type=playlist
+name=2x31 Blame It on the Rain
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/150933
+
+type=
+name=Season 3
+
+type=playlist
+name=3x03 The Iceman Carveth
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/154955
+
+type=playlist
+name=3x04 Kill Em All
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/154956
+
+type=playlist
+name=3x07 
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/155458
+infotag=HD
+
+type=playlist
+name=3x15 Buy, Buy Birdie
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/156703
+
+type=playlist
+name=3x16 San Burritos
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/156704
+
+type=playlist
+name=3x17 There's Something About Barry
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/156905
+infotag=HD
+
+type=playlist
+name=3x18 Dr. Strangebid
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/157089
+infotag=HD
+
+type=playlist
+name=3x21 Straight Into Compton: Biddaz with Attitude
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/160001
+infotag=HD
+
+type=playlist
+name=3x22 The Young and the Reckless
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/160005
+
+type=playlist
+name=3x23 Jurassic Bark
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/160213
+infotag=HD
+
+type=playlist
+name=3x24 A Tale of Two Jackets
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/160214
+infotag=HD
+
+type=playlist
+name=3x25 Tustin, Bee Have a Problem
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/160423
+infotag=HD
+
+type=playlist
+name=3x26 Portrait of the Gambler
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/160424
+infotag=HD
+
+type=
+name=Season 4
+
+type=playlist
+name=4x01 The Big Boy vs. The Heavyweight
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/162577
+infotag=HD
+
+type=playlist
+name=4x02 The Kook, the Chief, His Son and the Brothers
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/162584
+infotag=HD
+
+type=playlist
+name=4x03 Nobody's Vault But Mine
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/162965
+
+type=playlist
+name=4x04 Still Nobody's Vault But Mine
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/162966
+
+type=playlist
+name=4x05 Auctioning for Dummies
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/163930
+infotag=HD
+
+type=playlist
+name=4x06 Breathalyze This
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/163936
+infotag=HD
+
+type=playlist
+name=4x07 All's Well That Urns Well
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/164198
+infotag=HD
+
+type=playlist
+name=4x08 The PA Stays in the Picture
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/164202
+infotag=HD
+
+type=playlist
+name=4x09 A Time to Kiln
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/164441
+infotag=HD
+
+type=playlist
+name=4x10 Like a Kung Pao Cowboy
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/164444
+infotag=HD
+
+type=playlist
+name=4x17 4x17
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/165305
+
+type=playlist
+name=4x18 4x18
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/165306
+
+type=playlist
+name=4x19 That's My Jerry!
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/165524
+
+type=playlist
+name=4x20 
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/165527
+
+type=playlist
+name=4x25 Moreno Valley, Cal., is toured.
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/166343
+infotag=HD
+
+type=playlist
+name=4x26 Super Bros. Shuffle
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/166362
+infotag=HD
+
+type=
+name=Season 5
+
+type=playlist
+name=5x01 Flight of the Gambler
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/179810
+
+type=playlist
+name=5x02 The Hills Have Buys
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/179823
+infotag=HD
+
+type=playlist
+name=5x07 LBC U LTR
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/181404
+infotag=HD
+
+type=playlist
+name=5x08 Nuthin' But A "G" Thang, Rene
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/182047
+infotag=HD
+
+type=playlist
+name=5x09 Episode #5.9
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/182551
+infotag=HD
+
+type=playlist
+name=5x10 Zen Masters of the Universe
+URL=http://www.navixtreme.com/scrape/icefilms/vidpage/183120
+infotag=HD
