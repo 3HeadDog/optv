@@ -7,6 +7,16 @@ description=[COLOR=FFFFFF00]IF You find a broken link Please let us know...Thank
 /description
 
 type=video
+name=Britney Spears Workin' It
+thumb=http://image.tmdb.org/t/p/w500/7Euvaks5ahbYwc3MFQLfgdac6pK.jpg
+URL=http://www.nowvideo.sx/video/538482881d955
+processor=http://www.navixtreme.com/wlfwood/processors/nowvideo.txt
+player=default
+rating=-1.00
+description=With the release of her eighth studio album, Britney is back and she's workin' it! This documentary chronicles the career of international superstar from her more innocent years with the release of "Baby One more Time" to being the highest paid judge on US X Factor and collaborating with Will.i.am on her latest album. She is worldwide a pop icon, who continues to grow and deliver to her fans. This is her inside story./description
+
+
+type=video
 name=StreetClip TV UK
 thumb=http://www.tv14.net/wp-content/uploads/2010/06/Streetclip-TV.jpg
 URL=rtmp://stream.streetclip.tv:1935/live/high-stream
