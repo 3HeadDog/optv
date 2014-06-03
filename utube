@@ -1,6 +1,6 @@
 version=1
 background=http://opensatuk.com/image/data/banner2.gif
-title=How 2z
+title=YouTube Music 
 logo=http://opensatuk.com/image/data/banner2.gif
 icon_playlist=
 description=
@@ -8,19 +8,19 @@ description=
 /description
 
 type=video
-name=We have moved
-thumb=http://opensatuk.com/image/data/banner2.gif
-URL=http://youtu.be/IFARk-wEWEE
+name=One Direction Where We Are Tour 2014 Full Concert HD
+thumb=http://i1.ytimg.com/vi/kdbq3Z69hBw/hqdefault.jpg
+URL=http://youtu.be/5nB5TD9WTBM
 
 type=video
-name=OpenSatUK IPTV Advert.
-thumb=http://opensatuk.com/image/data/banner2.gif
-URL=http://youtu.be/mafOfVBckhQ
+name=JUN TZU - THE ROAD OF LIFE ft. MARK IMANI
+thumb=https://scontent-a-lhr.xx.fbcdn.net/hphotos-xfp1/t1.0-9/1511420_10203349370922564_1334494340210007825_n.jpg
+URL=http://youtu.be/cIaO6bjhylk
 
 type=video
-name=how to scan your box for missing channels
-thumb=http://opensatuk.com/image/data/banner2.gif
-URL=http://youtu.be/yQYSS60T4pI
+name=Millitant border Ft Mark Imani SOUND WAR
+thumb=https://scontent-a-lhr.xx.fbcdn.net/hphotos-xfp1/t1.0-9/1511420_10203349370922564_1334494340210007825_n.jpg
+URL=http://youtu.be/sZqCwwZ13XY
 
 type=video
 name=how to update channel list on openbox/skybox
