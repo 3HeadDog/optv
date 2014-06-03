@@ -11,6 +11,9 @@ description=[COLOR=FFFFFF00]TV Shows[/COLOR]/description
 <thumbnail></thumbnail>
 </info>
 
+type=search
+name=Search
+URL=http://www.navixtreme.com/scrape/icefilms/search/
 
 # 2157923
 type=playlist
