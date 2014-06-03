@@ -6,11 +6,20 @@ icon_playlist=
 description=
 
 /description
+<info>
+<message>[COLOR lightslategray][B]Music For The Youngers[/B][/COLOR][CR]</message>
+<message>[CR]</message>
+</info>
 
 type=video
 name=One Direction Where We Are Tour 2014 Full Concert HD
 thumb=http://i1.ytimg.com/vi/kdbq3Z69hBw/hqdefault.jpg
 URL=http://youtu.be/5nB5TD9WTBM
+
+<info>
+<message>[COLOR lightslategray][B]Manchester UK Music![/B][/COLOR][CR]</message>
+<message>[CR]</message>
+</info>
 
 type=video
 name=JUN TZU - THE ROAD OF LIFE ft. MARK IMANI
@@ -23,16 +32,26 @@ thumb=https://scontent-a-lhr.xx.fbcdn.net/hphotos-xfp1/t1.0-9/1511420_1020334937
 URL=http://youtu.be/sZqCwwZ13XY
 
 type=video
-name=how to update channel list on openbox/skybox
-thumb=http://opensatuk.com/image/data/banner2.gif
-URL=http://youtu.be/kVUkIR4-OYo
+name=I'd Be A Criminal - Mark Imani Manchester
+thumb=https://scontent-a-lhr.xx.fbcdn.net/hphotos-xfp1/t1.0-9/1511420_10203349370922564_1334494340210007825_n.jpg
+URL=http://youtu.be/oEJP2NePQ0I
 
 type=video
-name=how to edit favourite list on skybox f3 f4 f5
-thumb=http://opensatuk.com/image/data/banner2.gif
-URL=http://youtu.be/pko-OSFpufc
+name=Sweetieboii Ft Mark imani GHETTO EDUCATION
+thumb=https://scontent-a-lhr.xx.fbcdn.net/hphotos-xfp1/t1.0-9/1511420_10203349370922564_1334494340210007825_n.jpg
+URL=http://youtu.be/qMsYxsk4uEs
 
 type=video
-name=radio advert
-thumb=http://opensatuk.com/image/data/banner2.gif
-URL=http://youtu.be/06Ht0_EG1P8
+name=Sweetieboii Ft Mark Imani 2GETHA
+thumb=https://scontent-a-lhr.xx.fbcdn.net/hphotos-xfp1/t1.0-9/1511420_10203349370922564_1334494340210007825_n.jpg
+URL=http://youtu.be/4bvs-m1B3JE
+
+type=video
+name=Kel Sweezy And Mark Imani jah jah is comin
+thumb=https://scontent-a-lhr.xx.fbcdn.net/hphotos-xfp1/t1.0-9/1511420_10203349370922564_1334494340210007825_n.jpg
+URL=http://youtu.be/nYlFqN1MbWM
+
+type=video
+name=BlocBars - Murkzy & Pux
+thumb=https://scontent-a-lhr.xx.fbcdn.net/hphotos-xfp1/t1.0-9/1511420_10203349370922564_1334494340210007825_n.jpg
+URL=http://youtu.be/6dVYg60i_60
