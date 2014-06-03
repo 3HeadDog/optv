@@ -1,25 +1,25 @@
 version=1
-background=http://opensatuk.com/image/data/banner2.gif
+background=https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xap1/t1.0-9/10341555_1490047201226743_8612028196224932884_n.jpg
 title=YouTube Music 
-logo=http://opensatuk.com/image/data/banner2.gif
+logo=http://newmediarockstars.com/wp-content/uploads/2013/12/youtube-music-awards-1380818860.jpg
 icon_playlist=
-description=
+description=[COLOR lightslategray][B]Music From YouTube[/B][/COLOR]
 
 /description
-<info>
-<message>[COLOR lightslategray][B]Music For The Youngers[/B][/COLOR][CR]</message>
-<message>[CR]</message>
-</info>
+type=
+name=COLOR lightslategray][B]Music For The Youngers[/B][/COLOR]
+thumb=https://scontent-a-lhr.xx.fbcdn.net/hphotos-xfp1/t1.0-9/1511420_10203349370922564_1334494340210007825_n.jpg
+URL=
 
 type=video
 name=One Direction Where We Are Tour 2014 Full Concert HD
 thumb=http://i1.ytimg.com/vi/kdbq3Z69hBw/hqdefault.jpg
 URL=http://youtu.be/5nB5TD9WTBM
 
-<info>
-<message>[COLOR lightslategray][B]Manchester UK Music![/B][/COLOR][CR]</message>
-<message>[CR]</message>
-</info>
+type=
+name=COLOR lightslategray][B]Manchester UK Music![/B][/COLOR]
+thumb=https://scontent-a-lhr.xx.fbcdn.net/hphotos-xfp1/t1.0-9/1511420_10203349370922564_1334494340210007825_n.jpg
+URL=
 
 type=video
 name=JUN TZU - THE ROAD OF LIFE ft. MARK IMANI
