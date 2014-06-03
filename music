@@ -17,6 +17,13 @@ description=With the release of her eighth studio album, Britney is back and she
 
 
 type=video
+name=YouTube Music
+thumb=
+URL=https://raw.githubusercontent.com/3HeadDog/optv/master/utube
+player=default
+rating=-1.00
+
+type=video
 name=StreetClip TV UK
 thumb=http://www.tv14.net/wp-content/uploads/2010/06/Streetclip-TV.jpg
 URL=rtmp://stream.streetclip.tv:1935/live/high-stream
