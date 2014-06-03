@@ -1,8 +1,10 @@
 version=1
 background=https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xap1/t1.0-9/10341555_1490047201226743_8612028196224932884_n.jpg
-title=[COLOR=FFFFFF00][B]TV Show[/B][/COLOR]
+title=[COLOR=FFFFFF00][B]TV Shows[/B][/COLOR]
 logo=https://raw.githubusercontent.com/Coolwavexunitytalk/images/0a227b3c6b96f1db02ca33c47019036f5aa1f4a7/opensatuk.png
-description=[COLOR=FFFFFF00]TV Show[/COLOR]/description
+description=[COLOR=FFFFFF00]TV Shows[/COLOR]/description
+
+/description
 
 <info>
 <message>[COLOR red]**[/COLOR] [COLOR aqua]If you find a none working channel please let us know...On Twitter @opensatuk [/COLOR] [COLOR red]**[/COLOR]</message>
