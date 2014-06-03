@@ -1,4 +1,4 @@
-version=7
+version=1
 title=The Big Bang Theory
 logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFKc3ecv-_1oYV-2RtzcRdzWg5XfZuQ4dMwNCh0tSITerL__aVsX8YnVYe
 # http://www.icefilms.info/tv/series/1/219
@@ -6,8 +6,9 @@ logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFKc3ecv-_1oYV-2RtzcR
 
 type=playlist
 name=0x00 Unaired Pilot
-URL=http://www.navixtreme.com/scrape/icefilms/vidpage/116389
+URL=http://50.7.172.163/d/iviuvydrqm752xrl2bzv53tlwjac63nyvxu7kcx7taiqkyifjmdu3usd/The.Big.Bang.Theory.S01E00.Unaired.Pilot.XViD-P2P.avi
 
+http://www.navixtreme.com/scrape/icefilms/vidpage/116389
 type=
 name=Season 1
 
