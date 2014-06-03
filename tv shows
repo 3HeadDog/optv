@@ -637,11 +637,19 @@ URL=http://pastebin.com/raw.php?i=nqZBqaLX
 player=default
 rating=-1.00
 
+type=playlist
+name=Storage Wars
+thumb=https://www.yo-yo.com/wordpress/wp-content/uploads/2013/06/storage-wars1.jpg
+URL=https://raw.githubusercontent.com/3HeadDog/optv/master/Storage%20Wars
+player=default
+rating=-1.00
 
 type=playlist
 name=Time Gentlemen Please
 thumb=http://www.thetvking.com/images/tvShows/poster/Time%20Gentlemen%20Please.jpg
 URL=http://pastebin.com/raw.php?i=Fvf96fEr
+player=default
+rating=-1.00
 
 type=playlist
 name=Top-Gear
@@ -889,10 +897,6 @@ thumb=http://img4.wikia.nocookie.net/__cb20121016201615/raymond/images/8/8b/Ever
 URL=rtmp://198.27.74.25/app playpath=elr02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?elr02 live=1
 
 
-type=video
-name=
-thumb=
-URL=
 
 type=video
 name=
