@@ -11,9 +11,6 @@ description=[COLOR=FFFFFF00]TV Shows[/COLOR]/description
 <thumbnail></thumbnail>
 </info>
 
-type=search
-name=Search
-URL=http://www.navixtreme.com/scrape/icefilms/search/
 
 # 2157923
 type=playlist
@@ -212,7 +209,7 @@ player=default
 rating=-1.00
 
 type=playlist
-name=fargo  
+name=Fargo  
 thumb=http://ia.media-imdb.com/images/M/MV5BMjMzMTIzMTUwN15BMl5BanBnXkFtZTgwNjE0NTg0MTE@._V1_SX500_SY999_.jpg
 URL=http://pastebin.com/raw.php?i=HXpgG01k
 player=default
