@@ -11,36 +11,6 @@ description=[COLOR=FFFFFF00]TV Shows[/COLOR]/description
 <thumbnail></thumbnail>
 </info>
 
-type=playlist
-name=Live Stand up 
-thumb=http://4.bp.blogspot.com/-Yymc6ZUbmWY/UwYOOOljroI/AAAAAAAAGFo/APJpRvI5TOg/s1600/1.jpg
-URL=https://raw.githubusercontent.com/3HeadDog/optv/master/Live%20Stand%20up%20Comedy
-player=default
-rating=-1.00
-
-type=playlist
-name=War Movies 
-thumb=http://cdn3.whatculture.com/wp-content/uploads/2012/01/Combat_Wings_dogfight2.png
-URL=http://pastebin.com/raw.php?i=VGRGUjPc
-player=default
-rating=-1.00
-
-# 2122755
-type=playlist
-name=James Bond 007 
-thumb=http://johnrieber.files.wordpress.com/2013/06/james_bond_007.jpg
-URL=http://pastebin.com/raw.php?i=tvszychK
-background=http://www.site-fusion.co.uk/files/writeable/uploads/webfusion44994/image/007-evolution.jpg
-player=default
-rating=-1.00
-
-# 2122758
-type=playlist
-name=Comedy Store  
-thumb=http://www.prideofmanchester.com/comedy/photos/comedystore120.jpg
-URL=http://pastebin.com/raw.php?i=gnBWrz4q
-player=default
-rating=-1.00
 
 # 2157923
 type=playlist
@@ -786,115 +756,19 @@ URL=http://pastebin.com/raw.php?i=QiEeZbv7
 player=default
 rating=-1.00
 
-type=video
+type=playlist
+name=The Big Bang Theory  
+thumb=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFKc3ecv-_1oYV-2RtzcRdzWg5XfZuQ4dMwNCh0tSITerL__aVsX8YnVYe
+URL=https://raw.githubusercontent.com/3HeadDog/optv/master/The%20Big%20Bang%20Theory
+player=default
+rating=-1.00
+
+type=playlist
 name=WENTWORTH SEASON 1-2
 thumb=http://ecx.images-amazon.com/images/I/51X49sSBK6L._SY300_.jpg
 URL=http://pastebin.com/raw.php?i=fHvRcZrA
 player=default
 rating=-1.00
-
-type=video
-name=The X Files
-thumb=http://www.bubblews.com/assets/images/news/203274759_1374380363.jpg
-URL=rtmp://198.27.74.25/app playpath=xfiles02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?xfiles02 live=1
-
-type=video
-name=The Sopranos
-thumb=http://3.bp.blogspot.com/_yPtd1S5UQLI/TLKdHZuCc2I/AAAAAAAAADc/B1w3dqqI1AU/s1600/The-Sopranos-13.jpg
-URL=rtmp://198.27.75.99/app playpath=sopranos swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex6.php?sopranos live=1
-
-type=video
-name=Cops
-thumb=http://www.cops.com/wp-content/uploads/2012/05/Cops-Logo-New-Full-size.jpg
-URL=rtmp://198.27.75.99/app playpath=cops01 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?cops01 live=1 
-
-
-type=video
-name=Burn Notice Usa
-thumb=http://www.lstyres.com/wp-content/uploads/2014/01/burn-notice-usa-wallpaper-hd-wallpapers-1920x1200px-indiwall-movies-images-burn-notice-hd-wallpaper.jpg
-URL=rtmp://198.27.74.25/app playpath=burnnotice03 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?burnnotice03 live=1 
-
-type=video
-name=Two and A Half Men
-thumb=http://www.episodegenerator.com/wp-content/uploads/Two-and-a-Half-Men-Wallpaper-two-and-a-half-men-32201632-1280-1024.jpg
-URL=rtmp://198.27.74.25/app playpath=men02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?men02 live=1
-
-type=video
-name=Curb Your Enthusiasm
-thumb=http://www.episodegenerator.com/wp-content/uploads/Curb-Your-Enthusiasm.jpg
-URL=rtmp://198.27.74.25/app playpath=curbs03 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?curbs03 live=1
-
-type=video
-name=The Walking Dead
-thumb=http://www.pdxqcenter.org/wp-content/uploads/2013/11/dead.jpg
-URL=rtmp://198.27.75.99/app playpath=twd02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?twd02 live=1 
-
-type=video
-name=Fresh Prince
-thumb=http://upload.wikimedia.org/wikipedia/en/c/c8/Freshprincelogo.jpg
-URL=rtmp://198.27.74.25/app playpath=freshprince02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?freshprince02 live=1
-
-type=video
-name=Breaking Bad
-thumb=http://blogs.nd.edu/oblation/files/2013/09/BreakingBad.jpg
-URL=rtmp://198.27.74.25/app playpath=bad02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?bad02 live=1 
-
-
-type=video
-name=RETRO TV
-thumb=http://i1.ytimg.com/vi/iZn766LZNOM/hqdefault.jpg
-URL=rtmp://fmsedge2.tikilive.com:1935/view/23237_051/ playpath=stream23237 swfUrl=http://www.tikilive.com/public/flash/viewerModules/player/PlayerModule.swf?version=2.10.10 live=1 
-
-type=video
-name=Anger Management
-thumb=http://cdn.cnwimg.com/wp-content/uploads/2013/06/Anger-Management.jpg
-URL=rtmp://198.27.75.99/app playpath=anger02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?anger02 live=1
-
-type=video
-name=Will & Grace
-thumb=http://images.zap2it.com/assets/p184421_b_h3_aa/will-and-grace.jpg
-URL=rtmp://198.27.75.99/app playpath=wag swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex6.php?wag live=1
-
-type=video
-name=Frasier
-thumb=http://www.thesobremesa.com/wp-content/uploads/Frasier.jpg
-URL=rtmp://198.27.74.25/app playpath=frasier02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?frasier02 live=1
-
-type=video
-name=Friends
-thumb=http://sabotagetimes.com/wp-content/uploads/friends-tv-show.jpg
-URL=rtmp://198.27.74.25/app playpath=friends02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?friends02 live=1
-
-type=video
-name=Seinfeld
-thumb=http://images.fanpop.com/images/image_uploads/Seinfeld-seinfeld-633457_1280_1024.jpg
-URL=rtmp://198.27.74.25/app playpath=seinfeld03 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?seinfeld03 live=1
-
-type=video
-name=Cheers
-thumb=http://ia.media-imdb.com/images/M/MV5BMTAyMDQxMzUyODZeQTJeQWpwZ15BbWU2MDk3MzU5OQ@@._V1_SY317_CR4,0,214,317_.jpg
-URL=rtmp://198.27.75.99/app playpath=cheers01 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?cheers01 live=1
-
-type=video
-name=3rd Rock From The Sun
-thumb=http://www.episodegenerator.com/wp-content/uploads/3rd-Rock-from-the-Sun.jpg
-URL=rtmp://198.27.75.99/app playpath=rock swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?rock live=1
-
-type=video
-name=The King Of Queens
-thumb=http://images.zap2it.com/assets/p184408_b_h3_aa/the-king-of-queens.jpg
-URL=rtmp://198.27.74.25/app playpath=koq02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?koq02 live=1
-
-type=video
-name=M*A*S*H
-thumb=http://upload.wikimedia.org/wikipedia/en/thumb/b/b9/M*A*S*H_TV_title_screen.jpg/250px-M*A*S*H_TV_title_screen.jpg
-URL=rtmp://198.27.74.25/app playpath=mash02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?mash02 live=1
-
-
-type=video
-name=Everybody Loves Raymond
-thumb=http://img4.wikia.nocookie.net/__cb20121016201615/raymond/images/8/8b/Everybody-Loves-Raymond_1024-768.jpg
-URL=rtmp://198.27.74.25/app playpath=elr02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?elr02 live=1
 
 
 
