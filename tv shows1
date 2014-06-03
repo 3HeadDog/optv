@@ -1,0 +1,56 @@
+version=1
+background=https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xap1/t1.0-9/10341555_1490047201226743_8612028196224932884_n.jpg
+title=[COLOR=FFFFFF00][B]TV Shows[/B][/COLOR]
+logo=https://raw.githubusercontent.com/Coolwavexunitytalk/images/0a227b3c6b96f1db02ca33c47019036f5aa1f4a7/opensatuk.png
+description=[COLOR=FFFFFF00]TV Shows[/COLOR]/description
+
+<info>
+<message>[COLOR red]**[/COLOR] [COLOR aqua]If you find a none working channel please let us know...On Twitter @opensatuk [/COLOR] [COLOR red]**[/COLOR]</message>
+<thumbnail></thumbnail>
+</info>
+
+type=playlist
+name=Live Stand up 
+thumb=http://4.bp.blogspot.com/-Yymc6ZUbmWY/UwYOOOljroI/AAAAAAAAGFo/APJpRvI5TOg/s1600/1.jpg
+URL=https://raw.githubusercontent.com/3HeadDog/optv/master/Live%20Stand%20up%20Comedy
+player=default
+rating=-1.00
+
+type=playlist
+name=Comedy Store  
+thumb=http://www.prideofmanchester.com/comedy/photos/comedystore120.jpg
+URL=http://pastebin.com/raw.php?i=gnBWrz4q
+player=default
+rating=-1.00
+
+type=playlist
+name=TV Shows From Season 1 
+thumb=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRt2GZgrQE5kq1CaScViE2w5bzi413lzW21W6yEU_PskF1SLag_nA
+URL=https://raw.githubusercontent.com/3HeadDog/optv/master/tv%20shows
+player=default
+rating=-1.00
+
+type=playlist
+name= None Stop 24/7 TV Shows
+thumb=http://www.comaround.dk/media/14911/24_7_artikelbild240ny.jpg
+URL=https://raw.githubusercontent.com/3HeadDog/optv/master/24%20-%207
+player=default
+rating=-1.00
+
+type=playlist
+name= 
+thumb=
+player=default
+rating=-1.00
+
+type=playlist
+name= 
+thumb=
+player=default
+rating=-1.00
+
+type=playlist
+name= 
+thumb=
+player=default
+rating=-1.00
