@@ -6,11 +6,11 @@ logo=http://funkyimg.com/u2/121/466/G_Adults_1_KL____.jpg
 
 # 1920941
 type=video
-name=test
+name=BLUE HUSTLER
 thumb=
-URL=rtmp://111.118.21.75:1935/ptv2/phd766
+URL=http://91.240.87.34:4001/udp/224.200.202.58:1234
 
-
+rtmp://111.118.21.75:1935/ptv2/phd766
 # 1920941
 type=video
 name=Midnight HD
@@ -25,9 +25,9 @@ URL=rtmp://194.116.150.47/live/visitx.stream1
 
 # 1920941
 type=video
-name=X
+name=HUSTLER HD
 thumb=
-
+URL=http://91.240.87.34:4001/udp/224.200.202.213:1234
 
 # 1920941
 type=video
