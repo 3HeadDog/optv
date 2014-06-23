@@ -11,6 +11,12 @@ description=[COLOR=FFFFFF00]TV Shows[/COLOR]/description
 <thumbnail></thumbnail>
 </info>
 
+type=playlist
+name=[COLOR steelblue][B]Just Added[/B][/COLOR] 
+thumb=
+URL=https://raw.githubusercontent.com/3HeadDog/optv/master/New%20TV%20Shows
+player=default
+rating=-1.00
 
 # 2157923
 type=playlist
