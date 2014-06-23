@@ -1,0 +1,87 @@
+version=1
+background=https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xap1/t1.0-9/10341555_1490047201226743_8612028196224932884_n.jpg
+title=[COLOR=FFFFFF00][B]TV Shows M[/B][/COLOR]
+logo=http://opensatuk.com/image/data/banner2.gif
+description=[COLOR=FFFFFF00]TV Shows M[/COLOR]/description
+
+/description
+
+<info>
+<message>[COLOR red]**[/COLOR] [COLOR aqua]If you find a none working channel please let us know...On Twitter @opensatuk [/COLOR] [COLOR red]**[/COLOR]</message>
+<thumbnail></thumbnail>
+</info>
+
+type=playlist
+name=Miranda
+thumb=http://upload.wikimedia.org/wikipedia/en/f/f9/Miranda_(TV_series)_title.png
+URL=http://pastebin.com/raw.php?i=yyV4SWrw
+
+# 2221120
+type=playlist
+name=Men-Behaving-Badly
+thumb=http://www.annscardsandgifts.com/movies/wardve2738.jpg
+date=2014-02-10
+URL=http://pastebin.com/raw.php?i=gJBXZxVy
+processor=
+background=http://thetvdb.com/banners/fanart/original/76213-1.jpg
+player=default
+rating=-1.00
+
+# 2215693
+type=playlist
+name=Misfits
+thumb=http://4.bp.blogspot.com/-1CL7J-ZYrQE/TXpc_7q4FnI/AAAAAAAAANI/UZ32ggzZIh0/s1600/Misfits_TV_Series-290551889-large.jpeg
+URL=http://pastebin.com/raw.php?i=iBcgvdvQ
+background=http://www.toylet.it/wp-content/uploads/2011/04/misfits.jpg
+player=default
+rating=-1.00
+
+# 2196374
+type=playlist
+name=Mind Your Language  
+thumb=http://www.leninimports.com/mind_your_language_the_complete_series_uk_dvd.jpg
+URL=http://pastebin.com/raw.php?i=J0NnWVMk
+player=default
+rating=-1.00
+
+# 2134906
+type=playlist
+name=Mr Bean 
+thumb=http://images1.fanpop.com/images/photos/1400000/Mr-Bean-mr-bean-1415087-1025-768.jpg
+URL=http://pastebin.com/raw.php?i=fqUsWVnz
+processor=
+background=http://wallpaperose.com/wp-content/uploads/2013/05/Mr-Bean-Movie-1024x768.jpg
+player=default
+rating=-1.00
+
+# 2122773
+type=playlist
+name=Max & Paddy-Phoenix Nights  
+thumb=http://www.ultimatequeen.co.uk/queen/videos/images/is-this-the-way-to-amarillo-04.jpg
+URL=http://pastebin.com/raw.php?i=qsTfB4TQ
+player=default
+rating=-1.00
+
+# 2122892
+type=playlist
+name=Mrs Biggs  
+thumb=http://g-ec2.images-amazon.com/images/G/02/uk-dvd/images/itv/slates/MrsBiggs._V386275746_SX385_SY342_.jpg%20%20
+URL=http://pastebin.com/raw.php?i=PtM7HmKq
+player=default
+rating=-1.00
+
+# 2122900
+type=playlist
+name=Mrs Browns Boys  
+thumb=http://ichef.bbci.co.uk/images/ic/384x216/legacy/clip/p00f3hf4.jpg?nodefault=true%20
+URL=http://pastebin.com/raw.php?i=rdUNajEn
+player=default
+rating=-1.00
+
+# 2122902
+type=playlist
+name=New Tricks  
+thumb=http://2.bp.blogspot.com/_lLcxY7SJcCc/TOjr7t0jJ1I/AAAAAAAAA4Y/2b6jieLmL2Q/s1600/New+Tricks.jpg
+URL=http://pastebin.com/raw.php?i=LRTcVBYv
+player=default
+rating=-1.00
