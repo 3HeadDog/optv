@@ -1,0 +1,65 @@
+version=1
+background=https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xap1/t1.0-9/10341555_1490047201226743_8612028196224932884_n.jpg
+title=[COLOR=FFFFFF00][B]A[/B][/COLOR]
+logo=http://opensatuk.com/image/data/banner2.gif
+description=[COLOR=FFFFFF00]A[/COLOR]/description
+
+/description
+
+<info>
+<message>[COLOR red]**[/COLOR] [COLOR aqua]If you find a none working channel please let us know...On Twitter @opensatuk [/COLOR] [COLOR red]**[/COLOR]</message>
+<thumbnail></thumbnail>
+</info>
+
+type=playlist
+name=Auf Wiedersehen Pet  
+thumb=http://images.word-power.co.uk/images/product_images/9780563487203.jpg
+URL=http://pastebin.com/raw.php?i=3LMQeBJA
+player=default
+rating=-1.00
+
+# 2221120
+type=playlist
+name= Allo-Allo
+thumb=http://3.bp.blogspot.com/-SvTxPHs8kew/UI7AbWA3YZI/AAAAAAAADCM/u1t00VqDZYM/s1600/Allo%2BAllo.jpg
+date=2014-02-14
+URL=http://pastebin.com/raw.php?i=9eY3Sxfe
+background=http://www.guildhallartscentre.com/wp-content/uploads/2013/07/Allo-Allo.png
+processor=
+player=default
+rating=-1.00
+
+
+# 2158008
+type=playlist
+name=Are You Being Served  
+thumb=http://fanart.tv/fanart/tv/77879/clearart/are-you-being-served-4dcd44b8bc881.png
+URL=http://pastebin.com/raw.php?i=cH5avMj4
+player=default
+rating=-1.00
+
+# 2127904
+type=playlist
+name=An Idiot Abroad 
+thumb=http://www.frontrowreviews.co.uk/wordpress/wp-content/uploads/2011/09/An-Idiot-Abroad.png
+URL=http://pastebin.com/raw.php?i=JvkBGFSE
+player=default
+rating=-1.00
+
+# 2122759
+type=playlist
+name=Absolutely Fabulous  
+thumb=http://thetvdb.com/banners/_cache/posters/73314-2.jpg
+URL=http://pastebin.com/raw.php?i=hh3vdSmf
+player=default
+rating=-1.00
+
+
+# 2217210
+type=playlist
+name=Ashes to Ashes  
+thumb=http://upload.wikimedia.org/wikipedia/en/7/7d/Ashes_to_Ashes_OST.jpg
+URL=http://pastebin.com/raw.php?i=Qth4FkEM
+player=default
+rating=-1.00
+
