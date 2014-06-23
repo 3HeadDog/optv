@@ -1,3 +1,76 @@
+<poster>[COLOR lightgoldenrodyellow][B]OpenSatUK[/B][/COLOR]</poster>
+<fanart>https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xap1/t1.0-9/10341555_1490047201226743_8612028196224932884_n.jpg</fanart>
+
+https://raw.githubusercontent.com/3HeadDog/optv/master/xxx
+https://raw.githubusercontent.com/3HeadDog/optv/master/Live%20TV
+
+<info>
+<message>[COLOR red]**[/COLOR] [COLOR aqua]If you find a none working channel please let us know...On Twitter @opensatuk [/COLOR] [COLOR red]**[/COLOR]</message>
+<thumbnail>http://opensatuk.com/Banners/banner_sports.gif</thumbnail>
+</info>
+
+<directories>
+
+	<name>[COLOR darkorange][B]A[/B][/COLOR]</name>
+	<thumbnail></thumbnail>
+	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/tv%20shows%20A</link>
+	
+	<name>[COLOR yellow]B[/COLOR]</name>
+	<link>h</link>
+	<thumbnail></thumbnail>
+	
+	<name>[COLOR firebrick][B]C[/B][/COLOR]</name>
+	<thumbnail></thumbnail>
+	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/tv%20shows%20C</link>
+	
+	<name>[COLOR skyblue][B]D & E[/B][/COLOR]</name>
+	<thumbnail></thumbnail>
+	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/tv%20shows%20D%20&%20E</link>
+	
+	<name>[COLOR red][B]F[/B][/COLOR]</name>
+	<thumbnail></thumbnail>
+	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/tv%20shows%20F</link>
+	
+	<name>[COLOR lightseagreen][B]G[/B][/COLOR]</name>
+	<thumbnail></thumbnail>
+	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/tv%20shows%20G</link>
+	
+	<name>[COLOR aqua]H & I[/COLOR]</name>
+	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/tv%20shows%20H%20&%20I</link>
+	<thumbnail></thumbnail>
+	
+	<name>[COLOR yellow]J[/COLOR]</name>
+	<link></link>
+	<thumbnail></thumbnail>
+	
+	<name>[COLOR firebrick][B]K & L[/B][/COLOR]</name>
+	<thumbnail></thumbnail>
+	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/tv%20shows%20K%20&%20L</link>
+	
+	<name>[COLOR skyblue][B]M[/B][/COLOR]</name>
+	<thumbnail></thumbnail>
+	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/tv%20shows%20M</link>
+	
+	<name>[COLOR red][B]N[/B][/COLOR]</name>
+	<thumbnail></thumbnail>
+	<link></link>
+	
+	<name>[COLOR lightseagreen][B]O & P[/B][/COLOR]</name>
+	<thumbnail></thumbnail>
+	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/tv%20shows%20O%20&%20P</link>
+	
+	<name>[COLOR aqua]R & S[/COLOR]</name>
+	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/tv%20shows%20R%20&%20S</link>
+	<thumbnail></thumbnail>
+
+	<name>[COLOR yellow]T[/COLOR]</name>
+	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/tv%20shows%20O%20&%20T</link>
+	<thumbnail></thumbnail>
+
+	http://movreel.com/w8xdqwuqptkj
+	
+</directories>
+	
 **A**
 **B**
 **C**
@@ -24,52 +97,3 @@
 **X**
 **Y**
 **Z**
-
-<poster>[COLOR lightgoldenrodyellow][B]OpenSatUK[/B][/COLOR]</poster>
-<fanart>https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xap1/t1.0-9/10341555_1490047201226743_8612028196224932884_n.jpg</fanart>
-
-https://raw.githubusercontent.com/3HeadDog/optv/master/xxx
-https://raw.githubusercontent.com/3HeadDog/optv/master/Live%20TV
-
-<info>
-<message>[COLOR red]**[/COLOR] [COLOR aqua]If you find a none working channel please let us know...On Twitter @opensatuk [/COLOR] [COLOR red]**[/COLOR]</message>
-<thumbnail>http://opensatuk.com/Banners/banner_sports.gif</thumbnail>
-</info>
-
-<directories>
-
-	<name>[COLOR darkorange][B]LIVE TV[/B][/COLOR] ***Coming Soon</name>
-	<thumbnail>http://opensatuk.com/Banners/livetv.jpg</thumbnail>
-	<link>dummy.file</link>
-	
-	<name>[COLOR yellow]Sports[/COLOR]</name>
-	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Sport</link>
-	<thumbnail>http://opensatuk.com/Banners/banner_sports.gif</thumbnail>
-	
-	<name>[COLOR firebrick][B]TV Shows[/B][/COLOR]</name>
-	<thumbnail>http://opensatuk.com/Banners/livetv.jpg</thumbnail>
-	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/tv%20shows</link>
-	
-	<name>[COLOR skyblue][B]Movies[/B][/COLOR]</name>
-	<thumbnail>http://opensatuk.com/Banners/Movies.jpg</thumbnail>
-	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Movie</link>
-	
-	<name>[COLOR red][B]Kids Movies & Shows[/B][/COLOR]</name>
-	<thumbnail>http://opensatuk.com/Banners/4kids-logo.jpg</thumbnail>
-	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Childrens</link>
-	
-	<name>[COLOR lightseagreen][B]Music Video's[/B][/COLOR]</name>
-	<thumbnail>http://opensatuk.com/Banners/music.jpg</thumbnail>
-	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Music1</link>
-	
-	<name>[COLOR aqua]Fresh Out[/COLOR]</name>
-	<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Freshout.xml</link>
-	<thumbnail>http://farm6.staticflickr.com/5490/10217412684_f35c62838d_o.jpg</thumbnail>
-
-
-
-	
-	http://movreel.com/w8xdqwuqptkj
-	
-</directories>
-	
