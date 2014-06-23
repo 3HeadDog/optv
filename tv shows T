@@ -1,0 +1,153 @@
+version=1
+background=https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xap1/t1.0-9/10341555_1490047201226743_8612028196224932884_n.jpg
+title=[COLOR=FFFFFF00][B]TV Shows T[/B][/COLOR]
+logo=http://opensatuk.com/image/data/banner2.gif
+description=[COLOR=FFFFFF00]TV Shows T[/COLOR]/description
+
+/description
+
+<info>
+<message>[COLOR red]**[/COLOR] [COLOR aqua]If you find a none working channel please let us know...On Twitter @opensatuk [/COLOR] [COLOR red]**[/COLOR]</message>
+<thumbnail></thumbnail>
+</info>
+type=playlist
+name=Time Gentlemen Please
+thumb=http://www.thetvking.com/images/tvShows/poster/Time%20Gentlemen%20Please.jpg
+URL=http://pastebin.com/raw.php?i=Fvf96fEr
+player=default
+rating=-1.00
+
+type=playlist
+name=Top-Gear
+thumb=http://images.starpulse.com/news/bloggers/684225/blog_images/top-gear-54.jpg
+URL=http://pastebin.com/raw.php?i=0ML83Q36
+player=default
+rating=-1.00
+
+type=playlist
+name=The Fall Guy
+thumb=http://1.bp.blogspot.com/-X6tBt56akp4/TfPbDCQVKQI/AAAAAAAAByQ/gitgj_g6l9s/s1600/janet-julian-the-fall-guy-title.jpg
+URL=http://www.navixtreme.com/playlist/79499/the_fall_guy_season_1.plx
+player=default
+rating=-1.00
+
+type=playlist
+name=The Smell of Reeves and Mortimer
+thumb=http://cdn.madman.com.au/images/series/series_16603.jpg
+URL=http://pastebin.com/raw.php?i=faaCPjh4
+
+type=playlist
+name=The Dukes of Hazzard Season 1 & 2
+thumb=http://www.jamesbest.com/images/the_dukes_of_hazzard-show.jpg
+URL=http://www.navixtreme.com/playlist/134324/the_dukes_of_hazzard_season_1_and_2.plx
+player=default
+rating=-1.00
+
+
+# 2122753
+type=playlist
+name=The Three Stooges
+thumb=http://portheatre.e-monsite.com/medias/images/the-three-stooges.jpg
+URL=http://pastebin.com/raw.php?i=jXTRVyUF
+
+
+
+# 2221210
+type=playlist
+name=The Likely Lads
+thumb=http://worldofcactus.files.wordpress.com/2012/12/the-likely-lads-front.jpg
+date=2014-02-13
+URL=http://pastebin.com/raw.php?i=ybUWFBSk
+player=default
+rating=-1.00
+
+# 2221210
+type=playlist
+name=The Professionals 
+thumb=http://bodieofci5.tripod.com/sitebuildercontent/sitebuilderpictures/.pond/theprofessionals.jpg.w300h225.jpg
+date=2014-02-13
+URL=http://pastebin.com/raw.php?i=y6ZVthwC
+player=default
+rating=-1.00
+
+
+# 2122911
+type=playlist
+name=The Sweeney
+thumb=http://georgeirving.co.uk/_work/the-sweeney/images/the-sweeney-george-irving.jpg
+URL=http://pastebin.com/raw.php?i=7ARZQ0aq
+player=default
+rating=-1.00
+
+# 2122912
+type=playlist
+name=Two Pints of Lager and a Packet of Crisps 
+thumb=http://www.tvsa.co.za/mastershowimages/1939_two_pints_468.jpg
+URL=http://pastebin.com/raw.php?i=T9qu2Y5q
+player=default
+rating=-1.00
+
+# 2189901
+type=playlist
+name=The Sopranos  
+thumb=http://coreyholms.com/portfolio/19/sopranos.jpg
+URL=http://pastebin.com/raw.php?i=9CqN9xJ3
+player=default
+rating=-1.00
+
+type=playlist
+name=The-Vicar-of-Dibley
+thumb=http://www.episodedata.com/images/series/vicarofdibley.jpg
+URL=http://pastebin.com/raw.php?i=LGTGftKi
+player=default
+rating=-1.00
+
+# 2221120
+type=playlist
+name=The Wire
+thumb=http://christopherwink.com/wp-content/uploads/2010/09/the-wire.jpg
+date=2014-02-14
+URL=http://pastebin.com/raw.php?i=NF9fA3JU
+processor=
+player=default
+rating=-1.00
+
+# 2122913
+type=playlist
+name=The Inbetweeners  
+thumb=http://whatculture.com/wp-content/uploads/2011/08/inbetweeners.jpg
+URL=http://pastebin.com/raw.php?i=PL0en2cv
+player=default
+rating=-1.00
+
+# 2122914
+type=playlist
+name=The Young Ones  
+thumb=http://www.tvscoop.tv/theyoungonesDVD.jpg
+URL=http://pastebin.com/raw.php?i=WnW2yEBX
+player=default
+rating=-1.00
+
+# 2122915
+type=playlist
+name=The League Of Gentlemen  
+thumb=http://ecx.images-amazon.com/images/I/51TJ8XBB76L.jpg
+URL=http://pastebin.com/raw.php?i=sr7pYGUq
+player=default
+rating=-1.00
+
+# 2122916
+type=playlist
+name=The Royle Family  
+thumb=http://fanart.tv/fanart/tv/75624/tvthumb/the-royle-family-510a7d3af2dc7.jpg
+URL=http://pastebin.com/raw.php?i=3qQbVp7t
+player=default
+rating=-1.00
+
+# 2122918
+type=playlist
+name=The Office  
+thumb=http://ecx.images-amazon.com/images/I/612bHAuB3bL._AA1371_.jpg
+URL=http://pastebin.com/raw.php?i=QiEeZbv7
+player=default
+rating=-1.00
