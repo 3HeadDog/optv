@@ -65,6 +65,10 @@ URL=http://pastebin.com/raw.php?i=Qth4FkEM
 player=default
 rating=-1.00
 
+type=playlist
+name=Big Bang Theory
+thumb=http://www.chicagonow.com/gwynspiration-weight-loss/files/2013/02/the-big-bang-theory-10.jpg
+URL=https://raw.githubusercontent.com/3HeadDog/optv/master/Big%20Bang%20Theory
 
 type=playlist
 name=Bang Bang its Reeves and Mortimer
@@ -756,12 +760,6 @@ URL=http://pastebin.com/raw.php?i=QiEeZbv7
 player=default
 rating=-1.00
 
-type=playlist
-name=The Big Bang Theory  
-thumb=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFKc3ecv-_1oYV-2RtzcRdzWg5XfZuQ4dMwNCh0tSITerL__aVsX8YnVYe
-URL=https://raw.githubusercontent.com/3HeadDog/optv/master/The%20Big%20Bang%20Theory
-player=default
-rating=-1.00
 
 type=playlist
 name=WENTWORTH SEASON 1-2
