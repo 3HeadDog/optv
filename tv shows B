@@ -1,0 +1,104 @@
+version=1
+background=https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xap1/t1.0-9/10341555_1490047201226743_8612028196224932884_n.jpg
+title=[COLOR=FFFFFF00][B]TV Shows B[/B][/COLOR]
+logo=http://opensatuk.com/image/data/banner2.gif
+description=[COLOR=FFFFFF00]TV Shows B[/COLOR]/description
+
+/description
+
+<info>
+<message>[COLOR red]**[/COLOR] [COLOR aqua]If you find a none working channel please let us know...On Twitter @opensatuk [/COLOR] [COLOR red]**[/COLOR]</message>
+<thumbnail></thumbnail>
+</info>
+
+type=playlist
+name=Big Bang Theory
+thumb=http://www.chicagonow.com/gwynspiration-weight-loss/files/2013/02/the-big-bang-theory-10.jpg
+URL=https://raw.githubusercontent.com/3HeadDog/optv/master/Big%20Bang%20Theory
+
+type=playlist
+name=Bang Bang its Reeves and Mortimer
+thumb=http://thumbs2.ebaystatic.com/d/l225/m/mZqAoblUTsER4hWMiI503nA.jpg
+URL=http://pastebin.com/raw.php?i=0GnueFZ6
+
+
+type=playlist
+name=Boon
+thumb=http://ia.media-imdb.com/images/M/MV5BNDc0MTU5OTQzN15BMl5BanBnXkFtZTcwODI1MjkxMQ@@._V1_SX214_.jpg
+URL=http://pastebin.com/raw.php?i=jrUiBtHV
+
+
+type=playlist
+name=Bad Girls
+thumb=http://upload.wikimedia.org/wikipedia/en/a/ac/Bad_Girls_Titles.JPEG
+URL=http://pastebin.com/raw.php?i=JJx3qDMk
+
+
+
+# 2122759
+type=playlist
+name=Birds Of A Feather 
+thumb=http://nigelthedame.files.wordpress.com/2013/03/002.jpg
+URL=http://pastebin.com/raw.php?i=XmPFTKjH
+player=default
+rating=-1.00
+
+
+# 2217763
+type=playlist
+name=Bless This House 
+thumb=http://www.blessthishouse.net/video%26dvd2_files/umb1.jpg
+URL=http://pastebin.com/raw.php?i=GQYSkcBR
+player=default
+rating=-1.00
+
+
+
+# 2214090
+type=playlist
+name=Benidorm  
+thumb=http://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Benidorm_titlecard.jpg/250px-Benidorm_titlecard.jpg
+URL=http://pastebin.com/raw.php?i=54nvK6Wm
+player=default
+rating=-1.00
+
+# 2215662
+type=video
+name=Boys from the Blackstuff
+thumb=http://images.pricerunner.com/product/image/50149673/Boys-From-The-Black-Stuff-(DVD)-(Three-Discs).jpg
+URL=http://www.youtube.com/watch?v=0CRXnO9v0sA
+processor=http://www.navixtreme.com/proc/youtube
+player=default
+rating=-1.00
+
+# 2125489
+type=playlist
+name=Brittas Empire 
+thumb=http://images.pricerunner.com/product/image/50151738/Brittas-EmpireThe-Complete-Series-2-(DVD)-(Two-Discs).jpg
+URL=http://pastebin.com/raw.php?i=JXjqSNpp
+player=default
+rating=-1.00
+
+# 2122760
+type=playlist
+name=Benny Hill  
+thumb=http://4.bp.blogspot.com/_WckRu7iSZik/TSoTLi8vfOI/AAAAAAAAAaA/q2OTfr5lZCc/s320/Benny+Hill.jpg
+URL=http://pastebin.com/raw.php?i=jtXjCX2w
+player=default
+rating=-1.00
+
+# 2122761
+type=playlist
+name=BlackAdder 
+thumb=http://epguides.com/Blackadder/logo.jpg
+URL=http://pastebin.com/raw.php?i=myhErU8j
+player=default
+rating=-1.00
+
+# 2122762
+type=playlist
+name=Bottom  
+thumb=http://www.bbc.co.uk/comedy/content/images/2007/10/04/bottom_1_396x222.jpg
+URL=http://pastebin.com/raw.php?i=ZeD1XQx6
+player=default
+rating=-1.00
