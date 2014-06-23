@@ -12,11 +12,27 @@ description=[COLOR=FFFFFF00]TV Shows[/COLOR]/description
 </info>
 
 type=playlist
-name=[COLOR steelblue][B]Just Added[/B][/COLOR] 
+name=A to Z 
+thumb=
+URL=
+player=default
+rating=-1.00
+
+
+type=playlist
+name=[COLOR red][B]***Newly Added TV Shows****[/B][/COLOR] 
 thumb=
 URL=https://raw.githubusercontent.com/3HeadDog/optv/master/New%20TV%20Shows
 player=default
 rating=-1.00
+
+type=playlist
+name=[COLOR red][B]***Staff Picks****[/B][/COLOR] 
+thumb=
+URL=https://raw.githubusercontent.com/3HeadDog/optv/master/New%20TV%20Shows
+player=default
+rating=-1.00
+
 
 # 2157923
 type=playlist
