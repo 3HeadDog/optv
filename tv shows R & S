@@ -1,0 +1,105 @@
+version=1
+background=https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xap1/t1.0-9/10341555_1490047201226743_8612028196224932884_n.jpg
+title=[COLOR=FFFFFF00][B]TV Shows R & S[/B][/COLOR]
+logo=http://opensatuk.com/image/data/banner2.gif
+description=[COLOR=FFFFFF00]TV Shows R & S[/COLOR]/description
+
+/description
+
+<info>
+<message>[COLOR red]**[/COLOR] [COLOR aqua]If you find a none working channel please let us know...On Twitter @opensatuk [/COLOR] [COLOR red]**[/COLOR]</message>
+<thumbnail></thumbnail>
+</info>
+
+type=playlist
+name=Rising Damp  
+thumb=http://pics.filmaffinity.com/Rising_Damp_TV_Series-819268680-large.jpg
+URL=http://pastebin.com/raw.php?i=QCKBkp49
+player=default
+rating=-1.00
+
+# 2122905
+type=playlist
+name=Red Dwarf  
+thumb=http://www.dan-dare.org/Dan%20FRD/RedDwarf8Crew.jpg
+URL=http://pastebin.com/raw.php?i=bz9UwCDk
+player=default
+rating=-1.00
+
+type=playlist
+name=Saxondale
+thumb=http://upload.wikimedia.org/wikipedia/en/e/e1/Saxondale_DVD.JPG
+URL=http://pastebin.com/raw.php?i=Gn2a1nXk
+
+
+# 2218470
+type=playlist
+name=Soap 
+thumb=http://seventies1970s.com/1977/soap.jpg
+date=2014-02-08
+URL=http://pastebin.com/raw.php?i=KyZYUgnG
+player=default
+rating=-1.00
+
+# 2134777
+type=playlist
+name=Sons of Anarchy 
+thumb=http://media.screened.com/uploads/0/4280/701023-key_art_sons_of_anarchy.jpg
+URL=http://pastebin.com/raw.php?i=Fc6QNeqc
+processor=http://www.navixtreme.com/wlfwood/processors/putlocker.txt
+background=http://cdn.fansided.com/wp-content/blogs.dir/277/files/2013/09/SOA-logo.jpg
+player=default
+rating=-1.00
+
+# 2122907
+type=playlist
+name=Shameless  
+thumb=http://www.blowupthemoon.co.uk/wp-content/uploads/2011/02/10507173-watch-shameless-online.jpeg
+URL=http://pastebin.com/raw.php?i=7pPvqWQk
+player=default
+rating=-1.00
+
+# 2215751
+type=playlist
+name=Sherlock  
+thumb=http://3.bp.blogspot.com/-yo0VVzpR5Gg/T0xl5YO6uYI/AAAAAAAALQ4/hOHqv0bCoCM/s1600/sherlock.jpg
+URL=http://pastebin.com/raw.php?i=Vc3v6Gyx
+player=default
+rating=-1.00
+
+type=playlist
+name=Spender
+thumb=http://www.readysteadygone.co.uk/wp-content/uploads/2011/10/spender.jpg
+URL=http://pastebin.com/raw.php?i=YiySpw1D
+player=default
+rating=-1.00
+
+# 2122908
+type=playlist
+name=Steptoe-And-Son
+thumb=https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-prn2/t1.0-9/p403x403/971456_10151526597884865_276142715_n.jpg
+URL=http://pastebin.com/raw.php?i=P0yRBPRS
+player=default
+rating=-1.00
+
+type=playlist
+name=Still Game
+thumb=http://s2.thcdn.com/productimg/0/600/600/91/9994791-1309426568-921748.jpg
+URL=http://pastebin.com/raw.php?i=Ze5m6mBP
+player=default
+rating=-1.00
+
+# 2122908
+type=playlist
+name=Some Mothers Do Ave Em  
+thumb=http://ecx.images-amazon.com/images/I/412QQ010GZL._SY450_.jpg
+URL=http://pastebin.com/raw.php?i=nqZBqaLX
+player=default
+rating=-1.00
+
+type=playlist
+name=Storage Wars
+thumb=https://www.yo-yo.com/wordpress/wp-content/uploads/2013/06/storage-wars1.jpg
+URL=https://raw.githubusercontent.com/3HeadDog/optv/master/Storage%20Wars
+player=default
+rating=-1.00
