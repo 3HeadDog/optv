@@ -1,0 +1,43 @@
+version=1
+background=https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xap1/t1.0-9/10341555_1490047201226743_8612028196224932884_n.jpg
+title=[COLOR=FFFFFF00][B]TV Shows F[/B][/COLOR]
+logo=http://opensatuk.com/image/data/banner2.gif
+description=[COLOR=FFFFFF00]TV Shows F[/COLOR]/description
+
+/description
+
+<info>
+<message>[COLOR red]**[/COLOR] [COLOR aqua]If you find a none working channel please let us know...On Twitter @opensatuk [/COLOR] [COLOR red]**[/COLOR]</message>
+<thumbnail></thumbnail>
+</info>
+
+type=playlist
+name=Fargo  
+thumb=http://ia.media-imdb.com/images/M/MV5BMjMzMTIzMTUwN15BMl5BanBnXkFtZTgwNjE0NTg0MTE@._V1_SX500_SY999_.jpg
+URL=http://pastebin.com/raw.php?i=HXpgG01k
+player=default
+rating=-1.00
+
+# 2122765
+type=playlist
+name=Father Ted  
+thumb=http://cdn.static8.opensubtitles.org/gfx/thumbs/8/1/5/8/0578518.jpg
+URL=http://pastebin.com/raw.php?i=VgpiW9yq
+player=default
+rating=-1.00
+
+# 2122767
+type=playlist
+name=Filthy, Rich and Catflap  
+thumb=http://www.sitcom.co.uk/filthy_rich_catflap/images/DVD_cover.jpg
+URL=http://pastebin.com/raw.php?i=Tw1bTL8s
+player=default
+rating=-1.00
+
+# 2122768
+type=playlist
+name=Fawlty Towers  
+thumb=http://upload.wikimedia.org/wikipedia/en/d/d6/Fawlty_Towers_title_card.jpg
+URL=http://pastebin.com/raw.php?i=QTY2Kfqq
+player=default
+rating=-1.00
