@@ -14,7 +14,7 @@ description=[COLOR=FFFFFF00]TV Shows[/COLOR]/description
 type=playlist
 name=A to Z 
 thumb=
-URL=
+URL=https://raw.githubusercontent.com/3HeadDog/optv/master/a2z
 player=default
 rating=-1.00
 
