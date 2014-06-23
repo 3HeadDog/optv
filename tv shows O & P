@@ -1,0 +1,62 @@
+version=1
+background=https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xap1/t1.0-9/10341555_1490047201226743_8612028196224932884_n.jpg
+title=[COLOR=FFFFFF00][B]TV Shows O & P[/B][/COLOR]
+logo=http://opensatuk.com/image/data/banner2.gif
+description=[COLOR=FFFFFF00]TV Shows O & P[/COLOR]/description
+
+/description
+
+<info>
+<message>[COLOR red]**[/COLOR] [COLOR aqua]If you find a none working channel please let us know...On Twitter @opensatuk [/COLOR] [COLOR red]**[/COLOR]</message>
+<thumbnail></thumbnail>
+</info>
+
+type=playlist
+name=On The Buses  
+thumb=http://g-ecx.images-amazon.com/images/G/02/uk-dvd/non-MSA/On_the_Buses_slate01._V153434272_SX385_SY342_.jpg
+URL=http://pastebin.com/raw.php?i=pffTdsvR
+player=default
+rating=-1.00
+
+# 2127138
+type=playlist
+name=One Foot In The Grave  
+thumb=http://img142.imageshack.us/img142/6160/onefootinthegravegf2.png
+URL=http://pastebin.com/raw.php?i=cpadj4Y3
+player=default
+rating=-1.00
+
+# 2122903
+type=playlist
+name=Only Fools and Horses  
+thumb=http://upload.wikimedia.org/wikipedia/en/3/3a/Only_fools_logo.jpg
+URL=http://pastebin.com/raw.php?i=H2sEJYSJ
+player=default
+rating=-1.00
+
+# 2127676
+type=playlist
+name=Open All Hours  
+thumb=http://images.littlewoods.com/is/image/Littlewoods/prodDetailMain-300x400/-open-all-hours-series-14-boxset-dvd%7CA002P_SP297_02_PP0KA.jpg
+URL=http://pastebin.com/raw.php?i=Q4PGTGKa
+player=default
+rating=-1.00
+
+type=playlist
+name=Prisoner Cell Block H
+thumb=http://2.bp.blogspot.com/-mp0kF-eFGpo/T55PDI36BwI/AAAAAAAAAhc/TzH6yimBQLo/s1600/prisoner.jpg
+URL=http://pastebin.com/raw.php?i=Bda4GrLN
+
+type=playlist
+name=Psychoville
+thumb=http://s2.hipertextual.com/wp-content/blogs.dir/6/files/2011/05/Psychoville-800x459.jpg
+URL=http://pastebin.com/raw.php?i=AjAGKMR1
+
+
+# 2122904
+type=playlist
+name=Porridge  
+thumb=http://fanart.tv/fanart/tv/76578/clearart/porridge-4ec93aa2be0c9.png
+URL=http://pastebin.com/raw.php?i=1mTfQvrn
+player=default
+rating=-1.00
