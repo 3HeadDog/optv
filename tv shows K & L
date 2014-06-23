@@ -1,0 +1,63 @@
+version=1
+background=https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xap1/t1.0-9/10341555_1490047201226743_8612028196224932884_n.jpg
+title=[COLOR=FFFFFF00][B]TV Shows K & L[/B][/COLOR]
+logo=http://opensatuk.com/image/data/banner2.gif
+description=[COLOR=FFFFFF00]TV Shows K & L[/COLOR]/description
+
+/description
+
+<info>
+<message>[COLOR red]**[/COLOR] [COLOR aqua]If you find a none working channel please let us know...On Twitter @opensatuk [/COLOR] [COLOR red]**[/COLOR]</message>
+<thumbnail></thumbnail>
+</info>
+
+type=playlist
+name=Knowing Me Knowing You
+thumb=http://cdn-static.denofgeek.com/sites/denofgeek/files/styles/insert_main_wide_image/public/alan_partidge_knowing_me_knowing_you.jpg
+URL=http://pastebin.com/raw.php?i=ExvSE2d0
+
+
+type=playlist
+name=Keith Lemons Very Brilliant World Tour
+thumb=http://img1.wikia.nocookie.net/__cb20100809132315/boselecta/images/b/bf/Keith_lemon_titles.jpg
+URL=http://pastebin.com/raw.php?i=uwy0GHMB
+
+type=playlist
+name=Keeping Up Appearances  
+thumb=http://c3.cduniverse.ws/resized/250x500/movie/334/6748334.jpg
+date=2014-02-07
+URL=http://pastebin.com/raw.php?i=aTHeaJca
+player=default
+rating=-1.00
+
+type=playlist
+name=Knight Rider
+thumb=http://3.bp.blogspot.com/-II9bZBMHxQs/UcxsLdRhnxI/AAAAAAAAAYc/mV533Z27nmI/s320/knight-rider-02.jpg
+URL=https://raw.githubusercontent.com/3HeadDog/optv/master/Knight%20Rider
+player=default
+rating=-1.00
+
+type=playlist
+name=Life On Mars
+thumb=http://popdose.com/wp-content/uploads/lifeonmars-uk.jpg
+URL=http://pastebin.com/raw.php?i=bqmhW8Up
+
+
+
+
+# 2215713
+type=playlist
+name=Love/Hate 
+thumb=http://englishcoursedublin.com/wp-content/uploads/2012/12/LoveHate_irish_tv_series.jpg
+URL=http://pastebin.com/raw.php?i=KdjNzkiH
+background=http://dwellingintheword.files.wordpress.com/2010/08/45-love-hate.jpg
+player=default
+rating=-1.00
+
+# 2166495
+type=playlist
+name=Love Thy Neighbour  
+thumb=http://ia.media-imdb.com/images/M/MV5BMTcyNDc5MTgyMF5BMl5BanBnXkFtZTcwNTg5ODUyMQ@@._V1_SY317_CR3,0,214,317_.jpg
+URL=http://pastebin.com/raw.php?i=iJszFGEH
+player=default
+rating=-1.00
