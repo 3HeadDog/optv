@@ -1,0 +1,62 @@
+version=1
+background=https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xap1/t1.0-9/10341555_1490047201226743_8612028196224932884_n.jpg
+title=[COLOR=FFFFFF00][B]New TV Shows[/B][/COLOR]
+logo=http://opensatuk.com/image/data/banner2.gif
+description=[COLOR=FFFFFF00]New TV Shows[/COLOR]/description
+
+/description
+
+<info>
+<message>[COLOR red]**[/COLOR] [COLOR aqua]If you find a none working channel please let us know...On Twitter @opensatuk [/COLOR] [COLOR red]**[/COLOR]</message>
+<thumbnail></thumbnail>
+</info>
+
+type=playlist
+name=The 100 ***** A MUST WATCH ******
+thumb=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSP1q0RfqgBb13xB3-9X6D31rGuVaS0KeTRlSVTItTzrS3Zr8ZN
+URL=https://raw.githubusercontent.com/3HeadDog/optv/master/The%20100
+player=default
+rating=-1.00
+
+type=playlist
+name=Gangland Tv Show
+thumb=http://justpic.info/images/534e/gangland.jpg
+URL=https://raw.github.com/mash2k3/Staael1982/master/American%20tv%20series/Gangland/Gangland-Directory.xml
+player=default
+rating=-1.00
+
+type=playlist
+name=Hannibal
+thumb=http://fanart.tv/fanart/tv/259063/tvthumb/hannibal-515f9dc39d11c.jpg
+URL=https://raw.github.com/mash2k3/Staael1982/master/American%20tv%20series/Hannibal/Hanibal_Directory.xml
+player=default
+rating=-1.00
+
+type=playlist
+name=
+thumb=
+URL=
+player=default
+rating=-1.00
+
+type=playlist
+name=
+thumb=
+URL=
+player=default
+rating=-1.00
+
+
+type=playlist
+name=
+thumb=
+URL=
+player=default
+rating=-1.00
+
+type=playlist
+name=
+thumb=
+URL=
+player=default
+rating=-1.00
