@@ -1,0 +1,56 @@
+version=1
+background=https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xap1/t1.0-9/10341555_1490047201226743_8612028196224932884_n.jpg
+title=[COLOR=FFFFFF00][B]TV Shows[/B][/COLOR]
+logo=http://opensatuk.com/image/data/banner2.gif
+description=[COLOR=FFFFFF00]TV Shows[/COLOR]/description
+
+/description
+
+<info>
+<message>[COLOR red]**[/COLOR] [COLOR aqua]If you find a none working channel please let us know...On Twitter @opensatuk [/COLOR] [COLOR red]**[/COLOR]</message>
+<thumbnail></thumbnail>
+</info>
+
+type=playlist
+name=Game of Thrones 
+thumb=http://thisisinfamous.com/wp-content/uploads/2013/06/got8.jpg
+date=2014-02-07
+URL=http://pastebin.com/raw.php?i=fxDEd5eN
+player=default
+rating=-1.00
+
+# 2218076
+type=playlist
+name=George and Mildred  
+thumb=http://image.tmdb.org/t/p/original/2GI1W2ivI8KaneRfPHMhVzuRb4Z.jpg
+date=2014-02-07
+URL=http://pastebin.com/raw.php?i=7j0JqNa5
+player=default
+rating=-1.00
+
+# 2134909
+type=playlist
+name=Gavin and Stacey
+thumb=http://www.coverwhiz.com/content/Gavin-And-Stacey-Series-1.jpg
+URL=http://pastebin.com/raw.php?i=rmXtS39u
+processor=http://www.navixtreme.com/sproc/veehd
+player=default
+rating=-1.00
+
+# 2122769
+type=playlist
+name=Gimme Gimme Gimme  
+thumb=http://www.bbc.co.uk/comedy/content/images/2007/08/06/gimmegimmegimme_1_396x222.jpg
+URL=http://pastebin.com/raw.php?i=4y1N92hS
+player=default
+rating=-1.00
+
+# 2216072
+type=playlist
+name=Goodnight Sweetheart 
+thumb=http://s4.thcdn.com/productimg/0/600/600/41/8560541-1386180139-290934.jpg
+URL=http://pastebin.com/raw.php?i=zcBw5nu0
+processor=http://www.navixtreme.com/wlfwood/processors/gorillavid.txt
+background=http://4.bp.blogspot.com/_mualcEdlhOk/TOLzGAGCVUI/AAAAAAAAAWo/a55FXgR4Ki0/s1600/gns.jpg
+player=default
+rating=-1.00
