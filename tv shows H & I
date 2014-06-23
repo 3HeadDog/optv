@@ -1,0 +1,60 @@
+version=1
+background=https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xap1/t1.0-9/10341555_1490047201226743_8612028196224932884_n.jpg
+title=[COLOR=FFFFFF00][B]TV Shows H & I[/B][/COLOR]
+logo=http://opensatuk.com/image/data/banner2.gif
+description=[COLOR=FFFFFF00]TV Shows H & I[/COLOR]/description
+
+/description
+
+<info>
+<message>[COLOR red]**[/COLOR] [COLOR aqua]If you find a none working channel please let us know...On Twitter @opensatuk [/COLOR] [COLOR red]**[/COLOR]</message>
+<thumbnail></thumbnail>
+</info>
+
+
+type=playlist
+name=Hustle
+thumb=http://img202.imageshack.us/img202/9418/hustle1024x768theconiso.jpg
+URL=http://pastebin.com/raw.php?i=JRikdCzP
+
+# 2215656
+type=playlist
+name=Harry Enfield and Chums  
+thumb=http://www.episode-alert.com/images/poster/large/76345-1.jpg
+URL=http://pastebin.com/raw.php?i=8KFvYGuc
+processor=http://www.navixtreme.com/wlfwood/processors/putlocker.txt
+player=default
+rating=-1.00
+
+# 2122770
+type=playlist
+name=Insanity Workout  
+thumb=http://www.theworkoutwatchdog.com/wp-content/uploads/2011/06/2.jpg
+URL=http://pastebin.com/raw.php?i=qDhwiLJq
+player=default
+rating=-1.00
+
+# 2122771
+type=playlist
+name=In Sickness And In Health  
+thumb=http://img2.rnkr-static.com/list_img/4438/284438/C250/full-cast-of-in-sickness-and-in-health-cast-list-for-the-show-in-sickness-and-in-health.jpg
+URL=http://pastebin.com/raw.php?i=jPSUAXiQ
+player=default
+rating=-1.00
+
+# 2218678
+type=playlist
+name=It Ain't Half Hot Mum 
+thumb=http://i164.photobucket.com/albums/u33/icedcake/ItAintHalfHotMumfrontquartersize.jpg%20%20
+date=2014-02-10
+URL=http://pastebin.com/raw.php?i=w5DkAP9k
+player=default
+rating=-1.00
+
+# 2157946
+type=playlist
+name=Im Alan Partridge  
+thumb=http://findvideo.biz/images/I%27m_Alan_Partridge_poster.jpg
+URL=http://pastebin.com/raw.php?i=zxWfz6Qy
+player=default
+rating=-1.00
