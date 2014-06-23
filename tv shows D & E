@@ -1,0 +1,46 @@
+version=1
+background=https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xap1/t1.0-9/10341555_1490047201226743_8612028196224932884_n.jpg
+title=[COLOR=FFFFFF00][B]TV Shows D & E[/B][/COLOR]
+logo=http://opensatuk.com/image/data/banner2.gif
+description=[COLOR=FFFFFF00]TV Shows D & E[/COLOR]/description
+
+/description
+
+<info>
+<message>[COLOR red]**[/COLOR] [COLOR aqua]If you find a none working channel please let us know...On Twitter @opensatuk [/COLOR] [COLOR red]**[/COLOR]</message>
+<thumbnail></thumbnail>
+</info>
+
+# 2215653
+type=playlist
+name=Doctor Who 
+thumb=http://www.billbailey.co.uk/wp-content/uploads/2011/09/dr_who_logo.jpg
+URL=http://pastebin.com/raw.php?i=6T1RbFKB
+background=http://blogs.sundaymercury.net/anorak-city/All%2011%20doctor%20who%20actors.jpg
+player=default
+rating=-1.00
+
+# 2171613
+type=playlist
+name=Dads Army  
+thumb=http://thumbs1.ebaystatic.com/d/l225/m/mZ0wWmQh--GvVLyAVxmuRvg.jpg
+URL=http://pastebin.com/raw.php?i=efdjxhQV
+processor=http://www.navixtreme.com/wlfwood/processors/putlocker.txt
+player=default
+rating=-1.00
+
+# 2158108
+type=playlist
+name=Da Ali G Show  
+thumb=http://static.tvtropes.org/pmwiki/pub/images/Da_Ali_G_Show_6909.jpg
+URL=http://pastebin.com/raw.php?i=XFnnbfG4
+player=default
+rating=-1.00
+
+# 2217206
+type=playlist
+name=Early-Doors  
+thumb=http://sharetv.com/images/early_doors_uk-show.jpg
+URL=http://pastebin.com/raw.php?i=ivfAuAHL
+player=default
+rating=-1.00
