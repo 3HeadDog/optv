@@ -34,6 +34,13 @@ player=default
 rating=-1.00
 
 
+type=playlist
+name=Documentaries  
+thumb=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4FtZqxA_Rffc0Rwv958_xXsh1ptMWrKgerP5P8WVdsIa4QtmCnA
+URL=https://raw.githubusercontent.com/3HeadDog/optv/master/Documentaries
+player=default
+rating=-1.00
+
 # 2157923
 type=playlist
 name=Auf Wiedersehen Pet  
