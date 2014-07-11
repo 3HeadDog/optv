@@ -7,55 +7,14 @@ description=[COLOR=FFFFFF00]Documentaries[/COLOR]/description
 /description
 
 type=video
-name=DISCOVERY HD World
-thumb=http://upload.wikimedia.org/wikipedia/en/1/12/Discovery_World_HD_Canada.png
-URL=http://202.75.23.34:8800/live/ch30/01.m3u8
-
-type=video
-name=DISCOVERY CHANNEL
-thumb=http://img2.wikia.nocookie.net/__cb20100728112637/logopedia/images/3/34/Discovery_Channel_2000.png
-URL=http://202.75.23.34:8800/live/ch29/01.m3u8
-
-type=video
-name=Discovery science
-thumb=http://newtvworld.com/Images/livetv_transparent.png
-URL=http://109.233.194.252:5556/udp/224.21.21.86:1234
-
-type=video
-name=National geographic
-thumb=http://newtvworld.com/Images/livetv_transparent.png
-URL=http://109.233.194.252:5556/udp/224.21.21.54:1234
-
-type=video
-name=NatGeo Wild
-thumb=http://picturesbythewayside.com/wp-content/uploads/2011/06/Nat-Geo-wild-logo.jpg
-URL=http://202.75.23.35:8800/live/ch39/01.m3u8
-
-type=video
-name=Active Channel-HD
-thumb=http://t1.gstatic.com/images?q=tbn:ANd9GcSpPsAXuceNS1XkX5_sO0mnHq1Vn9K0vFu1nTxza6UKe3ldoBf4
-URL=rtmp://sb0hfynwcdzkxs.rtmphost.com/simulcast app=simulcast Playpath=livestream swfUrl=http://www.mylivetvchannel.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.mylivetvchannel.com/activechannel/ buffer=300000 swfVfy=true live=true timeout=10
-
-type=video
-name=Animal Planet
-thumb=http://www.lyngsat-logo.com/logo/tv/aa/animal_planet_us_hd.jpg
-URL=rtmp://s01.webport.tv/promo/mtv live=1
-
-type=video
-name=ID
-thumb=http://newtvworld.com/Images/livetv_transparent.png
-URL=http://109.233.194.252:5556/udp/224.21.21.88:1234
-
-
-type=video
-name=
+name=9-11 Conspiracy Road Trip.
 thumb=
-URL=
+URL=https://www.firedrive.com/file/883830B7CE4D4B36
 
 type=video
-name=
+name=9-11 ripple effect
 thumb=
-URL=
+URL=http://youtu.be/bwThcdIoufc
 
 type=video
 name=
