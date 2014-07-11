@@ -16,9 +16,9 @@ https://raw.githubusercontent.com/3HeadDog/optv/master/movies1
 <message>[COLOR red]*****[/COLOR] [COLOR aqua]Live Sports[/COLOR] [COLOR red]*****[/COLOR]</message>
 </info>
 
-<dir>
-<name>[COLOR darkorange][B]UK Sports Channels[/B][/COLOR]</name>
-<link>https://raw.githubusercontent.com/3HeadDog/optv/master/UK%20Sports</link>
+<dir>>https://raw.githubusercontent.com/3HeadDog/optv/master/UK%20Sports
+<name>[COLOR darkorange][B]UK Sports Channels **coming Soon**[/B][/COLOR]</name>
+<link>dummy.file</link>
 <thumbnail>http://opensatuk.com/Banners/banner_sports.gif</thumbnail>
 </dir>
 
