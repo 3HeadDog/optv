@@ -15,6 +15,12 @@
 </dir>
 
 <dir>
+<name>[COLOR skyblue][B]HD Movies[/B][/COLOR]</name>
+<thumbnail>http://opensatuk.com/Banners/Movies.jpg</thumbnail>
+<link>https://raw.githubusercontent.com/3HeadDog/optv/master/HD%20Movies</link>
+</dir>
+
+<dir>
 <name>[COLOR yellow]3D Movies[/COLOR]</name>
 <link>https://raw.githubusercontent.com/3HeadDog/optv/master/3d%20movies</link>
 <thumbnail>http://opensatuk.com/Banners/3d.jpg</thumbnail>
