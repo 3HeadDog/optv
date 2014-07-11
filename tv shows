@@ -41,6 +41,11 @@ URL=https://raw.githubusercontent.com/3HeadDog/optv/master/Documentaries
 player=default
 rating=-1.00
 
+type=playlist
+name=9-11 Conspiracy
+thumb=http://www.chuckbauer.com/media/2001/09/We_will_never_forget.jpg
+URL=https://raw.githubusercontent.com/3HeadDog/optv/master/9-11
+
 # 2157923
 type=playlist
 name=Auf Wiedersehen Pet  
