@@ -9,11 +9,18 @@ https://raw.githubusercontent.com/3HeadDog/optv/master/Live%20TV
 <thumbnail>http://opensatuk.com/Banners/banner_sports.gif</thumbnail>
 </info>
 
+<info>
+<message>[COLOR red]**[/COLOR] [COLOR aqua]LIVE TV On XBMC - Mag 250 STB - Android - Enigma2 STB & Satellite STB [/COLOR] [COLOR red]**[/COLOR]</message>
+<message>[COLOR red]**[/COLOR] [COLOR aqua]Visit Our Website for more information www.opensat-the1-4.tv[/COLOR] [COLOR red]**[/COLOR]</message>
+<thumbnail></thumbnail>
+</info>
+
+
 <directories>
 
-	<name>[COLOR darkorange][B]LIVE TV[/B][/COLOR] ***Coming Soon</name>
+	<name>[COLOR darkorange][B][/B][/COLOR]</name>
 	<thumbnail>http://opensatuk.com/Banners/livetv.jpg</thumbnail>
-	<link>dummy.file</link>
+	<link></link>
 	
 	<name>[COLOR yellow]Sports[/COLOR]</name>
 	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Sport</link>
