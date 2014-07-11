@@ -273,9 +273,9 @@ rating=-1.00
 # 2218076
 type=playlist
 name=Game of Thrones 
-thumb=http://thisisinfamous.com/wp-content/uploads/2013/06/got8.jpg
+thumb=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQosdwNeRSPf6xil1ZaPJB4brlUFDbs5EuQlhra_6bRjdApU-Sh3tvopqiI
 date=2014-02-07
-URL=http://pastebin.com/raw.php?i=fxDEd5eN
+URL=https://raw.githubusercontent.com/3HeadDog/optv/master/Game%20of%20Thrones
 player=default
 rating=-1.00
 
