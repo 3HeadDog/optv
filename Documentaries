@@ -1,22 +1,13 @@
-version=1
-background=http://opensatuk.com/image/data/banner2.gif
-title=[COLOR=FFFFFF00][B]Documentaries[/B][/COLOR]
-logo=http://opensatuk.com/image/data/banner2.gif
-description=[COLOR=FFFFFF00]Documentaries[/COLOR]/description
+<poster>[B][COLOR ffff0000]Documentaries[/COLOR][/B]</poster>
+<fanart>http://images.tenplay.com.au/~/media/TV%20Shows/Documentaries/General/Documentaries_Logo_500x281.jpg</fanart>
+<thumbnail><a href="http://images.tenplay.com.au/~/media/TV%20Shows/Documentaries/General/Documentaries_Logo_500x281.jpg"/></a></thumbnail>
 
-/description
-
-
-type=playlist
-name=[B][COLOR  white]9-11[/COLOR][/B]
-thumb=http://www.chuckbauer.com/media/2001/09/We_will_never_forget.jpg
-URL=https://raw.githubusercontent.com/3HeadDog/optv/master/9-11
-
-type=video
-name=
-thumb=
-URL=
-	
+<item>
+<title>[B][COLOR  white]9-11[/COLOR][/B]</title>
+<thumbnail>http://www.chuckbauer.com/media/2001/09/We_will_never_forget.jp</thumbnail>
+<fanart></fanart>
+<link>https://raw.githubusercontent.com/3HeadDog/optv/master/9-11</link>
+</item>
 
 <item>
 <title>[B][COLOR  white]Visitors  [COLOR lime](2013)[/COLOR][/COLOR][/B]</title>
@@ -611,5 +602,4 @@ URL=
 <thumbnail>http://i1151.photobucket.com/albums/o625/kizzer31111/1166103_zpsca8f45f8.jpg</thumbnail>
 <fanart></fanart>
 <link>http://www.sockshare.com/file/97F1625C6C7087FE</link>
-</item>	
-# cached
+</item>
