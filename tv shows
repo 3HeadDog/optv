@@ -27,14 +27,6 @@ player=default
 rating=-1.00
 
 type=playlist
-name=[COLOR red][B]***Staff Picks****[/B][/COLOR] 
-thumb=
-URL=https://raw.githubusercontent.com/3HeadDog/optv/master/New%20TV%20Shows
-player=default
-rating=-1.00
-
-
-type=playlist
 name=Documentaries  
 thumb=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4FtZqxA_Rffc0Rwv958_xXsh1ptMWrKgerP5P8WVdsIa4QtmCnA
 URL=https://raw.githubusercontent.com/3HeadDog/optv/master/Documentaries
@@ -536,6 +528,13 @@ type=playlist
 name=Open All Hours  
 thumb=http://images.littlewoods.com/is/image/Littlewoods/prodDetailMain-300x400/-open-all-hours-series-14-boxset-dvd%7CA002P_SP297_02_PP0KA.jpg
 URL=http://pastebin.com/raw.php?i=Q4PGTGKa
+player=default
+rating=-1.00
+
+type=playlist
+name=Orange is The New Black (Season 1 & 2)
+thumb=http://msmagazine.com/blog/wp-content/uploads/2013/07/2521756.jpg
+URL=https://raw.githubusercontent.com/3HeadDog/optv/master/Orange-is-The-New-Black
 player=default
 rating=-1.00
 
