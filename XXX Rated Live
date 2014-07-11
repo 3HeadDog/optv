@@ -1,0 +1,174 @@
+version=1
+title=[COLOR=FFFFFF00]Live Stream[/COLOR]
+description=XXX Rated Live Streams
+
+/description
+#
+type=video
+name=test
+thumb=
+URL=http://89.212.58.230:7000/udp/239.18.1.238:5000
+player=default
+#
+type=video
+name=Visit-X
+thumb=http://s6.postimg.org/c3ueb6cdt/head_tvnew_red.jpg
+URL=rtmp://194.116.150.47/live
+playpath=visitx.stream1
+#
+type=video
+name=Visit-X TV Russia
+thumb=http://www.frocus.net/images/logotv/original/Visit-X-TV.jpg
+URL=rtmp://194.116.150.47/live/visitx.stream1
+player=default
+#
+type=video
+name=Babe Spotting UK
+thumb=http://yamgo.mobi/images/xxhigh/logo/BabeSpotting1-logo.fw_.png
+URL=http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-tablet.3gp-mr649k.m3u8?trackingid=3231430000&os=desktop
+player=default
+#
+type=video
+name=BellaClub Brazil
+thumb=http://yamgo.mobi/images/mid/thumbnail/thumbV3__0032_bellaClub.jpg
+URL=http://46.249.213.93/iPhone/broadcast/bellaclub-tablet.3gp/bellaclub-tablet.3gp-mr648k.m3u8?trackingid=3391380000&os=desktop
+player=default
+#
+type=video
+name=BellaClub Bella Luz Brazil
+thumb=http://yamgo.mobi/images/mid/thumbnail/thumbV3__0032_bellaClub.jpg
+URL=http://46.249.213.87/iPhone/broadcast/bellaluz-iphone.3gp/bellaluz-iphone.3gp-mr413k.m3u8
+player=default
+#
+type=video
+name=BellaClub Bella Luz Brazil
+thumb=http://yamgo.mobi/images/mid/thumbnail/thumbV3__0032_bellaClub.jpg
+URL=http://46.249.213.87/iPhone/broadcast/bellaluz-tablet.3gp/bellaluz-tablet.3gp-mr647k.m3u8?trackingid=3391380000&os=desktop
+player=default
+#
+type=video
+name=Bikini Hotties Brazil
+thumb=http://yamgo.mobi/images/mid/logo/bikini-hotties-400x300.png
+URL=http://46.249.213.93/iPhone/broadcast/bikinihotties-tablet.3gp/bikinihotties-tablet.3gp-mr647k.m3u8?trackingid=5091600000&os=desktop
+player=default
+#
+type=video
+name=Hot 100 Brazil
+thumb=http://old.solar-aid.org/hot100/hot-100-logo.png
+URL=http://46.249.213.93/iPhone/broadcast/hot100-tablet.3gp/hot100-tablet.3gp-mr647k.m3u8?trackingid=4541740000&os=desktop
+player=default
+#
+type=video
+name=Hotshots UK
+thumb=http://cooldudestuff.com/wp-content/uploads/2012/10/Hot_Shots_13.jpg
+URL=http://46.249.213.93/iPhone/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr646k.m3u8?trackingid=3641590000&os=desktop
+player=default
+#
+type=video
+name=Hotshots Beach Babes UK
+thumb=http://cooldudestuff.com/wp-content/uploads/2012/10/Hot_Shots_13.jpg
+URL=http://46.249.213.93/iPhone/broadcast/hotshotsbeachbabes-tablet.3gp/hotshotsbeachbabes-tablet.3gp-mr647k.m3u8?trackingid=4591590000&os=desktop
+player=default
+#
+type=video
+name=Red Light Central UK
+thumb=http://www.frocus.net/images/logotv/original/Red-Light-Central-TV.jpg
+URL=http://46.249.213.87/iPhone/broadcast/redlight-1-tablet.3gp/redlight-1-tablet.3gp-mr648k.m3u8?trackingid=3281410000&os=desktop
+player=default
+#
+type=video
+name=Red Light Central 2 UK
+thumb=http://www.frocus.net/images/logotv/original/Red-Light-Central-TV.jpg
+URL=http://46.249.213.87/iPhone/broadcast/redlight-2-tablet.3gp/redlight-2-tablet.3gp-mr648k.m3u8?trackingid=3281410000&os=desktop
+player=default
+#
+type=video
+name=Red Light Central 3 UK
+thumb=http://www.frocus.net/images/logotv/original/Red-Light-Central-TV.jpg
+URL=http://46.249.213.87/iPhone/broadcast/redlight-3-tablet.3gp/redlight-3-tablet.3gp-mr648k.m3u8?trackingid=3281410000&os=desktop
+player=default
+#
+#
+type=video
+name=You Diva Brazil
+thumb=http://564ccca6a641eac6e5b0-38e3bbf162f44470d3635a7244f7971b.r55.cf3.rackcdn.com/you-diva-channel-images-logo-large.jpg?1360339413
+URL=http://46.249.213.87/iPhone/broadcast/youdiva-iphone.3gp/youdiva-iphone.3gp-mr413k.m3u8
+player=default
+#
+type=video
+name=You Diva Lite Brazil
+thumb=http://564ccca6a641eac6e5b0-38e3bbf162f44470d3635a7244f7971b.r55.cf3.rackcdn.com/you-diva-channel-images-logo-large.jpg?1360339413
+URL=http://46.249.213.93/iPhone/broadcast/youdivalite-tablet.3gp/youdivalite-tablet.3gp-mr647k.m3u8?trackingid=3341430000&os=desktop
+player=default
+#
+type=video
+name=Playboy TV (censored)
+thumb=http://www.abload.de/img/playboytv73j9g.png
+URL=rtmp://111.118.21.77:1935/ptv3/
+playpath=phd499
+#
+type=video
+name=Penthouse HD (censored)
+thumb=http://s6.postimg.org/uzvhh9ovl/penthouse_hd.png
+URL=rtmp://lm04.everyon.tv:1935/ptv4/
+playpath=phd927
+#
+type=video
+name=HONEY HD (censored)
+thumb=
+URL=rtmp://lm04.everyon.tv:1935/ptv4/
+playpath=phd928
+#
+type=video
+name=SpiceTV HD (censored)
+thumb=http://s6.postimg.org/p41jtv9kd/Canal_Spice_TV_en_vivo.jpg
+URL=rtmp://lm03.everyon.tv:1935/ptv3/
+playpath=phd497
+#
+type=video
+name=ButGo (censored)
+thumb=http://s6.postimg.org/nq9wykab5/butgo_tv.jpg
+URL=rtmp://lm01.everyon.tv/ptv/
+playpath=phd772
+#
+type=video
+name=GirlsTV (censored)
+thumb=
+URL=rtmp://lm01.everyon.tv/ptv/
+playpath=phd501
+#
+type=video
+name=Midnight (censored)
+thumb=
+URL=rtmp://111.118.21.75:1935/ptv2/phd766
+playpath=phd766
+#
+type=video
+name=Okadai (censored)
+thumb=
+URL=rtmp://111.118.21.77:1935/ptv3/
+playpath=phd61
+#
+type=video
+name=Playy 19+ (censored)
+thumb=
+URL=rtmp://lm03.everyon.tv/ptv3/
+playpath=phd769
+#
+type=video
+name=Read On (censored)
+thumb=
+URL=rtmp://lm02.everyon.tv:1935/ptv2/
+playpath=phd60
+#
+type=video
+name=J HotGirl TV (censored)
+thumb=
+URL=rtmp://lm02.everyon.tv:1935/ptv2/
+playpath=phd59
+#
+type=video
+name=The O (censored)
+thumb=
+URL=rtmp://lm03.everyon.tv/ptv3/
+playpath=phd771
