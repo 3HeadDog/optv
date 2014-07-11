@@ -35,10 +35,6 @@ https://raw.githubusercontent.com/3HeadDog/optv/master/Live%20TV
 	<thumbnail>http://opensatuk.com/Banners/Movies.jpg</thumbnail>
 	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Movie</link>
 	
-	<name>[COLOR skyblue][B]HD Movies[/B][/COLOR]</name>
-	<thumbnail>http://opensatuk.com/Banners/Movies.jpg</thumbnail>
-	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/HD%20Movies</link>
-	
 	<name>[COLOR red][B]Kids Movies & Shows[/B][/COLOR]</name>
 	<thumbnail>http://opensatuk.com/Banners/4kids-logo.jpg</thumbnail>
 	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Childrens</link>
