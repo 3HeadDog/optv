@@ -7,7 +7,7 @@ description=[COLOR=FFFFFF00]New TV Shows[/COLOR]/description
 /description
 
 <info>
-<message>[COLOR red]**[/COLOR] [COLOR aqua]If you find a none working channel please let us know...On Twitter @opensatuk [/COLOR] [COLOR red]**[/COLOR]</message>
+<message>[COLOR red]**[/COLOR] [COLOR aqua]New Shows will be add Here for 1 Month [/COLOR] [COLOR red]**[/COLOR]</message>
 <thumbnail></thumbnail>
 </info>
 
@@ -46,11 +46,17 @@ URL=https://raw.githubusercontent.com/3HeadDog/optv/master/Orange-is-The-New-Bla
 player=default
 rating=-1.00
 
+type=playlist
+name=Knight Rider
+thumb=http://3.bp.blogspot.com/-II9bZBMHxQs/UcxsLdRhnxI/AAAAAAAAAYc/mV533Z27nmI/s320/knight-rider-02.jpg
+URL=https://raw.githubusercontent.com/3HeadDog/optv/master/Knight%20Rider
+player=default
+rating=-1.00
 
 type=playlist
-name=
-thumb=
-URL=
+name=Game of Thrones
+thumb=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQosdwNeRSPf6xil1ZaPJB4brlUFDbs5EuQlhra_6bRjdApU-Sh3tvopqiI
+URL=https://raw.githubusercontent.com/3HeadDog/optv/master/Game%20of%20Thrones
 player=default
 rating=-1.00
 
