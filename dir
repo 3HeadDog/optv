@@ -19,9 +19,9 @@ https://raw.githubusercontent.com/3HeadDog/optv/master/Live%20TV
 
 <directories>
 
-	<name>[COLOR darkorange][B][/B][/COLOR]</name>
-	<thumbnail>http://opensatuk.com/Banners/livetv.jpg</thumbnail>
-	<link></link>
+	<name>[COLOR darkorange][B]Stand up Comedy[/B][/COLOR]</name>
+	<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBWS9eB5PD__GR-ShO4BMlevAdypDxqg2qmcYok8DXbSYZr2LI7Q</thumbnail>
+	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Live%20Stand%20up%20Comedy</link>
 	
 	<name>[COLOR yellow]Sports[/COLOR]</name>
 	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/Sport</link>
