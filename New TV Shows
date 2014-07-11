@@ -33,16 +33,16 @@ player=default
 rating=-1.00
 
 type=playlist
-name=
-thumb=
-URL=
+name=9-11 Conspiracy
+thumb=http://www.chuckbauer.com/media/2001/09/We_will_never_forget.jpg
+URL=https://raw.githubusercontent.com/3HeadDog/optv/master/9-11
 player=default
 rating=-1.00
 
 type=playlist
-name=
-thumb=
-URL=
+name=Orange is The New Black (Season 1 & 2)
+thumb=http://msmagazine.com/blog/wp-content/uploads/2013/07/2521756.jpg
+URL=https://raw.githubusercontent.com/3HeadDog/optv/master/Orange-is-The-New-Black
 player=default
 rating=-1.00
 
