@@ -1,346 +1,533 @@
-version=1
-background=http://www.davidhasselhoffonline.com/gallery/albums/userpics/10001/DesktopWallpaper1024x768KR1.jpg
-title=Knight Rider
-logo=http://upload.wikimedia.org/wikipedia/en/3/31/Knightlogo.png
-description= Michael Long, an undercover police officer, is shot while investigating a case and left for dead by his assailants. He is rescued by Wilton Knight, a wealthy, dying millionaire and inventor who arranges life-saving surgery, including a new face and a new identity--that of Michael Knight. Michael is then given a special computerized and indestructible Trans-Am car called the Knight 2000 (nicknamed Kitt), and a mission: apprehend criminals that are beyond the reach of the law. The series depicts Michael's exploits as he and Kitt battle the forces of evil on behalf of the Foundation for Law and Government./description
+<poster>Knight Rider</poster>
+<fanart>http://www.davidhasselhoffonline.com/gallery/albums/userpics/10001/DesktopWallpaper1024x768KR1.jpg</fanart>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/3/31/Knightlogo.png</thumbnail>
+ 
+<info>
+<message>[COLOR aqua]KNIGHT RIDER[/COLOR]</message>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/3/31/Knightlogo.png</thumbnail>
+</info>
+ 
+<info>
+<message>[COLOR white]* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *[/COLOR]</message>
+<thumbnail>dummy</thumbnail>
+</info>
 
+<item>
+<title>[B][COLOR ffff9900][COLOR lime](1x01&02)[/COLOR]  Knight Of The Phoenix[/COLOR][/B]</title>
+<link>http://gorillavid.in/28o1bbxxl979</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2208277
-type=video
-name=S1E01-02 Knight of the Phoenix
-URL=http://megarelease.org/kv469z3tuwo4
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR lime](1x03)[/COLOR]  Deadly Manurers[/COLOR][/B]</title>
+<link>http://gorillavid.in/tdvuecogktu0</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2208278
-type=video
-name=S1E03 Deadly Maneuvers
-URL=http://megarelease.org/3smov9t8cmsa
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR lime](1x04)[/COLOR]  Good Day At White Rock[/COLOR][/B]</title>
+<link>http://gorillavid.in/k4nv1s55u48j</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2208279
-type=video
-name=S1E04 Good Day at White Rock
-URL=http://megarelease.org/0ykdos09g6ul
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR lime](1x05)[/COLOR]  Slammin Sammys Stuntshow Spectacular[/COLOR][/B]</title>
+<link>http://gorillavid.in/1hker5d5h4xs</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2208280
-type=video
-name=S1E05 Slammin' Sammy's Stunt Show Spectacular
-URL=http://megarelease.org/e0ap0cbco3u0
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR lime](1x06)[/COLOR]  Just My BIll[/COLOR][/B]</title>
+<link>http://gorillavid.in/zrj8l2c1rxfo</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2208281
-type=video
-name=S1E06 Just My Bill
-URL=http://megarelease.org/trrb32r2gsov
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR lime](1x07)[/COLOR]  Not A Drop To Drink[/COLOR][/B]</title>
+<link>http://gorillavid.in/8p4fk74bwhto</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2208282
-type=video
-name=S1E07 Not a Drop To Drink
-thumb=http://thetvdb.com/banners/episodes/77216/233997.jpg
-URL=http://megarelease.org/1dcscmdu8k5g
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR lime](1x08)[/COLOR]  No Big Thing[/COLOR][/B]</title>
+<link>http://gorillavid.in/07zoto4qqx59</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2208283
-type=video
-name=S1E08 No Big Thing
-URL=http://megarelease.org/tbxclnxuboqy
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR lime](1x09)[/COLOR]  Trust Doesn't Rust[/COLOR][/B]</title>
+<link>http://gorillavid.in/m1fgrbimzq95</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2208285
-type=video
-name=S1E09 Trust Doesn't Rust
-URL=http://megarelease.org/012fe4qkj8ww
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR lime](1x10)[/COLOR]  Inside Out[/COLOR][/B]</title>
+<link>http://gorillavid.in/fppwj4t8zrr9</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2208291
-type=video
-name=S1E10 Inside Out
-thumb=http://thetvdb.com/banners/episodes/77216/234000.jpg
-URL=http://megarelease.org/yc3xdth243fw
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR lime](1x11)[/COLOR]  The Final Verdict[/COLOR][/B]</title>
+<link>http://gorillavid.in/w2zqujci0aul</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2208292
-type=video
-name=S1E11 The Final Verdict
-URL=http://megarelease.org/akoopp6ktbjl
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR lime](1x12)[/COLOR]  A Plush Ride[/COLOR][/B]</title>
+<link>http://gorillavid.in/k1cdz4pgyq4x</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2208293
-type=video
-name=S1E12 A Plush Ride
-URL=http://megarelease.org/t5noqyenm45o
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR lime](1x13)[/COLOR]  Forget Me Not[/COLOR][/B]</title>
+<link>http://gorillavid.in/v7s9srtcf2su</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2208294
-type=video
-name=S1E13 Forget Me Not
-URL=http://megarelease.org/yolh58s9xl2a
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR lime](1x14)[/COLOR]  Hearts Of Stone[/COLOR][/B]</title>
+<link>http://gorillavid.in/0txd5ktowlhs</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2208295
-type=video
-name=S1E14 Hearts of Stone
-URL=http://megarelease.org/9553runkx0fd
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR lime](1x15)[/COLOR]  Give Me Liberty....Or Give Me Death[/COLOR][/B]</title>
+<link>http://gorillavid.in/mj9mhvih650t</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2208296
-type=video
-name=S1E15 Give Me Liberty....Or Give Me Death
-URL=http://megarelease.org/l4b0488czdv5
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR lime](1x16)[/COLOR]  The Topaz Connection[/COLOR][/B]</title>
+<link>http://gorillavid.in/vybt21qlpeol</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2208297
-type=video
-name=S1E16 The Topaz Connection
-URL=http://megarelease.org/ldcpyxo16gec
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR lime](1x17)[/COLOR]  A Nice Indecent Town[/COLOR][/B]</title>
+<link>http://gorillavid.in/pc5hvw0wvjzc</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2208298
-type=video
-name=S1E17 A Nice, Indecent Little Town
-URL=http://megarelease.org/v0azxm5pi619
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR lime](1x18)[/COLOR]  Chariot Of Gold[/COLOR][/B]</title>
+<link>http://gorillavid.in/zbiiuwc66af5</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2208299
-type=video
-name=S1E18 Chariot of Gold
-URL=http://megarelease.org/5bfdg8ucyzkg
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR lime](1x19)[/COLOR]  White Bird[/COLOR][/B]</title>
+<link>http://gorillavid.in/iz44m83vugjt</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2208300
-type=video
-name=S1E19 White Bird
-URL=http://megarelease.org/1p5ue1wrfvie
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR lime](1x20)[/COLOR]  Knight Moves[/COLOR][/B]</title>
+<link>http://gorillavid.in/4vcgpkoabmss</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2208301
-type=video
-name=S1E20 Knight Moves
-URL=http://megarelease.org/5x6m57l0g36i
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR lime](1x21)[/COLOR]  Nobody Does It Better[/COLOR][/B]</title>
+<link>http://gorillavid.in/36oj1oit8gsq</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2210632
-type=video
-name=S1E21 Nobody Does it Better
-URL=http://megarelease.org/9na8uc152omf
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR lime](1x22)[/COLOR]  Short Notice[/COLOR][/B]</title>
+<link>http://gorillavid.in/mtnieg2thbnc</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2210633
-type=video
-name=S1E22 Short Notice
-URL=http://megarelease.org/8bjxkm9hwkwk
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<info>
+<message>[COLOR white]* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *[/COLOR]</message>
+<thumbnail>dummy</thumbnail>
+</info>
 
-# 2213125
-type=video
-name=S2E01-02 Goliath parts 1&2
-URL=http://megarelease.org/sjdafqq48vad
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR aqua](2x01&02)[/COLOR]  Goliath[/COLOR][/B]</title>
+<link>http://gorillavid.in/7mip629ul2z1</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2213126
-type=video
-name=Knight Rider S2E03 Brothers keeper
-URL=http://megarelease.org/3q8opu7gkc9c
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR aqua](2x03)[/COLOR]  Brother's Keeper's[/COLOR][/B]</title>
+<link>http://gorillavid.in/f00y8csl3yjt</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2213127
-type=video
-name=Knight Rider S204 Merchants of Death
-URL=http://megarelease.org/of74h3dszt8g
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR aqua](2x04)[/COLOR]  Merchants Of Death[/COLOR][/B]</title>
+<link>http://gorillavid.in/141kdk6kbr5w</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2213128
-type=video
-name=Knight Rider S2E5 Blind Spot
-URL=http://megarelease.org/u2tjos48dsly
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR aqua](2x05)[/COLOR]  Blind Spot[/COLOR][/B]</title>
+<link>http://gorillavid.in/8usdzwqfs7t6</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2213129
-type=video
-name=Knight Rider S2E6 Return to Cadiz
-URL=http://megarelease.org/a647qa236dyf
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR aqua](2x06)[/COLOR]  Return To Cadiz[/COLOR][/B]</title>
+<link>http://gorillavid.in/4zvqhxnhprtu</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2213130
-type=video
-name=Knight Rider S2E07 KITT the Cat
-URL=http://megarelease.org/eoldwnwz5qy6
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR aqua](2x07)[/COLOR]  K.I.T.T The Cat[/COLOR][/B]</title>
+<link>http://gorillavid.in/wyzlt69pa3y2</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2213131
-type=video
-name=Knight Rider S2E08 Custom KITT
-URL=http://megarelease.org/244rjwqvaztz
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR aqua](2x08)[/COLOR]  Custom K.I.T.T[/COLOR][/B]</title>
+<link>http://gorillavid.in/ws9hbqm1iyu1</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2213132
-type=video
-name=Knight Rider S2E09 Soul Survivor
-URL=http://megarelease.org/j68fze18v2f9
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR aqua](2x09)[/COLOR]  Soul Survivor[/COLOR][/B]</title>
+<link>http://gorillavid.in/brv024gjxdf6</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2213133
-type=video
-name=Knight Rider S2E10 Ring of Fire
-URL=http://megarelease.org/1givretr60z4
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR aqua](2x10)[/COLOR]  Ring Of Fire[/COLOR][/B]</title>
+<link>http://gorillavid.in/6a02520a35va</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2213136
-type=video
-name=Knight Rider S2E11 Knightriders
-URL=http://megarelease.org/4oznw8ng6pne
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR aqua](2x11)[/COLOR]  Knightmares[/COLOR][/B]</title>
+<link>http://gorillavid.in/ob33jp7dvo1x</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2213137
-type=video
-name=Knight Rider S2E12 Silent Knight
-URL=http://megarelease.org/l98q7jqmwbqt
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR aqua](2x12)[/COLOR]  Silent Knight[/COLOR][/B]</title>
+<link>http://gorillavid.in/gr2oa2qockif</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2213138
-type=video
-name=Knight Rider S2E13 A Knight in Shining Armor
-URL=http://megarelease.org/r46gxsin2t5c
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR aqua](2x13)[/COLOR]  A Knight In Shining Armour[/COLOR][/B]</title>
+<link>http://gorillavid.in/fa6vdr9i9s85</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2213139
-type=video
-name=Knight Rider S2E14 Diamonds Arent a Girls Best Friend
-URL=http://megarelease.org/u4p8v4l1y5e5
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR aqua](2x14)[/COLOR]  Diamonds Arent A Girls Best Firend[/COLOR][/B]</title>
+<link>http://gorillavid.in/og2sb3kv6phn</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2213140
-type=video
-name=Knight Rider S2E15 White line Warriors
-URL=http://megarelease.org/3gjekdp709jh
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR aqua](2x15)[/COLOR]  White Line Warriors[/COLOR][/B]</title>
+<link>http://gorillavid.in/mpca2w5svfds</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2213141
-type=video
-name=Knight Rider S2E16 Race for Life
-URL=http://megarelease.org/zo38txbo7a2h
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR aqua](2x16)[/COLOR]  Race For Life[/COLOR][/B]</title>
+<link>http://gorillavid.in/3u33l678dd87</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2213142
-type=video
-name=Knight Rider S2E17 Speed Demons
-URL=http://megarelease.org/tdecx1hoyfdl
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR aqua](2x17)[/COLOR]  Speed Demons[/COLOR][/B]</title>
+<link>http://gorillavid.in/45q48m0lqu3b</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2213143
-type=video
-name=Knight Rider S2E18-19 Goliath Returns Part 1&2
-URL=http://megarelease.org/cgvt3w8eavly
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR aqua](2x18&19)[/COLOR]  Goliath Returns[/COLOR][/B]</title>
+<link>http://gorillavid.in/gg96f408vqnk</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2213144
-type=video
-name=Knight Rider S2E20 A Good Knights Work
-URL=http://megarelease.org/bwcury8huolo
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR aqua](2x20)[/COLOR]  A Good Knights Work[/COLOR][/B]</title>
+<link>http://gorillavid.in/qh9hiuxfx5v4</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2213145
-type=video
-name=Knight Rider S2E21-22 Mouth of the Snake part 1&2
-URL=http://megarelease.org/grdnrh90aksl
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR aqua](2x21&22)[/COLOR]  A Mouth Of The Snake[/COLOR][/B]</title>
+<link>http://gorillavid.in/29oyb2e9z4fz</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2213146
-type=video
-name=Knight Rider S2E23 Let it Be Me
-URL=http://megarelease.org/26h50ayll6r0
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR aqua](2x23)[/COLOR]  Let It Be Me[/COLOR][/B]</title>
+<link>http://gorillavid.in/7zc57lzgkozu</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
-# 2213147
-type=video
-name=Knight Rider S2E24 Big Iron
-URL=http://megarelease.org/yfdsp06rfd0y
-processor=http://www.navixtreme.com/wlfwood/processors/megarelease_org.txt
-player=default
-rating=-1.00
+<item>
+<title>[B][COLOR ffff9900][COLOR aqua](2x24)[/COLOR]  Big Iron[/COLOR][/B]</title>
+<link>http://gorillavid.in/94nwgc13dfuw</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 
+<info>
+<message>[COLOR white]* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *[/COLOR]</message>
+<thumbnail>dummy</thumbnail>
+</info>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR white](3x01&02)[/COLOR]  Knight Of The Drones[/COLOR][/B]</title>
+<link>http://gorillavid.in/u2xa1c6k4vzt</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR white](3x03)[/COLOR]  The Ice Bandits[/COLOR][/B]</title>
+<link>http://gorillavid.in/sim90uwx92z0</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR white](3x04)[/COLOR]  Knights Of The Fast Lane[/COLOR][/B]</title>
+<link>http://gorillavid.in/unu1eqtrqgwo</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR white](3x05)[/COLOR]  Halloween Knight[/COLOR][/B]</title>
+<link>http://gorillavid.in/hn89a2ydgdpk</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR white](3x06)[/COLOR]  K.I.T.T The C.A.R.R[/COLOR][/B]</title>
+<link>http://gorillavid.in/fppfef1d3ywg</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR white](3x07)[/COLOR]  The Rotten Apples[/COLOR][/B]</title>
+<link>http://gorillavid.in/3d4fp7byy3rr</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR white](3x08)[/COLOR]  Knight In Disagrace[/COLOR][/B]</title>
+<link>http://gorillavid.in/8r3fw56vvniv</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR white](3x09)[/COLOR]  Dead Of Knight[/COLOR][/B]</title>
+<link>http://gorillavid.in/vdbmywkbckqo</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR white](3x10)[/COLOR]  Lost Knight[/COLOR][/B]</title>
+<link>http://gorillavid.in/mqe57wcruhp3</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR white](3x11)[/COLOR]  Knight Of The Chameleon[/COLOR][/B]</title>
+<link>http://gorillavid.in/l64v4qinadbj</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR white](3x12)[/COLOR]  Custom Made Killer[/COLOR][/B]</title>
+<link>http://gorillavid.in/b1qgagfflzic</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR white](3x13)[/COLOR]  Knight By A Rose[/COLOR][/B]</title>
+<link>http://gorillavid.in/sx9dls7315p0</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR white](3x14)[/COLOR]  Junk Yard Dog[/COLOR][/B]</title>
+<link>http://gorillavid.in/6sv5i5d78dzo</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR white](3x15)[/COLOR]  Buy Out[/COLOR][/B]</title>
+<link>http://gorillavid.in/4atzk5400t09</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR white](3x16)[/COLOR]  Knightlines[/COLOR][/B]</title>
+<link>http://gorillavid.in/wat4qogbvnn1</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR white](3x17)[/COLOR]  The Nineteenth Hole[/COLOR][/B]</title>
+<link>http://gorillavid.in/r49qagpxqskz</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR white](3x18)[/COLOR]  Knight And The Knerd[/COLOR][/B]</title>
+<link>http://gorillavid.in/p5pmqewsdsl6</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR white](3x19)[/COLOR]  Ten Wheel Trouble[/COLOR][/B]</title>
+<link>http://gorillavid.in/1c1r8js354c7</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR white](3x20)[/COLOR]  Knight In Retreat[/COLOR][/B]</title>
+<link>http://gorillavid.in/vabm1jiiibqf</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR white](3x21)[/COLOR]  Knight Strike[/COLOR][/B]</title>
+<link>http://gorillavid.in/nr4kmkh1ytrq</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR white](3x22)[/COLOR]  Circus Knights[/COLOR][/B]</title>
+<link>http://gorillavid.in/blubufbwse7m</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<info>
+<message>[COLOR white]* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *[/COLOR]</message>
+<thumbnail>dummy</thumbnail>
+</info>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR magenta](4x01&02)[/COLOR]  Knight Of The Juggernaut[/COLOR][/B]</title>
+<link>http://gorillavid.in/r1fwjzja5fl7</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR magenta](4x03)[/COLOR]  K.I.T.T Napp[/COLOR][/B]</title>
+<link>http://gorillavid.in/hb4ayfykmqgy</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR magenta](4x04)[/COLOR]  Sky Knight[/COLOR][/B]</title>
+<link>http://gorillavid.in/ijclfkr8kibc</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR magenta](4x05)[/COLOR]  Burial Ground[/COLOR][/B]</title>
+<link>http://gorillavid.in/by7g6pj5zp34</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR magenta](4x06)[/COLOR]  The Wrong Crowd[/COLOR][/B]</title>
+<link>http://gorillavid.in/wbbz01fzzirn</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR magenta](4x07)[/COLOR]  Knight Sting[/COLOR][/B]</title>
+<link>http://gorillavid.in/rzljihanlggc</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR magenta](4x08)[/COLOR]  Many Happy Returns[/COLOR][/B]</title>
+<link>http://gorillavid.in/dhbd41see2af</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR magenta](4x09)[/COLOR]  Knight Racer[/COLOR][/B]</title>
+<link>http://gorillavid.in/o5p9tgkr9pha</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR magenta](4x10)[/COLOR]  Knight Behind Bars[/COLOR][/B]</title>
+<link>http://gorillavid.in/miqcbgs8eu7g</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR magenta](4x11)[/COLOR]  Knight Songs[/COLOR][/B]</title>
+<link>http://gorillavid.in/6condh8uoaiu</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR magenta](4x12)[/COLOR]  The Scent Of Roses[/COLOR][/B]</title>
+<link>http://gorillavid.in/4gs2ysf2nsto</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR magenta](4x13)[/COLOR]  Killer K.I.T.T[/COLOR][/B]</title>
+<link>http://gorillavid.in/6tnlfmwpl6nm</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR magenta](4x14)[/COLOR]  Out Of The Woods[/COLOR][/B]</title>
+<link>http://gorillavid.in/4zbsf9812z1y</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR magenta](4x15)[/COLOR]  Deadly Knightshade[/COLOR][/B]</title>
+<link>http://gorillavid.in/vsm828ghc2ph</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR magenta](4x16)[/COLOR]  Redemption Of A Champion[/COLOR][/B]</title>
+<link>http://gorillavid.in/t9tfwcmk1tbe</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR magenta](4x17)[/COLOR]  Knight Of A Thousand Devils[/COLOR][/B]</title>
+<link>http://gorillavid.in/toysqoo1q0qb</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR magenta](4x18)[/COLOR]  Hills Of Fire[/COLOR][/B]</title>
+<link>http://gorillavid.in/1zm6lcd10dt8</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR magenta](4x19)[/COLOR]  Knight Flight To Freedom[/COLOR][/B]</title>
+<link>http://gorillavid.in/fbpmnn2pa2fl</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR magenta](4x20)[/COLOR]  Fright Knight[/COLOR][/B]</title>
+<link>http://gorillavid.in/mhe8ndxxqtro</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR magenta](4x21)[/COLOR]  Knight Of The Rising Sun[/COLOR][/B]</title>
+<link>http://gorillavid.in/aei012w81kn9</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR ffff9900][COLOR magenta](4x22)[/COLOR]  Voodoo Knight[/COLOR][/B]</title>
+<link>http://www.firedrive.com/file/6AA5C5887A97FDF3</link>
+<thumbnail>http://thetvdb.com/banners/posters/77216-4.jpg</thumbnail>
+</item>
 # cached
